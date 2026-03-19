@@ -1,0 +1,17 @@
+大模型训练平台研发工程师全职
+上海、北京
+程序&技术类
+工作职责
+1. 主导 基于 Kubernetes 的大规模训练作业调度系统 设计，支持千卡 GPU 集群的弹性伸缩、拓扑感知、容错恢复；
+2. 深度优化训练资源利用率：实现 Gang Scheduling、Bin Packing、抢占式调度、Spot 实例混部；
+3. 构建高性能训练网络栈：优化 RDMA/RoCE v2 配置，调优 NCCL 通信参数，解决 AllReduce 瓶颈；
+4. 集成并扩展主流训练框架（DeepSpeed, Megatron-LM, FSDP, JAX）与 通信库（NCCL, Gloo）；
+5. 设计训练任务可观测体系：监控 GPU 利用率、通信带宽、显存碎片、Loss 异常等关键指标；
+6. 探索新型硬件协同优化：NVIDIA NIC（如 ConnectX-7）、GPU Direct RDMA（GDR）、NVLink 拓扑感知调度；
+任职要求
+1. 5 年以上 Kubernetes 深度使用或二次开发经验，熟悉 Scheduler Framework、CRD、Operator；
+2. 有 大规模 GPU 集群（≥100 卡）调度系统 实战经验，熟悉 Volcano / Kueue / YuniKorn 等批处理调度器；
+3. 了解分布式训练通信原理，有 NCCL 调优、RDMA 故障排查、AllReduce 性能分析经验优先；
+4. 参与过企业级机器学习平台（如 Kubeflow, Metaflow, SageMaker, PAI）核心模块开发；
+5. 熟悉主流训练框架：DeepSpeed（ZeRO, Offload）、Megatron-LM（Tensor/Pipeline Parallel）、PyTorch FSDP；
+6. 了解高性能网络硬件：NVIDIA ConnectX 系列 NIC、InfiniBand vs RoCE、GPUDirect 技术；
