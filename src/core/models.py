@@ -13,6 +13,7 @@ class Skill:
     name: str                              # 归一化后的技能名称
     proficiency: Optional[str] = None      # 熟练度: 了解/熟悉/熟练/精通 等
     category: Optional[str] = None         # 技能分类: 编程语言/框架/数据库/工具 等
+    parent: Optional[str] = None           # 父技能名称（如 Docker Swarm → Docker）
 
     def to_dict(self) -> dict:
         return {k: v for k, v in asdict(self).items() if v is not None}
