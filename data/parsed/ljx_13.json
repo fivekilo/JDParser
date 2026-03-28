@@ -1,0 +1,166 @@
+{
+  "source_file": "ljx_13.txt",
+  "job_title": "SRE运维开发工程师",
+  "location": "北京",
+  "education": "本科",
+  "experience": "2年以上",
+  "employment_type": "全职",
+  "job_category": "运维",
+  "responsibilities": [
+    "保障核心业务系统7×24小时稳定运行",
+    "设计与开发自动化运维平台、监控系统、故障自愈工具",
+    "负责容量规划、性能优化、故障排查与根因分析",
+    "推动CI/CD、混沌工程、可观测性体系建设",
+    "探索AIOps、大模型在运维领域的应用，提升运维效率"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟练",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟练",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Prometheus",
+      "proficiency": "熟练",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Grafana",
+      "proficiency": "熟练",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "故障排查",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "问题分析与解决能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "混沌工程",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "故障注入",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "容量评估",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "压测技术",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "AIOps",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "大模型",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "智能告警",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "根因分析",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "AWS",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "Azure",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "阿里云",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "自动化运维平台",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "监控系统",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "故障自愈工具",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "数据驱动运维",
+      "proficiency": "不限",
+      "category": "数据处理"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机相关专业，2年以上SRE/运维开发经验；",
+    "熟练掌握Go/Python/Shell等至少一门语言，熟悉Linux操作系统原理；",
+    "熟练使用Docker、K8s、Prometheus、Grafana等云原生工具；",
+    "具备分布式系统、微服务架构运维与故障排查能力；",
+    "良好的问题分析与解决能力，能快速定位并处理线上故障。有一定了解的：",
+    "混沌工程、故障注入、容量评估与压测技术；",
+    "AIOps、大模型运维、智能告警与根因分析；",
+    "云平台（AWS/Azure/阿里云）运维经验。"
+  ]
+}

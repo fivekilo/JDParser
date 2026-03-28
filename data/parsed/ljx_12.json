@@ -1,0 +1,161 @@
+{
+  "source_file": "ljx_12.txt",
+  "job_title": "后端开发工程师",
+  "location": "北京、上海",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "后端开发",
+  "responsibilities": [
+    "负责核心产品（短视频、直播、电商）后端系统设计与开发",
+    "参与高并发场景下的架构设计，保障系统稳定性和高性能",
+    "负责内容推荐、用户增长、支付交易等核心服务的开发与优化",
+    "推动微服务架构改造，提升系统可维护性和研发效率",
+    "参与大模型应用、内容理解等AI技术的工程化落地"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "高并发系统开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Git",
+      "proficiency": "熟练",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "不限",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "不限",
+      "category": "缓存"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "不限",
+      "category": "消息队列"
+    },
+    {
+      "name": "问题分析能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "线上问题定位",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "分布式存储",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "容器化",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "特征工程",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "模型服务化",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "短视频业务逻辑",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "直播业务逻辑",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "电商业务逻辑",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "推荐系统",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "内容理解",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "开源项目贡献",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术博客写作",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、软件工程等相关专业；",
+    "熟练掌握Go/Java/C++等至少一门后端语言，有高并发系统开发经验；",
+    "熟悉Linux操作系统，熟练使用Shell、Git等工具；",
+    "掌握MySQL、Redis、Kafka等常用组件原理与应用；",
+    "具备良好的问题分析和解决能力，能快速定位线上问题。有一定了解的：",
+    "分布式存储、容器化、K8s编排技术；",
+    "机器学习基础，了解特征工程、模型服务化流程；",
+    "短视频/直播/电商业务逻辑。"
+  ]
+}

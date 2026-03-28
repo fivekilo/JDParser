@@ -1,0 +1,146 @@
+{
+  "source_file": "ljx_15.txt",
+  "job_title": "前端开发工程师",
+  "location": "上海",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "负责小红书核心产品（笔记、分享、电商、直播）前端开发",
+    "参与前端架构设计与优化，推进组件库、工程化体系建设",
+    "优化页面性能，解决首屏加载、渲染流畅度、交互响应等问题",
+    "与后端、产品、UED团队协作，完成产品功能开发与迭代",
+    "参与前端新技术预研，推动技术栈升级与创新落地"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Vite",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "前端模块化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "前端工程化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "浏览器缓存机制",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "跨域处理",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "TypeScript",
+      "proficiency": "了解",
+      "category": "编程语言"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "移动端H5开发",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "响应式设计",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "数据可视化",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "ECharts",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "D3.js",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "视频流处理",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "前端性能优化",
+      "proficiency": "精通",
+      "category": "通用技能"
+    },
+    {
+      "name": "安全防护",
+      "proficiency": "精通",
+      "category": "网络"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、软件工程等相关专业；",
+    "熟练掌握HTML5、CSS3、JavaScript（ES6+）前端基础；",
+    "熟悉React或Vue等主流前端框架，有实际项目经验；",
+    "掌握Webpack、Vite等构建工具，理解前端模块化与工程化；",
+    "熟悉HTTP协议、浏览器缓存机制、跨域处理等前端基础知识。有一定了解的：",
+    "TypeScript、Node.js全栈开发能力；",
+    "移动端H5开发、响应式设计方案；",
+    "数据可视化（ECharts、D3.js）或视频流处理技术。"
+  ]
+}

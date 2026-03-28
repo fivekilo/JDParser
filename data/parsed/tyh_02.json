@@ -1,0 +1,208 @@
+{
+  "source_file": "tyh_02.txt",
+  "job_title": "推荐算法工程师-抖音-筋斗云人才计划（北京/上海/杭州/深圳）",
+  "location": "深圳",
+  "education": "博士",
+  "experience": "不限",
+  "job_category": "AI/机器学习",
+  "responsibilities": [
+    "负责抖音APP的推荐算法、内容算法、对话算法及大数据相关工作",
+    "对接短视频、直播、图文、电商、社交、生态、投稿、消息、同城、生活服务、音乐、评论、内容理解与安全、智能对话等业务场景",
+    "进行大规模推荐算法优化与复杂约束优化问题求解",
+    "开展内容理解、LLM应用、CV、NLP等方向的算法改进工作",
+    "设计和实现多场景推荐架构",
+    "对产品数据进行复杂深入分析",
+    "构建社交网络增强的跨域兴趣建模方案，融合社交关系、内容互动与电商行为",
+    "研究兴趣迁移与转化信号捕捉，构建隐式映射网络并动态调控探索与利用",
+    "优化多模态小样本冷启动问题，设计元学习框架实现联合表征",
+    "进行多目标融合与长短期价值平衡建模，提升实时推荐效率",
+    "通过用户兴趣画像建模与强化学习技术缓解兴趣密集问题并支持兴趣探索"
+  ],
+  "required_skills": [
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟练",
+      "category": "通用技能"
+    },
+    {
+      "name": "基础算法",
+      "proficiency": "熟练",
+      "category": "通用技能"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "扎实",
+      "category": "机器学习"
+    },
+    {
+      "name": "图神经网络",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "多模态内容理解",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "小样本学习",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "元学习",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "多目标推荐系统",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "端到端深度学习",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "对比学习",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "对抗生成技术",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "Few-shot Learning",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "推荐系统",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "内容理解",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "计算机视觉",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "代码能力",
+      "proficiency": "优秀",
+      "category": "通用技能"
+    },
+    {
+      "name": "问题分析能力",
+      "proficiency": "出色",
+      "category": "软技能"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "出色",
+      "category": "软技能"
+    },
+    {
+      "name": "自主探索能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "心理素质",
+      "proficiency": "出色",
+      "category": "软技能"
+    },
+    {
+      "name": "应变能力",
+      "proficiency": "出色",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "TPAMI论文发表",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "CVPR论文发表",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "NeurIPS论文发表",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "ICCV论文发表",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "标准提案经验",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "标准会议经验",
+      "proficiency": "不限",
+      "category": "项目管理"
+    }
+  ],
+  "raw_requirements": [
+    "获得博士学位，人工智能、计算机、数学相关专业优先；",
+    "优秀的代码能力、数据结构和基础算法功底，熟练C/C++（传统编码方向）或Python（智能编码方向）；",
+    "智能编码方向要求有扎实的机器学习基础，在TPAMI/CVPR/NeurIPS/ICCV等顶级期刊会议上发表论文者优先；",
+    "向标准组织提出过提案并参加标准会议经验的同学优先；",
+    "出色的问题分析和解决能力，有自主探索解决方案的能力；良好的沟通协作能力，能和团队一起探索新技术，推进技术进步；",
+    "出色的心理素质与应变能力，面对困难勇于迎接挑战；面对复杂局面沉着、冷静、灵活。"
+  ]
+}

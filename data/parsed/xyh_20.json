@@ -1,0 +1,260 @@
+{
+  "source_file": "xyh_20.txt",
+  "job_title": "AI Agent 研发工程师（音乐智能助手方向）",
+  "location": "杭州市",
+  "education": "本科",
+  "experience": "3-5年",
+  "department": "音乐事业部-技术中心-创新技术部-AI Agent技术组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-04",
+  "job_category": "技术-服务端开发-服务端开发",
+  "responsibilities": [
+    "负责音乐智能助手的AI Agent系统开发，包括意图识别、对话管理、任务规划等核心模块的设计与实现",
+    "开发基于大语言模型的音乐推荐对话能力，实现自然语言驱动的歌曲搜索、歌单生成、风格探索等功能",
+    "构建Agent的记忆系统，包括短期对话记忆和长期偏好记忆，实现个性化上下文理解与用户画像积累",
+    "参与情绪感知模块开发，结合用户行为数据和上下文信号进行情绪状态推断",
+    "开发Agent的工具调用能力，对接内部推荐系统、搜索服务、内容平台等，实现端到端闭环",
+    "参与Prompt Engineering设计与优化，支撑人设系统和情感化回复的生成质量",
+    "关注大模型推理延迟优化，保障短交互场景下的响应速度和用户体验",
+    "跟踪AI Agent领域最新技术进展，快速验证并推动新技术在业务中的落地"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "算法",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "后端开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "AI Agent",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "LangGraph",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "Claude Agent SDK",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "AutoGen",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "Function Calling",
+      "proficiency": "熟悉",
+      "category": "AI工具",
+      "parent": "AI Agent"
+    },
+    {
+      "name": "Tool Use",
+      "proficiency": "熟悉",
+      "category": "AI工具",
+      "parent": "AI Agent"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "category": "AI工具",
+      "parent": "AI Agent"
+    },
+    {
+      "name": "记忆管理",
+      "proficiency": "熟悉",
+      "category": "AI工具",
+      "parent": "AI Agent"
+    },
+    {
+      "name": "多轮对话上下文控制",
+      "proficiency": "熟悉",
+      "category": "AI工具",
+      "parent": "AI Agent"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "category": "缓存"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "category": "消息队列"
+    },
+    {
+      "name": "高并发服务开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "技术敏感度",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "音乐业务开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "内容推荐",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "搜索",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "对话系统",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "情感计算",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "向量数据库",
+      "proficiency": "不限",
+      "category": "数据库"
+    },
+    {
+      "name": "Milvus",
+      "proficiency": "不限",
+      "category": "数据库",
+      "parent": "向量数据库"
+    },
+    {
+      "name": "Chroma",
+      "proficiency": "不限",
+      "category": "数据库",
+      "parent": "向量数据库"
+    },
+    {
+      "name": "知识库构建",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "大模型微调",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "SFT",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "parent": "大模型微调"
+    },
+    {
+      "name": "LoRA",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "parent": "大模型微调"
+    },
+    {
+      "name": "推理优化",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "开源贡献",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术博客写作",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机科学、软件工程、人工智能等相关专业，2 年以上后端开发经验；",
+    "精通 Python 或 Java/Go 中的至少一门语言，具备扎实的数据结构、算法基础和良好的工程素养；",
+    "熟悉大语言模型（LLM）的原理与应用，有实际的 Prompt Engineering、RAG 或 Agent 开发经验；",
+    "熟悉至少一种主流 Agent 开发框架或 SDK（如 LangChain、LangGraph、Claude Agent SDK、AutoGen 等），有实际项目经验；",
+    "熟悉 Agent 核心机制，包括 Function Calling / Tool Use、ReAct、记忆管理、多轮对话上下文控制等；",
+    "熟悉常用中间件和数据库（MySQL、Redis、Kafka 等），具备高并发服务开发经验者优先；",
+    "具备较强的学习能力和技术敏感度，能快速跟进大模型和 Agent 领域的技术迭代；",
+    "良好的沟通协作能力，能与产品、算法、前端团队高效配合，推动需求从方案到上线的全流程。"
+  ]
+}

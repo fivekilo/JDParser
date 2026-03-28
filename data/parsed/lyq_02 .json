@@ -1,0 +1,201 @@
+{
+  "source_file": "lyq_02 .txt",
+  "job_title": "WEB前端开发工程师",
+  "location": "杭州、北京、上海、深圳",
+  "education": "不限",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "参与淘系/阿里云核心产品前端开发，实现跨终端（PC+Mobile）Web应用",
+    "负责前端架构设计、组件封装与工程化建设，提升研发效率与代码质量",
+    "优化前端性能（加载、渲染、执行），保障复杂页面流畅运行",
+    "与后端、产品团队协作，将需求转化为高质量前端实现",
+    "跟踪前端前沿技术，推动技术创新与业务落地"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "精通",
+      "category": "通用技能"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "精通",
+      "category": "通用技能"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "ECMAScript 6+",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟练",
+      "category": "前端框架"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟练",
+      "category": "前端框架"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "熟悉",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Vite",
+      "proficiency": "熟悉",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "npm",
+      "proficiency": "熟悉",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "模块化开发",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "跨浏览器适配",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "跨终端适配",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "兼容性问题解决",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "业务理解能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "技术方案设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Node.js",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "服务端渲染",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "前端监控",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "低代码平台",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "可视化开发",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "Canvas",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "WebGL",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "前端安全",
+      "proficiency": "了解",
+      "category": "网络"
+    },
+    {
+      "name": "性能监控",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "自动化测试工具",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "前端架构设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "组件库开发",
+      "proficiency": "不限",
+      "category": "前端框架"
+    },
+    {
+      "name": "工程化工具开发",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "开源贡献",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "全栈开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "精通HTML/CSS/JavaScript，熟悉ES6+语法与前端标准。",
+    "熟练掌握React/Vue等主流框架，具备复杂项目开发经验。",
+    "熟悉前端工程化（Webpack、Vite、npm）、模块化开发。",
+    "具备跨浏览器、跨终端适配能力，解决兼容性问题。",
+    "良好的沟通协作能力，能快速理解业务需求并转化为技术方案。有一定了解的：",
+    "Node.js开发、服务端渲染（SSR）、前端监控与性能优化。",
+    "低代码平台、可视化开发、Canvas/WebGL动效技术。",
+    "前端安全、性能监控、自动化测试工具使用。"
+  ]
+}

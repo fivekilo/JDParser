@@ -1,0 +1,138 @@
+{
+  "source_file": "xyh_07.txt",
+  "job_title": "高级it技术支持工程师",
+  "location": "上海市",
+  "education": "本科",
+  "experience": "3-5年",
+  "department": "技术保障部-信息技术中心-上海服务组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-16",
+  "job_category": "技术-技术支持-技术支持",
+  "responsibilities": [
+    "负责输出专业、优质的IT技术支持，提供高效、贴心的IT现场解决服务",
+    "现场解决计算机软硬件、投影、电视、电话、文印、视频设备、多媒体终端、移动设备等相关问题",
+    "基于ITSM、ITIL标准化流程平台，按需解决和跟踪员工IT需求事件",
+    "负责电脑资产管理、配件管理，达成资产准确率",
+    "掌握计算机基础并支持Windows、Mac操作系统相关工作",
+    "根据业务需求持续学习新的知识和技能并灵活运用",
+    "完成主管安排的其他工作"
+  ],
+  "required_skills": [
+    {
+      "name": "IT技术支持",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "IT现场支持",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "ITSM",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "ITIL",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "资产管理",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "计算机基础",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "Windows",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "macOS",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "iOS",
+      "proficiency": "熟练",
+      "category": "操作系统"
+    },
+    {
+      "name": "计算机硬件",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "办公软件",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "计算机网络",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "沟通技巧",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "客户服务意识",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "思维敏捷",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "总结能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "分享能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "工作态度积极",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "发现问题能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上计算机网络，软件相关专业；",
+    "熟练掌握Windows/Mac/iOS产品线常用维护技巧，能深入浅出的讲出维护原理；",
+    "对计算机信息服务行业抱有热忱的心态，思维敏捷；",
+    "擅于思考，勇于发现，勤于总结，乐于分享者优先考虑；",
+    "具备基础的计算机硬件理论知识，熟悉常用办公软件；",
+    "具备良好的沟通技巧和团队协作能力，积极向上的工作态度，具有强烈的客户服务意识。"
+  ]
+}

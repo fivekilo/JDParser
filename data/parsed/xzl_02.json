@@ -1,0 +1,83 @@
+{
+  "source_file": "xzl_02.txt",
+  "job_title": "大模型应用研发工程师（智能客服）",
+  "location": "上海",
+  "education": "不限",
+  "experience": "5年以上",
+  "employment_type": "全职",
+  "job_category": "程序&技术类",
+  "responsibilities": [
+    "参与智能客服后端架构设计与开发，推动AI在客服场景的应用",
+    "追踪前沿技术，探索和挖掘AI在新场景的应用"
+  ],
+  "required_skills": [
+    {
+      "name": "后端架构设计",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "人工智能",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "Agent",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "大模型应用落地",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "探索精神",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "自我驱动力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "智能客服",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "大模型应用",
+      "proficiency": "不限",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "有5年以上开发经验，具备扎实的技术功底，具备分布式系统开发经验；",
+    "熟悉LLM（大语言模型）、RAG、Agent等技术，有实际的大模型落地经验；",
+    "AI领域的最新技术发展方向，有较好的探索精神和较强的自我驱动力；",
+    "有智能客服、RAG、大模型应用经验者优先。"
+  ]
+}

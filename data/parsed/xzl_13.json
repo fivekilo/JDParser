@@ -1,0 +1,149 @@
+{
+  "source_file": "xzl_13.txt",
+  "job_title": "AI研发工程师",
+  "location": "上海",
+  "education": "不限",
+  "experience": "，不限技术栈，更看重实际能力和项目成果",
+  "employment_type": "全职",
+  "job_category": "程序&技术类",
+  "target_group": "常规社招",
+  "responsibilities": [
+    "负责公司内部基础设施、信息系统的新业务从0到1建设，独立完成需求分析、方案设计、全栈开发、测试及部署上线全流程",
+    "推动现有业务的研发流程升级，引入AI工具链，提升开发效率与交付质量",
+    "探索AI时代下更高效的研发协作模式，减少传统岗位分工带来的协作损耗"
+  ],
+  "required_skills": [
+    {
+      "name": "Web全栈开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "前端开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "后端开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "不限",
+      "category": "数据库"
+    },
+    {
+      "name": "运维部署",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "中间件",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "AI工具",
+      "proficiency": "熟练",
+      "category": "AI工具"
+    },
+    {
+      "name": "Cursor",
+      "proficiency": "熟练",
+      "category": "AI工具",
+      "parent": "AI工具"
+    },
+    {
+      "name": "GitHub Copilot",
+      "proficiency": "熟练",
+      "category": "AI工具",
+      "parent": "AI工具"
+    },
+    {
+      "name": "Claude",
+      "proficiency": "熟练",
+      "category": "AI工具",
+      "parent": "AI工具"
+    },
+    {
+      "name": "需求分析",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "方案设计",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "测试",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "部署上线",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "业务理解能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "需求拆解能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "方案制定能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "推动落地能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "独立钻研能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "技术判断力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "AI模型",
+      "proficiency": "精通",
+      "category": "机器学习"
+    },
+    {
+      "name": "AI工具",
+      "proficiency": "精通",
+      "category": "AI工具"
+    },
+    {
+      "name": "项目交付",
+      "proficiency": "不限",
+      "category": "项目管理"
+    }
+  ],
+  "raw_requirements": [
+    "至少一个技术方向有深度（前端/后端/数据/运维均可），有主导过优秀实际项目的经验，能体现独立钻研和技术判断力",
+    "技术栈全面，无明显短板：Web 全栈（前端 + 后端 + 数据库）、基础运维部署、常用中间件等均能上手，能解决实际问题",
+    "熟练运用 AI 工具提效：Cursor / Copilot / Claude 等已融入日常开发工作流，而非仅尝鲜体验",
+    "具备良好的业务理解能力和沟通协作能力，能独立拆解需求、制定方案并推动落地",
+    "不限工作年限，不限技术栈，更看重实际能力和项目成果"
+  ]
+}

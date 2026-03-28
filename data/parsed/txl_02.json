@@ -1,0 +1,165 @@
+{
+  "source_file": "txl_02.txt",
+  "job_title": "C++客户端开发工程师-豆包",
+  "location": "北京/深圳/杭州",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "客户端开发",
+  "responsibilities": [
+    "负责豆包PC产品研发开发工作",
+    "配合PM完成PC端能力系统研发和落地",
+    "为上下游和最终用户提供标准化服务，保证优质体验"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "不限",
+      "category": "编程语言"
+    },
+    {
+      "name": "计算机原理",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "良好",
+      "category": "其他"
+    },
+    {
+      "name": "算法",
+      "proficiency": "良好",
+      "category": "其他"
+    },
+    {
+      "name": "编程能力",
+      "proficiency": "扎实",
+      "category": "通用技能"
+    },
+    {
+      "name": "Electron",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Chromium",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "Qt",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "浏览器渲染机制",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "macOS",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Windows",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "内存管理",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "进程管理",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "进程通信",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "C++编译原理",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "较强",
+      "category": "软技能"
+    },
+    {
+      "name": "求知欲",
+      "proficiency": "强烈",
+      "category": "软技能"
+    },
+    {
+      "name": "好奇心",
+      "proficiency": "强烈",
+      "category": "软技能"
+    },
+    {
+      "name": "进取心",
+      "proficiency": "强烈",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "反工程",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "反编译",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "积极乐观",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "强",
+      "category": "软技能"
+    },
+    {
+      "name": "认真细致",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队沟通能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2026届获得本科及以上学历，计算机、软件工程等相关专业优先；",
+    "深刻理解计算机原理，有良好的数据结构和算法基础，扎实的编程能力，有C++实际工程项目经验；",
+    "热爱编程，有较强的学习能力，有强烈的求知欲、好奇心和进取心，能及时关注和学习业界最新技术。有一定了解的：（以下相关技术能力，满足任意一种即可）",
+    "熟悉Electron/Chromium/QT框架以及相关迭代开发；",
+    "熟悉理解浏览器渲染机制；",
+    "熟悉MacOS/Windows/Linux等底层原理，如内存管理、进程管理、进程通讯等；",
+    "熟悉C++编译原理。加分项或注意事项",
+    "有反工程/反编译的相关经验优先；",
+    "积极乐观，责任心强，工作认真细致，有良好的团队沟通和协作能力。参加面试的城市北京/深圳/杭州 远程面试招聘部门和工作地Flow产品研发团队北京/深圳/杭州"
+  ]
+}

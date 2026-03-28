@@ -1,0 +1,176 @@
+{
+  "source_file": "xzl_06.txt",
+  "job_title": "云原生游戏运维",
+  "location": "上海",
+  "education": "本科",
+  "experience": "3年以上",
+  "employment_type": "全职",
+  "job_category": "程序&技术类",
+  "target_group": "常规社招",
+  "responsibilities": [
+    "负责线上游戏服务器的维护、更新、监控、报警和优化，保障业务稳定运行",
+    "推进游戏运维规范、工作流程、应急预案的制定和落地",
+    "负责运维自动化建设，持续提升运维效率",
+    "负责监控服务器和游戏状态，对突发事件快速响应、分析及故障管理",
+    "发现运营风险及技术难点，优化业务流程，提升运维工作效率和服务质量"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "运维自动化",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "Nightingale",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "Prometheus",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "阿里云",
+      "proficiency": "熟悉",
+      "category": "云平台"
+    },
+    {
+      "name": "AWS",
+      "proficiency": "熟悉",
+      "category": "云平台"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "category": "缓存"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "category": "消息队列"
+    },
+    {
+      "name": "Elasticsearch",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "etcd",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "parent": "Kubernetes"
+    },
+    {
+      "name": "Istio",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "parent": "Kubernetes"
+    },
+    {
+      "name": "CDN",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "公有云运维",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "AWS",
+      "proficiency": "不限",
+      "category": "云平台"
+    },
+    {
+      "name": "EC2",
+      "proficiency": "不限",
+      "category": "云平台",
+      "parent": "AWS"
+    },
+    {
+      "name": "Aurora",
+      "proficiency": "不限",
+      "category": "数据库",
+      "parent": "AWS"
+    },
+    {
+      "name": "容器化运维",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "动态服务发现",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "精通",
+      "category": "网络"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "精通",
+      "category": "DevOps工具"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，三年以上工作经验，有游戏运维经验；",
+    "熟练掌握Python/Golang中至少一门语言，有相关运维自动化经验；",
+    "熟悉Nightingale/Prometheus至少一种监控系统、对现有监控的维护和调优；",
+    "熟悉公有云（阿里云/AWS等）的日常运维、监控、故障排查及性能优化，保障云资源稳定运行；",
+    "熟悉Redis、Kafka、Elasticsearch、MongoDB等中间件运维经验；",
+    "具备Docker，Kubernetes，ETCD, Istio等容器生态核心组件及其工作原理；",
+    "具备CDN运维经验，和各CDN厂商沟通协调版更相关事宜，经历过大流量、大带宽经验优先；",
+    "具备良好的沟通能力，有上进心和求知欲，敢于突破现状追求卓越，能够承受一定的工作压力；",
+    "具备公有云运维经验，有AWS EC2、Aurora等产品运维经验优先。"
+  ]
+}

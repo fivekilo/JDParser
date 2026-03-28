@@ -1,0 +1,186 @@
+{
+  "source_file": "ljx_03.txt",
+  "job_title": "后端开发工程师",
+  "location": "北京、上海、深圳、成都、广州、香港",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "后端开发",
+  "responsibilities": [
+    "参与海量业务后台系统的需求分析、功能设计与实现",
+    "负责高并发服务的性能优化、容量规划与故障排查",
+    "与前端、产品、运维等多团队协作，交付可上线的业务功能",
+    "参与核心系统的架构优化，保障系统7×24小时稳定运行",
+    "编写自动化测试、撰写技术文档并推动代码质量提升"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "category": "缓存"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "不限",
+      "category": "数据库"
+    },
+    {
+      "name": "性能调优",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "算法",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "计算机网络",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Git",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "需求分析",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "功能设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "故障排查",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "自动化测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "技术文档",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "代码质量",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "架构优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "高并发处理",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "容量规划",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Docker",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "系统重构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "AI",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "了解",
+      "category": "深度学习"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、软件工程、数据科学等相关专业；",
+    "熟练掌握Java/Go/Python等至少一门主流后端语言；",
+    "熟悉MySQL、Redis等主流数据库，具备SQL编写与性能调优能力；",
+    "掌握数据结构、算法、操作系统、计算机网络等基础；",
+    "熟悉Linux常用命令，掌握Git版本控制。有一定了解的：",
+    "Docker、K8s等云原生技术；",
+    "分布式系统设计、高并发处理经验；",
+    "大数据处理框架（Hadoop、Spark）。"
+  ]
+}

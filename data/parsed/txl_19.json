@@ -1,0 +1,144 @@
+{
+  "source_file": "txl_19.txt",
+  "job_title": "混合云交付运维工程师-火山引擎",
+  "location": "北京/上海/杭州",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "运维",
+  "responsibilities": [
+    "负责混合云产品交付和售后运维，产品范围包括IAAS、PAAS、安全等",
+    "积累项目售中、售后阶段的关键问题，转化为需求推动产品和工具优化，提升交付运维效率",
+    "参与工单和告警Oncall值班，提炼产品稳定性风险，推动产品稳定性提升和服务体验"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机软硬件基础",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "网络基础",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "系统管理",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "掌握",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "掌握",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "沟通协调能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "执行力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "自动化工具开发",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "私有云",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "混合云",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "部署架构",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "大数据组件架构",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "微服务组件架构",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "客户服务意识",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "客户关系维护",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "耐心",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "项目交付适应能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2026届获得本科及以上学历，计算机、网络工程、软件工程等相关专业优先；",
+    "熟悉计算机软硬件、网络相关基础知识；",
+    "熟悉Linux系统管理，掌握Docker、K8S的技术原理，有实际使用经验；",
+    "有良好的沟通协调能力，较强的团队合作精神和责任心，优秀的执行力。有一定了解的：",
+    "熟悉Python/Shell/Go中任一语言，有自动化工具开发经验者优先；",
+    "对私有云、混合云部署架构及常见的大数据/微服务组件架构有一定了解。加分项或注意事项",
+    "有客户服务意识，能建立和维护良好的客户关系，耐心解答客户问题；",
+    "适应项目制的交付节奏，能接受出差（重要加分项）。参加面试的城市北京/上海/杭州 远程面试招聘部门和工作地火山引擎北京/上海/杭州"
+  ]
+}

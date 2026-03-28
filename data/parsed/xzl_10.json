@@ -1,0 +1,190 @@
+{
+  "source_file": "xzl_10.txt",
+  "job_title": "游戏引擎开发工程师-推理优化（UE/AI）",
+  "location": "上海",
+  "education": "不限",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "程序&技术类",
+  "responsibilities": [
+    "调研、评估并选型适合游戏场景的开源 AI 模型，完成技术验证与落地",
+    "将 AI 模型以插件或模块形式集成至 Unreal Engine 运行时，支持本地离线推理",
+    "负责在 Windows、PlayStation、iOS、Android 等平台上的模型部署与适配",
+    "针对不同平台硬件特性选择合适的推理后端并进行深度优化",
+    "实现模型量化、算子融合、内存优化，确保目标设备上的实时性与资源占用要求",
+    "设计合理的模块架构，确保 AI 功能与音频、渲染、网络、UI 等系统低耦合集成",
+    "编写高质量的 C++ 代码，编写单元测试和性能基准测试",
+    "输出技术文档、集成指南和最佳实践"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Unreal Engine",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "ONNX Runtime",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "TensorRT",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "Windows",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "iOS",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "Android",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "PlayStation",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "CPU",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "GPU",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "NPU",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "Core ML",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "NNAPI",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "INT8",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "FP16",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "模型量化",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "算子融合",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "内存优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "多线程",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "单元测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "性能基准测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "技术文档编写",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "模块架构设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "推理加速",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "计算机基础知识",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "CUDA",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "模型训练",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "模型微调",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "模型导出",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "端侧 AI 推理优化",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "嵌入式设备",
+      "proficiency": "不限",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "比较扎实的计算机基础知识，熟悉C++, 熟悉cuda优先；",
+    "具备 Unreal Engine 插件 / 模块开发经验，熟悉 UE 的多线程架构和构建流程；",
+    "有模型推理框架的实际使用和优化经验（ONNX Runtime / TensorRT 等）；",
+    "有多平台（PC / Console / Mobile）开发或适配经验；",
+    "具备模型量化、推理加速的实践经验。"
+  ]
+}

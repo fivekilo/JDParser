@@ -1,0 +1,115 @@
+{
+  "source_file": "txl_07.txt",
+  "job_title": "前端开发实习生-抖音电商",
+  "location": "上海",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "参与电商业务相关产品的前端开发，覆盖Web应用、多端组件库、数据可视化等方向",
+    "与产品经理、设计师、后端工程师协作，提升产品用户体验，打造高质量互联网产品",
+    "关注前端前沿技术发展，将新知识传递给团队并转化到潜在项目中"
+  ],
+  "required_skills": [
+    {
+      "name": "JavaScript",
+      "proficiency": "掌握",
+      "category": "编程语言"
+    },
+    {
+      "name": "ECMAScript 6",
+      "proficiency": "掌握",
+      "category": "编程语言",
+      "parent": "JavaScript"
+    },
+    {
+      "name": "HTML",
+      "proficiency": "掌握",
+      "category": "前端框架"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "掌握",
+      "category": "前端框架"
+    },
+    {
+      "name": "DOM",
+      "proficiency": "掌握",
+      "category": "其他"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "掌握",
+      "category": "网络"
+    },
+    {
+      "name": "前端安全",
+      "proficiency": "掌握",
+      "category": "网络"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "前端工程化",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "产品意识",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "积极乐观",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "编码能力",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "软件设计能力",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Web开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "小程序开发",
+      "proficiency": "不限",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2027届及以后毕业，本科及以上学历在读，计算机、软件工程等相关专业优先；",
+    "掌握WEB前端开发核心技术：JavaScript(含ES6)、HTML、CSS、DOM、协议、安全等；",
+    "良好的设计和编码品味，热爱写代码，能产出高质量的设计和代码；",
+    "有良好的产品意识，积极乐观，认真负责，乐于协作。有一定了解的：",
+    "熟悉React等主流前端框架的使用；",
+    "了解基础的前端工程化概念。加分项或注意事项",
+    "有独立开发并上线的个人Web项目或小程序项目优先；",
+    "每周可实习4天及以上，且能连续实习3个月以上。参加面试的城市上海 远程面试招聘部门和工作地抖音电商前端团队上海"
+  ]
+}

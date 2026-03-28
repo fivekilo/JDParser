@@ -1,0 +1,171 @@
+{
+  "source_file": "txl_03.txt",
+  "job_title": "云安全工程师-安全与风控",
+  "location": "北京/上海/深圳/杭州",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "运维",
+  "responsibilities": [
+    "参与云平台网络隔离策略设计与实施，保障多租户环境安全隔离",
+    "跟踪AIGC安全风险，探索并落地防御方案",
+    "协助构建AI云原生应用安全防护体系",
+    "参与安全风险评估、安全培训和漏洞评估，以主动识别和解决安全风险",
+    "与跨职能团队合作，将安全能力集成到云产品和底层基础设施中"
+  ],
+  "required_skills": [
+    {
+      "name": "网络安全",
+      "proficiency": "理解",
+      "category": "网络"
+    },
+    {
+      "name": "DDoS",
+      "proficiency": "理解",
+      "category": "网络"
+    },
+    {
+      "name": "Web安全",
+      "proficiency": "理解",
+      "category": "网络"
+    },
+    {
+      "name": "容器安全",
+      "proficiency": "理解",
+      "category": "其他"
+    },
+    {
+      "name": "Python",
+      "proficiency": "掌握",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "掌握",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "掌握",
+      "category": "编程语言"
+    },
+    {
+      "name": "工具开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "系统性分析思维",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "独立解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "云计算",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "虚拟化",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "容器",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "云安全",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "CTF",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "漏洞挖掘",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "CVE",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "AI安全",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "GitHub",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "安全工具开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "复现分析",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "提示注入",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "大语言模型"
+    },
+    {
+      "name": "模型窃取",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "大语言模型"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2026届获得本科及以上学历，信息安全等相关专业优先；",
+    "理解传统网络安全攻防基础（如DDoS/Web攻击/容器安全攻防等原理）；",
+    "掌握Python/Golang/Java任一语言，具备简单工具开发能力；",
+    "具备系统性分析思维，能独立拆解复杂技术问题。有一定了解的：",
+    "了解云计算核心概念（虚拟化/微服务/K8S/容器等）；",
+    "对云安全或AI安全领域有强烈探索欲，能通过技术博客/论文等快速掌握新知识。加分项或注意事项",
+    "拥有云安全相关实习经历；",
+    "参与过CTF竞赛/漏洞挖掘（提交CVE或平台致谢证明）；",
+    "发表过AI安全、云安全相关论文/专利；",
+    "在GitHub有高质量安全项目（如安全工具开发、复现分析）；",
+    "熟悉大模型安全风险（提示注入/模型窃取等）。参加面试的城市北京/上海/深圳/杭州 远程面试招聘部门和工作地安全与风控部门北京/上海/深圳/杭州"
+  ]
+}

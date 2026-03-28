@@ -1,0 +1,137 @@
+{
+  "source_file": "xzl_03.txt",
+  "job_title": "大模型应用研发工程师（协同办公）",
+  "location": "上海",
+  "education": "本科",
+  "experience": "5年以上",
+  "employment_type": "全职",
+  "job_category": "程序&技术类",
+  "responsibilities": [
+    "开发知识库与问答系统，搭建高性能文档解析、向量化与检索服务，保障企业知识的安全与精准问答",
+    "构建智能体平台后端，参与设计支持Agent编排、工具调用与技能扩展的核心框架与执行引擎",
+    "工程化落地AI能力，集成大语言模型，构建提示工程、工作流引擎与推理网关，支撑复杂AI场景",
+    "负责核心服务的设计、开发与运维，确保高可用与可扩展性",
+    "与产品、算法团队高效协同"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Agent",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "企业知识库",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "AI工作流",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "AI调优",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "LLM应用后端开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "不限",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "不限",
+      "category": "缓存"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "不限",
+      "category": "消息队列"
+    },
+    {
+      "name": "高并发系统设计",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "系统设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "向量数据库",
+      "proficiency": "不限",
+      "category": "数据库"
+    },
+    {
+      "name": "逻辑清晰",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "出色",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "出色",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "模型算法",
+      "proficiency": "不限",
+      "category": "机器学习"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，5年以上后端开发经验，掌握熟练使用常用编程语言 Go/Java；",
+    "有智能体Agent、企业知识库 或 AI工作流开发经验；有 AI 调优经验；具备LLM应用后端实战经验，熟悉RAG、Agent相关框架（如LangChain）及工程挑战；",
+    "熟悉分布式系统原理，掌握常用中间件（如MySQL/Redis/Kafka等）的使用与优化，具备高并发系统的设计和调优经验；",
+    "拥有良好的系统设计能力，有分布式系统开发经验。熟悉数据库及至少一种向量数据库；",
+    "逻辑清晰，责任心强，具备出色的沟通和团队协作能力。"
+  ]
+}

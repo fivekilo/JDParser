@@ -1,0 +1,124 @@
+{
+  "source_file": "txl_20.txt",
+  "job_title": "大规模深度学习架构工程师-Data-抖音/直播/电商/剪映",
+  "location": "北京/杭州/上海",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "AI/机器学习",
+  "responsibilities": [
+    "参与大规模机器学习在线预估框架的研发与优化，支撑相关产品的高效模型推理",
+    "参与大规模特征及样本的处理与流转、模型训练与调度等相关问题的研究与突破",
+    "与推荐算法同学紧密合作，分析并解决相关问题及任务，并反哺到实际业务中"
+  ],
+  "required_skills": [
+    {
+      "name": "Linux",
+      "proficiency": "熟练",
+      "category": "操作系统"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "深入理解",
+      "category": "通用技能"
+    },
+    {
+      "name": "算法",
+      "proficiency": "深入理解",
+      "category": "通用技能"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "深入理解",
+      "category": "操作系统"
+    },
+    {
+      "name": "逻辑分析能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "业务抽象能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "了解",
+      "category": "深度学习"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "了解",
+      "category": "深度学习"
+    },
+    {
+      "name": "RPC",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "分布式系统架构",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "了解",
+      "category": "编程语言"
+    },
+    {
+      "name": "高并发编程",
+      "proficiency": "了解",
+      "category": "编程语言"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Apache Spark",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "求知欲",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "主动钻研能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "快速学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2026届获得本科及以上学历，计算机相关专业；",
+    "热爱计算机科学和互联网技术，熟练掌握Linux环境下的C/C++编程；",
+    "掌握扎实的计算机基础知识，深入理解数据结构、算法和操作系统知识；",
+    "有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分。有一定了解的：",
+    "了解某种主流机器学习框架（TensorFlow/PyTorch等）的底层框架实现；",
+    "了解RPC框架、分布式系统架构或多线程高并发编程模型。加分项或注意事项",
+    "对大数据开源生态（如Spark, Flink等）有相关研究或源码级分析经验；",
+    "有强烈的求知欲，能够在高难度的底层技术攻关中主动钻研并快速成长。参加面试的城市北京/杭州/上海 远程面试招聘部门和工作地推荐架构团队北京/杭州/上海"
+  ]
+}

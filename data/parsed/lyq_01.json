@@ -1,0 +1,221 @@
+{
+  "source_file": "lyq_01.txt",
+  "job_title": "后端软件开发工程师",
+  "location": "杭州、北京、上海",
+  "education": "不限",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "后端开发",
+  "responsibilities": [
+    "设计、开发和维护高质量的云服务软件应用，参与后端软件全生命周期（需求、设计、编码、测试、发布）",
+    "优化现有系统架构，提升高并发场景下的性能、稳定性与可用性",
+    "解决分布式系统开发中的技术难题，保障服务7×24小时稳定运行",
+    "与产品、前端、测试团队协作，推动产品快速迭代与交付",
+    "参与技术预研，引入前沿技术提升团队研发效率"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "缓存",
+      "proficiency": "不限",
+      "category": "缓存"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "不限",
+      "category": "消息队列"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "不限",
+      "category": "后端框架"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟练",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟练",
+      "category": "缓存"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "不限",
+      "category": "数据库"
+    },
+    {
+      "name": "性能调优",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Git",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Maven",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "编程习惯",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "问题分析能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "独立处理复杂技术问题",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "云原生",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "微服务架构实践",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "大数据处理",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "实时计算",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "系统监控",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "容灾备份",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "高可用架构设计",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "大规模分布式系统",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "电商后端开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "云服务后端开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "开源项目经验",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术博客",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术分享",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "系统重构",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "系统优化",
+      "proficiency": "不限",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "精通Java/Python/Go等至少一门主流编程语言，具备优秀编程习惯。",
+    "熟悉分布式系统设计，掌握缓存、消息队列、微服务等核心技术。",
+    "熟练使用MySQL、Redis等数据库，具备SQL优化与性能调优能力。",
+    "熟悉Linux操作系统与常用命令，掌握Git、Maven等开发工具。",
+    "具备良好的问题分析与解决能力，能独立处理复杂技术问题。有一定了解的：",
+    "云原生技术（Docker、K8s）、微服务架构实践。",
+    "大数据处理框架（Hadoop、Spark）、实时计算技术。",
+    "系统监控、容灾备份、高可用架构设计经验。"
+  ]
+}

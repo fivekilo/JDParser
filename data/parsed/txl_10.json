@@ -1,0 +1,121 @@
+{
+  "source_file": "txl_10.txt",
+  "job_title": "数据分析师-抖音",
+  "location": "北京/上海",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "数据分析",
+  "responsibilities": [
+    "负责抖音业务的数据分析工作，涵盖内容、增长、变现、作者生态等多个业务模块",
+    "分析影响业务提升与增长的因素，结合业务目标洞察业务现状及问题，给出可落地的产品与运营优化方案",
+    "与产品、运营、推荐等团队配合，推进优化方案落地执行，带来业务实际提升",
+    "负责各类A/B实验设计与分析、产品优化效果评估、运营策略或市场活动分析评估，以及核心指标异动分析",
+    "围绕业务目标展开专题分析，洞察问题和机会点，推进产品策略有效落地"
+  ],
+  "required_skills": [
+    {
+      "name": "SQL",
+      "proficiency": "精通",
+      "category": "数据处理"
+    },
+    {
+      "name": "R",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据挖掘",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "数据敏感度",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "category": "软技能"
+    },
+    {
+      "name": "跨部门沟通",
+      "proficiency": "熟悉",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Tableau",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "A/B测试",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "统计学检验",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "视频行业数据分析",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "产品优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "运营优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "内容行业分析",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "增长分析",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "商业化分析",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2026届获得本科及以上学历，数学、统计学、计算机相关专业优先；",
+    "逻辑清晰，对数据高度敏感，能发掘业务细节和数据之间的联系，并通过数据指标推动优化；",
+    "精通SQL，熟练使用R或Python进行数据分析、挖掘；",
+    "具有良好的团队配合能力与跨部门沟通能力。有一定了解的：",
+    "掌握Tableau等BI可视化分析工具的使用；",
+    "了解基础的A/B测试理论和常见的统计学检验方法。加分项或注意事项",
+    "有视频行业数据分析实习经验、一线产品或运营业务优化经验者优先；",
+    "对内容行业感兴趣，在内容、增长、商业化等方向有深入思考或分析经验者优先。参加面试的城市北京/上海 远程面试招聘部门和工作地抖音-数据分析部门北京/上海"
+  ]
+}

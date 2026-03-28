@@ -1,0 +1,238 @@
+{
+  "source_file": "xyh_01.txt",
+  "job_title": "【平台】全栈开发工程师（AI赋能开发方向）",
+  "location": "广州市",
+  "education": "本科",
+  "experience": "3-5年",
+  "department": "游戏应用与平台发展事业部-商业智能部-智能营销平台组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-19",
+  "job_category": "技术-前端及客户端开发-web前端开发",
+  "responsibilities": [
+    "负责公司互联网产品前端设计与实现",
+    "基于 Express、Koa 等框架承担 Node.js 全栈开发工作，确保系统高性能和高可用",
+    "在日常开发中运用 AI 编程工具提升开发效率，通过 AI 辅助完成代码生成、重构和优化",
+    "实践 SDD（规范驱动开发）模式，提升代码可维护性和团队协作效率",
+    "在开发过程中应用 Agent 构建理念，探索和实践多 Agent 协作模式",
+    "持续优化 AI 辅助开发的效率和质量，并沉淀实际实践案例",
+    "参与前端构建工具和 Node.js 服务架构的搭建与优化，提升团队研发效能"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "精通",
+      "category": "前端框架"
+    },
+    {
+      "name": "React",
+      "proficiency": "精通",
+      "category": "前端框架"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "熟悉",
+      "category": "后端框架"
+    },
+    {
+      "name": "Express.js",
+      "proficiency": "不限",
+      "category": "后端框架",
+      "parent": "Node.js"
+    },
+    {
+      "name": "Koa.js",
+      "proficiency": "不限",
+      "category": "后端框架",
+      "parent": "Node.js"
+    },
+    {
+      "name": "Vite",
+      "proficiency": "熟练",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "熟练",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "模块化开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "组件化开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "category": "缓存"
+    },
+    {
+      "name": "Claude Code",
+      "proficiency": "熟练",
+      "category": "AI工具"
+    },
+    {
+      "name": "OpenCode",
+      "proficiency": "熟练",
+      "category": "AI工具"
+    },
+    {
+      "name": "Cursor",
+      "proficiency": "熟练",
+      "category": "AI工具"
+    },
+    {
+      "name": "SDD",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "Agent",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "Rule",
+      "proficiency": "了解",
+      "category": "AI工具",
+      "parent": "Agent"
+    },
+    {
+      "name": "Skill",
+      "proficiency": "了解",
+      "category": "AI工具",
+      "parent": "Agent"
+    },
+    {
+      "name": "MCP",
+      "proficiency": "了解",
+      "category": "AI工具",
+      "parent": "Agent"
+    },
+    {
+      "name": "Memory",
+      "proficiency": "了解",
+      "category": "AI工具",
+      "parent": "Agent"
+    },
+    {
+      "name": "多Agent协作",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "parent": "Agent"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "技术热情",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "总结能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "分享能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "开源项目经验",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术博客",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "AI开发经验分享",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "案例演示",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "社区活跃度",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "AI编程社区",
+      "proficiency": "不限",
+      "category": "AI工具"
+    }
+  ],
+  "raw_requirements": [
+    "前端基础扎实：熟练掌握 HTML5/CSS3/JavaScript (ES6+)，精通至少一种主流框架（Vue 3 或 React），有大型项目开发经验优先。",
+    "全栈能力：熟悉 Node.js 开发，掌握 Express/Koa 等框架，能够完成后台接口开发、中间件设计和联调工作。",
+    "工程化经验：熟练使用 Vite/Webpack 等构建工具，能独立配置和优化前端工程化体系，理解模块化、组件化开发思想。",
+    "数据库基础：熟悉 MySQL/MongoDB/Redis 等数据库的基本使用，能够进行简单的数据设计和查询优化。",
+    "AI工具熟练度：日常开发中深度使用 Claude Code、OpenCode、Cursor 等AI编程工具，能够通过AI辅助完成代码编写、调试和重构，并形成高效的协作习惯。",
+    "SDD实践：理解和实践过 SDD（规范驱动开发），能够通过清晰的规范文档、代码示例或设计指引引导AI生成符合团队标准的可维护代码。",
+    "Agent机制理解：对AI编程中的 Rule（规则配置）、Skill（技能封装）、MCP（模型上下文协议）、Memory（记忆管理） 等概念有基本理解，并能在实际开发中应用这些机制提升AI协作效率。",
+    "多Agent协作经验：对多Agent协作的工作模式有深入理解，并有实际的实践案例（如通过多个AI角色分工完成复杂开发任务、构建AI协作工作流等），能够分享具体的落地经验和收获。",
+    "具备良好的学习能力和技术热情，对AI赋能开发的新范式保持敏感",
+    "善于总结和分享，能够沉淀AI辅助开发的最佳实践",
+    "良好的沟通能力和团队协作精神",
+    "有开源项目或技术博客，乐于分享AI开发经验",
+    "能提供AI辅助开发的效率提升数据或案例演示",
+    "对AI编程社区活跃，关注最新AI工具动态"
+  ]
+}

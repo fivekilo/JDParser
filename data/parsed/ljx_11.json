@@ -1,0 +1,156 @@
+{
+  "source_file": "ljx_11.txt",
+  "job_title": "后端开发工程师",
+  "location": "北京、上海、杭州、成都",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "后端开发",
+  "responsibilities": [
+    "负责滴滴核心出行平台后端系统设计与开发",
+    "参与高并发交易链路架构设计，保障系统在高并发场景下的稳定性和可用性",
+    "负责订单、支付、地图、推送等核心服务的开发与性能优化",
+    "推动服务治理、容灾备份、高可用架构方案设计与落地",
+    "与产品、前端、数据团队协作，推动业务快速迭代与创新"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "category": "缓存"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "category": "消息队列"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "算法",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "计算机网络",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "不限",
+      "category": "编程语言"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "高并发系统架构",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "大数据处理",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "流批一体架构设计",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "后端开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "核心交易系统开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "地图导航",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "LBS",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "出行算法",
+      "proficiency": "不限",
+      "category": "机器学习"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、软件工程等相关专业；",
+    "熟练掌握Java/Go/Python等至少一门主流后端语言；",
+    "熟悉MySQL、Redis、Kafka等常用中间件原理与使用；",
+    "具备扎实的数据结构、算法、操作系统、计算机网络基础；",
+    "熟悉Linux环境开发，掌握Shell脚本编写。有一定了解的：",
+    "分布式系统设计、高并发系统架构经验；",
+    "Docker、K8s等云原生技术；",
+    "大数据处理、流批一体架构设计。"
+  ]
+}

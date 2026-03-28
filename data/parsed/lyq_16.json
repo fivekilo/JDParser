@@ -1,0 +1,201 @@
+{
+  "source_file": "lyq_16.txt",
+  "job_title": "后端研发工程师-小米汽车",
+  "location": "北京、上海、深圳、武汉",
+  "education": "本科",
+  "experience": "3年以上",
+  "employment_type": "全职",
+  "job_category": "后端开发",
+  "responsibilities": [
+    "负责小米汽车车联网、智能座舱核心后端服务的设计、开发与维护",
+    "构建高并发、高可用、低延迟的分布式系统，支撑车载设备海量数据交互",
+    "优化系统架构与性能，解决车载场景下的网络、存储、计算等技术难题",
+    "参与技术方案评审、代码评审，保障代码质量与系统稳定性",
+    "跟踪前沿技术，推动技术创新落地"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "操作系统原理",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟练",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟练",
+      "category": "缓存"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟练",
+      "category": "消息队列"
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "熟练",
+      "category": "其他"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "不限",
+      "category": "后端框架"
+    },
+    {
+      "name": "问题排查",
+      "proficiency": "良好",
+      "category": "通用技能"
+    },
+    {
+      "name": "性能调优",
+      "proficiency": "良好",
+      "category": "通用技能"
+    },
+    {
+      "name": "独立解决复杂线上问题",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "边缘计算",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "MQTT",
+      "proficiency": "了解",
+      "category": "网络"
+    },
+    {
+      "name": "CoAP",
+      "proficiency": "了解",
+      "category": "网络"
+    },
+    {
+      "name": "车载操作系统",
+      "proficiency": "了解",
+      "category": "操作系统"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "服务网格",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "可观测性",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "车联网",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "智能座舱",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "自动驾驶",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "系统重构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "高可用架构设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "开源项目经验",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术博客",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术分享",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机相关专业，3年以上后端开发经验。",
+    "精通Go/Java/C++任一语言，熟悉数据结构、算法与操作系统原理。",
+    "熟练使用MySQL、Redis、Kafka、gRPC等存储与通信组件。",
+    "具备分布式系统、微服务架构设计与开发能力。",
+    "良好的问题排查与性能调优能力，能独立解决复杂线上问题。有一定了解的：",
+    "边缘计算、车联网协议（MQTT/CoAP）、车载操作系统。",
+    "实时计算（Flink）、大数据处理（Hadoop/Spark）。",
+    "云原生（K8s、Docker）、服务网格与可观测性。"
+  ]
+}

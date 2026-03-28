@@ -1,0 +1,125 @@
+{
+  "source_file": "tyh_12.txt",
+  "job_title": "策略算法工程师-抖音直播",
+  "location": "北京",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "AI/机器学习",
+  "responsibilities": [
+    "负责抖音及抖音火山版等直播业务的内容理解，包括图像、语音、多模态、LLM等模型的构建与优化",
+    "负责直播关键场景的算法优化和实现，包括用户激励、意图理解、内容生成等相关模型和服务的研发",
+    "调研先进的机器学习模型和算法，寻找最优方案解决业务问题",
+    "挖掘直播业务与数据的内在联系，通过数据和算法手段发现问题和解决问题"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟练",
+      "category": "深度学习"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "category": "深度学习"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "熟悉",
+      "category": "机器学习"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "神经网络",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "图像处理",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "语音处理",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "多模态学习",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "分析和解决问题能力",
+      "proficiency": "优秀",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "团队合作能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "计算机视觉",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "图形学",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "论文发表",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "2026届获得本科及以上学历，人工智能、计算机、软件工程等相关专业优先；",
+    "具有优秀的编程基础，熟练使用Python/C++等至少一种编程语言，熟练使用TensorFlow/PyTorch等至少一种深度学习框架；",
+    "具有扎实的机器学习/深度学习基础，熟悉常用算法和神经网络模型结构；",
+    "在计算机视觉和图形学、自然语言处理、强化学习等相关方向发表过高质量论文者优先考虑；",
+    "具有优秀的分析和解决问题的能力，对解决具有挑战性的问题充满激情，良好的沟通和团队合作能力。"
+  ]
+}

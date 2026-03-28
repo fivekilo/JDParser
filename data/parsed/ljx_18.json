@@ -1,0 +1,136 @@
+{
+  "source_file": "ljx_18.txt",
+  "job_title": "前端开发工程师",
+  "location": "北京、上海、深圳、杭州",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "负责抖音/TikTok核心产品（视频播放、评论、分享、创作者工具）前端开发",
+    "参与前端架构设计与优化，推进组件库、性能监控、工程化体系建设",
+    "优化页面性能，解决首屏加载、视频流畅度、交互响应等技术挑战",
+    "与后端、产品、设计团队协作，高质量交付产品功能",
+    "参与前端新技术预研，推动技术栈持续升级与创新"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "浏览器缓存",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "TypeScript",
+      "proficiency": "了解",
+      "category": "编程语言"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "WebAssembly",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "视频编解码",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "移动端H5",
+      "proficiency": "了解",
+      "category": "前端框架"
+    },
+    {
+      "name": "响应式设计",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "适配",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "精通",
+      "category": "通用技能"
+    },
+    {
+      "name": "工程化",
+      "proficiency": "精通",
+      "category": "通用技能"
+    },
+    {
+      "name": "国际化产品意识",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "全球化产品开发",
+      "proficiency": "了解",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、软件工程等相关专业；",
+    "熟练掌握HTML5、CSS3、JavaScript（ES6+）前端基础；",
+    "熟悉React或Vue等主流框架，有实际项目开发经验；",
+    "掌握Webpack等构建工具的原理与使用；",
+    "熟悉HTTP协议、浏览器缓存机制、性能优化方法。有一定了解的：",
+    "TypeScript、Node.js全栈开发能力；",
+    "WebAssembly、视频编解码相关技术；",
+    "移动端H5、响应式设计与适配经验。"
+  ]
+}

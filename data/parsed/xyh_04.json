@@ -1,0 +1,234 @@
+{
+  "source_file": "xyh_04.txt",
+  "job_title": "测试工程师",
+  "location": "杭州市",
+  "education": "本科",
+  "experience": "3-5年",
+  "department": "智能邮件事业部-基础技术部-质量保障组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-17",
+  "job_category": "技术-测试-测试",
+  "responsibilities": [
+    "负责智能邮件事业部跨境和外贸产品的Web端、桌面端、服务端质量保障工作，包括功能、接口、性能、稳定性等方面的测试",
+    "独立承担项目测试，参与软件全生命周期管理，包括需求评审、测试计划制定、测试策略制定、用例设计、风险评估、缺陷跟踪定位及线上运维发布",
+    "参与产品、技术方案选型及代码评审，并提出改进意见",
+    "负责业务自动化测试建设，研究行业测试技术并提升业务测试效率",
+    "与开发协作推进代码质量建设，不断提高产品质量"
+  ],
+  "required_skills": [
+    {
+      "name": "软件测试",
+      "proficiency": "精通",
+      "category": "通用技能"
+    },
+    {
+      "name": "测试方法论",
+      "proficiency": "精通",
+      "category": "通用技能"
+    },
+    {
+      "name": "质量体系",
+      "proficiency": "精通",
+      "category": "通用技能"
+    },
+    {
+      "name": "风险把控",
+      "proficiency": "精通",
+      "category": "通用技能"
+    },
+    {
+      "name": "功能测试",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "接口测试",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "性能测试",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "稳定性测试",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "自动化测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "测试计划",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "测试策略",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "测试用例设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "缺陷跟踪",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "代码评审",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "单元测试",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "后端框架",
+      "proficiency": "熟悉",
+      "category": "后端框架"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟练",
+      "category": "操作系统"
+    },
+    {
+      "name": "TCP/IP",
+      "proficiency": "熟练",
+      "category": "网络"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "熟练",
+      "category": "网络"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "熟练",
+      "category": "数据库"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "C",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "程序设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "分析问题能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "独立解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "产品思维",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "跨境电商测试",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "支付测试",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "AI Agent",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "智能体",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "大模型应用",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "智能体工作原理",
+      "proficiency": "熟悉",
+      "category": "AI工具",
+      "parent": "智能体"
+    },
+    {
+      "name": "智能体执行流程",
+      "proficiency": "熟悉",
+      "category": "AI工具",
+      "parent": "智能体"
+    },
+    {
+      "name": "模型输出评估",
+      "proficiency": "不限",
+      "category": "AI工具"
+    }
+  ],
+  "raw_requirements": [
+    "计算机专业本科以上学历，3年以上软件测试经验，有跨境电商/支付测试经验优先",
+    "有较强的沟通能力，有团队合作精神，负责且能够承受较强工作压力，具备良好的分析问题和独立解决问题能力",
+    "热爱软件测试，精通测试方法论并形成自己的一套测试理念，在质量体系和风险把控范畴有很好的见解和经验，能够实施高效的测试方案",
+    "有互联网产品/服务端测试经验。熟悉后端框架，掌握单元测试，代码评审",
+    "有 AI Agent / 智能体 / 大模型应用相关测试或项目经验者优先，熟悉智能体工作原理与执行流程，能够运用智能体解决测试问题，对模型输出与业务逻辑具备判断、校验及评估能力",
+    "熟练掌握linux操作系统、TCP/IP、HTTP协议、尤其数据库",
+    "有一定的程序设计基础，精通python、C/C++、java、shell等其中1门编程语言，1门脚本语言。"
+  ]
+}

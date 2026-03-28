@@ -1,0 +1,191 @@
+{
+  "source_file": "ljx_02.txt",
+  "job_title": "后台开发工程师",
+  "location": "深圳、广州、北京、上海、成都、武汉",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "后端开发",
+  "responsibilities": [
+    "深入理解业务需求和产品设计，高效地实现并优化产品功能",
+    "持续优化架构，提升关键服务和基础设施的稳定性与可用性",
+    "通过引入新的工具和流程，提升团队的开发效率和代码质量",
+    "与产品和前端工程师紧密合作，共同推进产品的迭代与优化",
+    "对线上问题进行快速定位并解决，对服务性能进行监控与优化",
+    "参与新技术的研究和探索，为团队的技术进步和产品创新提供支持"
+  ],
+  "required_skills": [
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "TCP",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "UDP",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "进程间通信",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "算法",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "软件工程",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "设计模式",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "数据库系统",
+      "proficiency": "不限",
+      "category": "数据库"
+    },
+    {
+      "name": "网络安全",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "Python",
+      "proficiency": "了解",
+      "category": "编程语言"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "了解",
+      "category": "编程语言"
+    },
+    {
+      "name": "Perl",
+      "proficiency": "了解",
+      "category": "编程语言"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "了解",
+      "category": "数据库"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "了解",
+      "category": "数据库"
+    },
+    {
+      "name": "NoSQL",
+      "proficiency": "了解",
+      "category": "数据库"
+    },
+    {
+      "name": "键值存储",
+      "proficiency": "了解",
+      "category": "数据库"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "问题定位与解决",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "分布式系统设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "负载均衡",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "容灾设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "高可用系统",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "开源社区贡献",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "计算机相关专业本科及以上学历；",
+    "扎实的编程能力，熟练掌握C/C++/Java/Go等其中一门开发语言；",
+    "熟悉TCP/UDP网络协议及相关编程、进程间通讯编程；",
+    "掌握算法、操作系统、软件工程、设计模式、数据结构、数据库系统、网络安全等专业知识。有一定了解的：",
+    "Python、Shell、Perl等脚本语言；",
+    "MySQL及SQL语言、编程；",
+    "NoSQL、Key-value存储原理。"
+  ]
+}

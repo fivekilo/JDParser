@@ -1,0 +1,141 @@
+{
+  "source_file": "tyh_10.txt",
+  "job_title": "XR系统AI应用测试开发工程师-移动OS",
+  "location": "北京",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "测试",
+  "responsibilities": [
+    "负责XR系统AI应用的客户端和服务端质量保障工作，与产品研发团队配合完成不同应用场景下的算法评测工作",
+    "探索创新型模型评测方法，训练评测模型",
+    "分析业务产品需求和技术方案，负责测试场景和测试用例设计，制定合理高效的测试方案",
+    "独立搭建并维护测试环境，执行测试用例，输出测试报告等相关文档，保证业务产品质量和进度",
+    "发现、定位、跟踪产品缺陷，协同研发工程师快速解决问题",
+    "构建AI产品质量体系，对过程中的痛点难点提出改进方案，对生命周期各阶段质量进行全面把控，并通过开发测试工具平台提高测试工作效率"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "测试用例设计",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "测试环境搭建",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "缺陷定位",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "测试报告编写",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "质量保障",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "算法评测",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "模型评测",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "模型训练",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "问题分析能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "抽象能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "规划能力",
+      "proficiency": "了解",
+      "category": "软技能"
+    },
+    {
+      "name": "推动能力",
+      "proficiency": "了解",
+      "category": "软技能"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "了解",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "2026届获得本科及以上学历，计算机、软件工程等相关专业优先；",
+    "熟悉一种或多种编程语言，例如：Python/Go/Java/Shell/C++等，具有工程化落地能力，有效提高测试工作效率；",
+    "具备较强的学习分析、解决问题及抽象问题特征的能力，具备积极的问题沟通方式，能良好驱动问题快速解决；",
+    "具备一定规划和推动能力，自驱力，对测试行业发展有自己的思考；广泛的技术视野和较强的技术前瞻性；",
+    "具有独立解决问题的能力，良好的团队合作意识和沟通能力，吃苦耐劳，有一定抗压能力。"
+  ]
+}

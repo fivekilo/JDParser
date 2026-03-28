@@ -1,0 +1,164 @@
+{
+  "source_file": "tyh_18.txt",
+  "job_title": "巨量千川AI产品经理-抖音电商",
+  "location": "北京",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "产品",
+  "responsibilities": [
+    "协助对接巨量千川商家、投手用户，挖掘AI投流工具的真实痛点，参与AI营销SaaS产品调研并输出标准化产品拆解报告",
+    "协助推进巨量千川AI智能服务Agent搭建，参与需求梳理、流程设计、原型输出，覆盖投放策略智能推荐、效果归因分析、AI智能盯盘与投放启停调控、AIGC投流素材生成等场景",
+    "联动算法、研发、运营、销售团队跟进需求落地，参与产品灰度测试、数据复盘，持续优化产品体验与业务指标",
+    "协助对接种子测试用户，收集产品使用反馈，定期输出用户运营报告，推动问题快速迭代修复"
+  ],
+  "required_skills": [
+    {
+      "name": "大语言模型",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "Agent",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "Skill",
+      "proficiency": "了解",
+      "category": "AI工具",
+      "parent": "Agent"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "AIGC",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "Axure",
+      "proficiency": "掌握",
+      "category": "项目管理"
+    },
+    {
+      "name": "XMind",
+      "proficiency": "掌握",
+      "category": "项目管理"
+    },
+    {
+      "name": "飞书文档",
+      "proficiency": "掌握",
+      "category": "项目管理"
+    },
+    {
+      "name": "需求文档编写",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "流程图设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "逻辑分析",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "数据敏感度",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "问题拆解能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "跨部门沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "结果导向",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "AI产品落地",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "抖音电商",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "巨量千川",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "DOU+",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "营销SaaS",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "AI Agent",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "parent": "Agent"
+    },
+    {
+      "name": "Agent",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "大模型应用",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "parent": "大语言模型"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "账号运营",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "2026届获得本科及以上学历，计算机、数据科学等相关专业优先；",
+    "对AI产品落地有强烈兴趣，了解大语言模型、Agent、Skill、RAG、AIGC等基础技术概念，有AI相关产品实习/项目经验者优先；",
+    "对抖音电商、巨量千川投流有基础认知，有个人抖音账号运营、小店带货、巨量千川/DOU+投流实操经验者优先；",
+    "具备基础产品能力：掌握Axure、XMind、飞书文档等常用产品工具，能独立输出清晰的需求文档、逻辑流程图；",
+    "逻辑清晰，对数据敏感，具备较强的问题拆解和跨部门沟通能力；",
+    "自驱力强，对电商营销、AI技术有强烈好奇心，愿意主动学习行业新知识；能接受互联网业务节奏，对结果负责。"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "source_file": "xyh_15.txt",
+  "job_title": "【平台】前端开发专家",
+  "location": "广州市",
+  "education": "不限",
+  "experience": "不限",
+  "department": "游戏应用与平台发展事业部-商业智能部-增长运营技术组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-06",
+  "job_category": "技术-前端及客户端开发-web前端开发",
+  "responsibilities": [
+    "设计并实现用于Web应用、小程序等业务系统的前端框架体系",
+    "推动业务前端在框架设计、工程质量、前端性能、产品体验等方面的优化",
+    "建立高效的前端开发工作流，完善团队前端工程化基建，提高开发效率与产品质量",
+    "持续优化产品体验及性能，确保用户获得最佳使用体验",
+    "理解C端产品的业务背景和目标，独立解决系统复杂问题并提出有效解决方案"
+  ],
+  "required_skills": [
+    {
+      "name": "前端框架设计",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "前端工程化",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "前端性能优化",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "模块化",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "组件化",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "跨平台开发",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟练",
+      "category": "前端框架"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟练",
+      "category": "前端框架"
+    },
+    {
+      "name": "Angular",
+      "proficiency": "熟练",
+      "category": "前端框架"
+    },
+    {
+      "name": "小程序开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "精通",
+      "category": "项目管理"
+    },
+    {
+      "name": "产品思维",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "交互设计",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "独立解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "微信小程序",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "抖音小程序",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "移动端跨平台项目经验",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "全栈开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "后端技术",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "前后端整合",
+      "proficiency": "不限",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业本科及以上学历；",
+    "具有6年以上前端开发经验，有微信、抖音等平台小程序开发经验者优先；",
+    "至少具备两个大型项目框架构建与优化的成功案例；",
+    "深刻理解前端性能优化、模块化、组件化、跨平台开发等关键技术，并有实际落地成果；",
+    "熟练掌握至少一种主流前端框架（如React、Vue、Angular等）及其生态系统；",
+    "具备卓越的项目管理能力，能够带领团队高效完成复杂项目研发；",
+    "对前端技术充满热情，持续学习新技术，并有效应用到实际工作中；",
+    "具备良好的沟通能力和团队协作精神，能够独立解决问题并推动项目进展。"
+  ]
+}

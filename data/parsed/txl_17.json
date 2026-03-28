@@ -1,0 +1,141 @@
+{
+  "source_file": "txl_17.txt",
+  "job_title": "测试开发工程师-今日头条",
+  "location": "北京/深圳",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "测试",
+  "responsibilities": [
+    "负责客户端/服务端产品质量相关或业务线测试与工具开发工作",
+    "深度参与产品研发项目，协同产品和研发团队高质量交付产品",
+    "进行日常项目线下测试与线上质量分析",
+    "参与质量体系规划和建设",
+    "参与开发效率工具建设并保障技术项目质量"
+  ],
+  "required_skills": [
+    {
+      "name": "数据结构",
+      "proficiency": "扎实",
+      "category": "其他"
+    },
+    {
+      "name": "算法",
+      "proficiency": "扎实",
+      "category": "其他"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Objective-C",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "PHP",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "自动化测试框架",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "压测工具",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "大数据处理工具",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "iOS",
+      "proficiency": "了解",
+      "category": "操作系统"
+    },
+    {
+      "name": "Android",
+      "proficiency": "了解",
+      "category": "操作系统"
+    },
+    {
+      "name": "网络协议",
+      "proficiency": "了解",
+      "category": "网络"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "问题发现能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "问题定位能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "产品意识",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队沟通协同能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2026届获得本科及以上学历，计算机、软件工程等相关专业优先；",
+    "热爱计算机科学和互联网技术，对软件质量保障工作有浓厚兴趣；",
+    "扎实的数据结构和算法基础；熟悉至少一门编程语言，包括但不仅限于：Java、OC、C、C++、Python、Go、PHP；",
+    "快速适应和学习能力，善于发现和定位问题。有一定了解的：",
+    "了解常用客户端、服务端开发或测试工具，如自动化框架、压测工具、大数据处理工具等；",
+    "对移动端（iOS/Android）操作系统的运行机制和底层网络协议有基础了解。加分项或注意事项",
+    "优秀的产品意识，对市场上典型App有自己的想法和改进方案；",
+    "逻辑缜密，有较强的抗压能力和优秀的团队沟通协同能力。参加面试的城市北京/深圳 远程面试招聘部门和工作地今日头条北京/深圳"
+  ]
+}

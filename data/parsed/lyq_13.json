@@ -1,0 +1,181 @@
+{
+  "source_file": "lyq_13.txt",
+  "job_title": "大数据开发工程师-京东零售",
+  "location": "北京、上海、深圳、武汉",
+  "education": "本科",
+  "experience": "2年以上",
+  "employment_type": "全职",
+  "job_category": "数据分析",
+  "responsibilities": [
+    "设计与开发京东零售离线/实时数仓，构建统一数据服务体系",
+    "负责数据采集、清洗、转换（ETL），保障数据质量与时效性",
+    "优化数据计算任务性能，提升大数据平台稳定性与处理效率",
+    "与数据分析师、算法团队协作，提供数据支持与解决方案",
+    "参与数据治理，制定数据标准，保障数据安全与合规"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Scala",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "Hive",
+      "proficiency": "熟练",
+      "category": "数据库"
+    },
+    {
+      "name": "HBase",
+      "proficiency": "熟练",
+      "category": "数据库"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟练",
+      "category": "消息队列"
+    },
+    {
+      "name": "数据建模",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "ETL",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据质量监控",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Git",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Maven",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "实时数据处理",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "流计算",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据可视化",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Tableau",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "FineBI",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "云原生大数据",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "数据中台",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据服务化",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据安全",
+      "proficiency": "了解",
+      "category": "网络"
+    },
+    {
+      "name": "数据脱敏",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据合规",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "熟悉",
+      "category": "机器学习"
+    },
+    {
+      "name": "特征工程",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "数据预处理",
+      "proficiency": "不限",
+      "category": "数据处理"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机/数学相关专业，2年以上大数据开发经验。",
+    "精通Java/Python/Scala任一语言，熟悉Hadoop/Spark/Flink生态。",
+    "熟练使用Hive、HBase、Kafka等大数据组件。",
+    "具备数据建模、ETL开发与数据质量监控能力。",
+    "熟悉Linux操作系统与常用命令，掌握Git、Maven等工具。有一定了解的：",
+    "实时数据处理、流计算、数据可视化（Tableau、FineBI）。",
+    "云原生大数据、数据中台、数据服务化建设。",
+    "数据安全、数据脱敏、数据合规相关技术。"
+  ]
+}

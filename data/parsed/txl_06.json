@@ -1,0 +1,121 @@
+{
+  "source_file": "txl_06.txt",
+  "job_title": "前端开发工程师-抖音电商",
+  "location": "北京",
+  "education": "本科",
+  "experience": "1年及以上",
+  "employment_type": "全职",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "负责电商核心场景的前端/客户端研发工作，涵盖商品详情页、购物车、收藏、足迹、评价、提单、SKU管理等核心模块，保障模块的稳定运行与高效迭代",
+    "参与产品需求评审、技术方案设计，结合业务场景优化用户体验，提升页面性能、加载速度及交互流畅度",
+    "配合产品、测试、后端等跨团队协作，推进需求落地，排查线上问题，保障业务正常运转",
+    "关注前端/客户端技术前沿，结合业务实际场景，引入合适的技术方案，提升研发效率与代码质量",
+    "参与技术沉淀与分享，完善团队研发规范，助力团队技术能力提升"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟练",
+      "category": "通用技能"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟练",
+      "category": "通用技能"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟练",
+      "category": "前端框架"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟练",
+      "category": "前端框架"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Vite",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "问题排查能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队精神",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "电商平台核心模块研发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "跨端开发技术",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "兼容性处理",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "独立解决复杂技术问题",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机相关专业优先，具有1年及以上前端研发经验；",
+    "熟练掌握HTML/CSS/JS、主流框架如Vue/React等前端知识；",
+    "具备良好的逻辑思维、问题排查能力和沟通协作能力，有责任心和团队精神。有一定了解的：",
+    "了解前端工程化工具（如Webpack/Vite等）的用法和原理；",
+    "对Node.js及常见的跨端开发技术有基本了解。加分项或注意事项",
+    "有电商平台核心模块（购物车、提单、SKU等）研发经验者优先；",
+    "熟悉跨端开发技术，有实际项目落地经验者优先；",
+    "具备性能优化、兼容性处理等相关经验，能独立解决复杂技术问题者优先。参加面试的城市北京 远程面试招聘部门和工作地抖音电商事业部北京"
+  ]
+}

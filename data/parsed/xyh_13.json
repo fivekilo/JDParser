@@ -1,0 +1,152 @@
+{
+  "source_file": "xyh_13.txt",
+  "job_title": "前端开发工程师 (AI 项目)",
+  "location": "广州市",
+  "education": "本科",
+  "experience": "3-5年",
+  "department": "技术中心-效能研发部-研发组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-06",
+  "job_category": "技术-前端及客户端开发-前端及客户端开发",
+  "responsibilities": [
+    "负责核心业务线或复杂系统的开发，确保系统的可扩展性、可维护性和稳定性",
+    "主导或参与关键模块和复杂组件的开发，编写高质量、高性能、可复用的代码，并建立相应的技术规范和文档",
+    "深入研究和解决前端性能瓶颈，特别是在加载大量大型资源、复杂交互场景下的性能优化，持续提升应用性能和用户体验",
+    "实践AI辅助编程工具，探索AI技术在前端研发流程中的应用，以提升代码质量、开发效率和创新能力",
+    "攻克前端领域技术难题，调研、评估并引入前沿技术，推动前端团队技术进步",
+    "参与或主导前端工程化体系的建设与优化，包括开发流程、构建、部署、监控等，提升团队整体研发效率和质量",
+    "与产品经理、设计师、后端工程师等角色紧密协作，理解业务需求并提供前瞻性的技术解决方案"
+  ],
+  "required_skills": [
+    {
+      "name": "React",
+      "proficiency": "精通",
+      "category": "前端框架"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "AI编程工具",
+      "proficiency": "熟练",
+      "category": "AI工具"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "熟练",
+      "category": "AI工具"
+    },
+    {
+      "name": "浏览器渲染原理",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "Web性能优化",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "问题定位能力",
+      "proficiency": "精通",
+      "category": "通用技能"
+    },
+    {
+      "name": "大规模数据渲染",
+      "proficiency": "熟练",
+      "category": "数据处理"
+    },
+    {
+      "name": "复杂交互开发",
+      "proficiency": "熟练",
+      "category": "其他"
+    },
+    {
+      "name": "前端工程化",
+      "proficiency": "熟悉",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "精通",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Vite",
+      "proficiency": "精通",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Git",
+      "proficiency": "精通",
+      "category": "项目管理"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "熟练",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术文档编写",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "图形处理",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "音视频",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "3D平台",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "AI原生应用",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "Lovart",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "Claude Code",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "开发工具类产品",
+      "proficiency": "不限",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "5年以上前端开发经验，具备扎实的计算机基础，并深刻理解浏览器渲染原理及性能优化。",
+    "精通React技术栈及生态，熟练运用TypeScript，主导过大型复杂系统的架构设计与开发",
+    "熟练运用AI编程工具及大语言模型，有实际应用经验，能应用AI有效提升开发效率以及攻克技术难题",
+    "在Web性能优化方面有深入实践以及具备出色的问题定位能力，擅长处理大规模数据渲染与复杂交互场景",
+    "熟悉从开发到部署的完整前端工程化流程，精通Webpack/Vite等构建工具及Git协作"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "source_file": "lyq_17.txt",
+  "job_title": "Web前端开发工程师-网易云音乐",
+  "location": "杭州、北京、上海",
+  "education": "本科",
+  "experience": "1-3年",
+  "employment_type": "全职",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "参与网易云音乐Web端、PC客户端、音乐社区等核心产品前端架构设计与开发",
+    "负责复杂交互场景、音乐可视化、播放器内核等前端功能实现",
+    "优化前端性能（加载、渲染、执行），保障多端（PC/移动）流畅体验",
+    "推动前端工程化、组件化、自动化测试体系建设",
+    "与后端、产品团队协作，快速响应需求并保障交付质量"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "ECMAScript 6+",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟练",
+      "category": "前端框架"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟练",
+      "category": "前端框架"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "熟悉",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Vite",
+      "proficiency": "熟悉",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "前端模块化",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "前端工程化",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "跨浏览器适配",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "跨终端适配",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "兼容性问题处理",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "需求响应能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "交付质量保障",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Node.js",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "服务端渲染",
+      "proficiency": "了解",
+      "category": "前端框架"
+    },
+    {
+      "name": "静态站点生成",
+      "proficiency": "了解",
+      "category": "前端框架"
+    },
+    {
+      "name": "前端监控",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "ECharts",
+      "proficiency": "了解",
+      "category": "前端框架"
+    },
+    {
+      "name": "D3.js",
+      "proficiency": "了解",
+      "category": "前端框架"
+    },
+    {
+      "name": "Canvas",
+      "proficiency": "了解",
+      "category": "前端框架"
+    },
+    {
+      "name": "WebGL",
+      "proficiency": "了解",
+      "category": "前端框架"
+    },
+    {
+      "name": "音频处理",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "微前端",
+      "proficiency": "了解",
+      "category": "前端框架"
+    },
+    {
+      "name": "低代码平台",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "前端安全",
+      "proficiency": "了解",
+      "category": "网络"
+    },
+    {
+      "name": "自动化测试",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "全栈开发",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机相关专业，1-3年前端开发经验。",
+    "精通HTML/CSS/JavaScript，熟练使用ES6+、TypeScript。",
+    "熟练掌握React/Vue任一主流框架，有大型项目实战经验。",
+    "熟悉Webpack/Vite等构建工具，了解前端模块化与工程化。",
+    "具备跨浏览器、跨终端适配能力，能解决兼容性问题。有一定了解的：",
+    "Node.js、SSR/SSG、前端监控与性能优化。",
+    "可视化（ECharts、D3.js）、Canvas/WebGL、音频处理。",
+    "微前端、低代码平台、前端安全与自动化测试。"
+  ]
+}

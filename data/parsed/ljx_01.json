@@ -1,0 +1,166 @@
+{
+  "source_file": "ljx_01.txt",
+  "job_title": "前端开发工程师",
+  "location": "北京、上海、深圳、杭州、南京、成都、西安、广州",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "负责华为云控制台前端开发，涉及计算、网络、存储、安全、PaaS等业务模块",
+    "设计并实现前端框架与UI组件库，提升用户体验和研发效率",
+    "搭建前端工程化体系，实现项目初始化、构建、发布、运维的DevOps支撑",
+    "开发可视化搭建工具，采用低代码方式快速搭建页面，提升运营开发效率",
+    "与后端、UX/UI、产品团队协作，完成接口集成、性能优化和跨浏览器兼容性调优"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟练",
+      "category": "其他"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟练",
+      "category": "其他"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Angular",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Gulp",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "前端模块化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "前端工程化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "问题分析与解决能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "了解",
+      "category": "编程语言"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "容器化",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "云原生",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "Serverless",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "DevOps",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Web应用开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "移动端H5开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "响应式开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "前端安全",
+      "proficiency": "精通",
+      "category": "网络"
+    },
+    {
+      "name": "XSS防护",
+      "proficiency": "精通",
+      "category": "网络"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "精通",
+      "category": "通用技能"
+    },
+    {
+      "name": "HarmonyOS",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "鸿蒙生态开发",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、软件、通信、电子信息等相关专业；",
+    "熟练掌握HTML5、CSS3、JavaScript（ES5/ES6）等前端基础；",
+    "熟悉Vue、React或Angular中任意一种前端框架；",
+    "掌握Webpack、Gulp等构建工具，理解前端模块化、工程化原理；",
+    "具备良好的沟通协作能力和问题分析与解决能力。有一定了解的：",
+    "TypeScript、Node.js；",
+    "Docker容器化、云原生概念；",
+    "Serverless、DevOps流程。"
+  ]
+}

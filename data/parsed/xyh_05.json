@@ -1,0 +1,199 @@
+{
+  "source_file": "xyh_05.txt",
+  "job_title": "大数据-后端开发工程师",
+  "location": "杭州市",
+  "education": "不限",
+  "experience": "不限",
+  "department": "智企事业部-大数据业务中心-研发技术部",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-17",
+  "job_category": "技术-服务端开发-服务端开发",
+  "responsibilities": [
+    "参与 BI/知数的数据查询引擎和数据抽取引擎的服务端研发，独立负责模块设计、开发及性能优化，保障系统高可用与高性能",
+    "参与私有化部署运维自动化研发，端到端负责自动化工具的设计、开发及落地，提升部署效率与运维可靠性",
+    "独立分析系统性能瓶颈，设计并实施架构优化方案，评估技术选型长期影响，攻克关键技术难题",
+    "日常使用 AI 编程工具提升效率，探索并推动 AI 技术在大数据场景的实际应用落地",
+    "与产品、前端、测试等团队推动技术方案达成共识，向非技术人员清晰解释技术决策影响，共同完成项目目标"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "代码规范",
+      "proficiency": "熟练",
+      "category": "通用技能"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "网络知识",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "Nginx",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "category": "缓存"
+    },
+    {
+      "name": "MinIO",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "category": "消息队列"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟悉",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Docker Swarm",
+      "proficiency": "熟悉",
+      "category": "DevOps工具",
+      "parent": "Docker"
+    },
+    {
+      "name": "Docker Registry",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "parent": "Docker"
+    },
+    {
+      "name": "Jenkins",
+      "proficiency": "熟悉",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "算法",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "计算机网络",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "BI",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术选型",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "AI编程工具",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "GitHub Copilot",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "Cursor",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "问题分析",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "主人翁精神",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Jenkins二次开发",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "parent": "Jenkins"
+    },
+    {
+      "name": "AI技术落地",
+      "proficiency": "不限",
+      "category": "AI工具"
+    }
+  ],
+  "raw_requirements": [
+    "熟练掌握 Java 编程语言，具备良好的代码规范和编程习惯；",
+    "熟练掌握 Shell 脚本，熟悉 Linux 操作系统管理及网络知识；",
+    "熟悉 Nginx/MySQL/Redis/MinIO/Kafka 等开源工具的部署、运维及原理；",
+    "熟悉 Swarm 体系架构，有镜像仓库部署及使用经验；",
+    "熟悉 Jenkins 持续集成工具，有二次开发经验者优先；",
+    "扎实的计算机基础，包括数据结构、算法、操作系统、计算机网络等；",
+    "理解 BI/数据产品业务场景，能判断技术方案对用户体验的影响，有通过技术手段提升产品性能或体验的案例；",
+    "能独立分析系统瓶颈并设计优化方案，评估技术选型长期影响；",
+    "日常使用 AI 编程工具（如 Copilot、Cursor）提升效率，有 AI 技术落地经验者优先；",
+    "沟通协作：能推动跨团队技术方案达成共识，向非技术人员清晰解释技术决策；",
+    "主人翁精神：对模块/系统端到端负责，主动发现并解决生产环境问题；"
+  ]
+}

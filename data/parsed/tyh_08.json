@@ -1,0 +1,130 @@
+{
+  "source_file": "tyh_08.txt",
+  "job_title": "客户端开发工程师-TikTok社交",
+  "location": "北京",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "客户端开发",
+  "responsibilities": [
+    "负责TikTok社交业务客户端（Android/iOS）的相关工作，包括短视频产品客户端功能迭代和开发、工程架构、构建工具、研发流程、业务架构、性能与体验等",
+    "探索AI在TikTok中的应用，例如自动化代码生成、智能调试工具、端模型等",
+    "在指导下完成关键问题或技术的探索和攻坚，寻找技术创新点，赋能产品和业务研发"
+  ],
+  "required_skills": [
+    {
+      "name": "Android",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "iOS",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "人工智能",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "自动化代码生成",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "智能调试工具",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "计算机基础",
+      "proficiency": "扎实",
+      "category": "通用技能"
+    },
+    {
+      "name": "网络",
+      "proficiency": "扎实",
+      "category": "网络"
+    },
+    {
+      "name": "软件开发",
+      "proficiency": "扎实",
+      "category": "通用技能"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Kotlin",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Objective-C",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "强",
+      "category": "软技能"
+    },
+    {
+      "name": "动手能力",
+      "proficiency": "较强",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "优秀",
+      "category": "软技能"
+    },
+    {
+      "name": "编程习惯",
+      "proficiency": "良好",
+      "category": "通用技能"
+    },
+    {
+      "name": "编码思路",
+      "proficiency": "清晰",
+      "category": "通用技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "移动端开发",
+      "proficiency": "不限",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "2026届获得本科及以上学历，计算机、软件、电子信息等相关专业；",
+    "扎实的计算机、网络和软件开发相关基础，熟悉或掌握至少一门软件开发语言（例如Java、Kotlin、Objective-C、C++、C、JavaScript）；",
+    "学习能力强，对客户端开发技术有好奇心，对新兴技术趋势感兴趣；",
+    "具有较强的学习能力和动手能力，良好的沟通能力和优秀的团队协作能力；",
+    "良好的编程习惯，编码思路清晰；",
+    "加分项：有移动端开发经验，热爱移动端开发，在工程技术上追求卓越。"
+  ]
+}

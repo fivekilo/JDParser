@@ -1,0 +1,165 @@
+{
+  "source_file": "xzl_16.txt",
+  "job_title": "LLM Pretrain算法研究员",
+  "location": "上海、北京",
+  "education": "硕士",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "程序&技术类",
+  "target_group": "常规社招",
+  "responsibilities": [
+    "专研训练框架，快速定位训练中出现的问题，分析训练过程中的模型表现，跟infra team合作来保证训练策略的正确性",
+    "紧跟领域前沿技术，研究新型LLM模型架构，提升训练或推理的计算效率和模型性能",
+    "研究不同架构、数据、目标函数和优化方法等各个算法方面的scaling law，总结出高效稳定的预训练策略",
+    "拓展模型在长文本理解和生成的能力"
+  ],
+  "required_skills": [
+    {
+      "name": "自然语言处理",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "算法基础",
+      "proficiency": "扎实",
+      "category": "通用技能"
+    },
+    {
+      "name": "代码能力",
+      "proficiency": "扎实",
+      "category": "通用技能"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "category": "深度学习"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "协作能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "创新能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "学术论文发表",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "NeurIPS",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "ICML",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "ACL",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "EMNLP",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "编程竞赛",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "ACM ICPC",
+      "proficiency": "不限",
+      "category": "其他",
+      "parent": "编程竞赛"
+    },
+    {
+      "name": "NOI",
+      "proficiency": "不限",
+      "category": "其他",
+      "parent": "编程竞赛"
+    },
+    {
+      "name": "IOI",
+      "proficiency": "不限",
+      "category": "其他",
+      "parent": "编程竞赛"
+    },
+    {
+      "name": "TopCoder",
+      "proficiency": "不限",
+      "category": "其他",
+      "parent": "编程竞赛"
+    },
+    {
+      "name": "分布式训练",
+      "proficiency": "了解",
+      "category": "深度学习"
+    },
+    {
+      "name": "分布式训练框架",
+      "proficiency": "了解",
+      "category": "深度学习"
+    },
+    {
+      "name": "性能调优",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "资源管理",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "MoE",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "稀疏注意力",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "模型结构分析",
+      "proficiency": "不限",
+      "category": "深度学习"
+    }
+  ],
+  "raw_requirements": [
+    "计算机科学、人工智能或相关领域的硕士或博士学历",
+    "在自然语言处理、大语言模型研究或机器学习领域中具有相关研究经验",
+    "具备扎实的代码与算法基础，熟练掌握PyTorch等深度学习框架",
+    "具备有效的沟通和协作技能，对探索新技术和推动技术创新充满热情"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "source_file": "ljx_14.txt",
+  "job_title": "后端开发工程师",
+  "location": "上海",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "后端开发",
+  "responsibilities": [
+    "负责电商核心交易系统（商品、订单、支付、优惠）后端设计与开发",
+    "参与高并发秒杀、促销活动系统的架构设计与性能优化",
+    "负责系统的高可用设计，保障大促期间的稳定性",
+    "推动代码质量提升，编写技术文档，参与Code Review",
+    "与产品、前端、测试团队协作，高质量交付业务需求"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "category": "缓存"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "category": "消息队列"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "算法",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "计算机网络",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "不限",
+      "category": "编程语言"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "高并发系统架构",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "缓存技术",
+      "proficiency": "了解",
+      "category": "缓存"
+    },
+    {
+      "name": "CDN",
+      "proficiency": "了解",
+      "category": "网络"
+    },
+    {
+      "name": "负载均衡",
+      "proficiency": "了解",
+      "category": "网络"
+    },
+    {
+      "name": "电商交易流程",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "支付系统",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "编程习惯",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术文档编写",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "Code Review",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "电商系统开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "系统稳定性",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、软件工程等相关专业；",
+    "熟练掌握Java/C++/Go等至少一门后端语言，有良好的编程习惯；",
+    "熟悉MySQL、Redis、Kafka等常用中间件的原理与使用；",
+    "掌握数据结构、算法、操作系统、计算机网络等基础；",
+    "熟悉Linux环境，能够编写Shell脚本进行日常运维。有一定了解的：",
+    "分布式系统设计、高并发系统架构经验；",
+    "缓存技术、CDN加速、负载均衡相关原理；",
+    "电商交易流程、支付系统基本逻辑。"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "source_file": "tyh_01.txt",
+  "job_title": "前端开发工程师-Flow",
+  "location": "上海",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "负责AI产品的前端技术选型和开发工作",
+    "编写通用组件和类库，提升开发效率和质量",
+    "通过技术手段提升用户体验并满足高性能要求",
+    "优化前端功能设计，解决浏览器和终端设备的兼容性问题"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Element UI",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Material-UI",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Ant Design",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "熟悉",
+      "category": "后端框架"
+    },
+    {
+      "name": "FS",
+      "proficiency": "熟练",
+      "category": "其他",
+      "parent": "Node.js"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "熟练",
+      "category": "网络",
+      "parent": "Node.js"
+    },
+    {
+      "name": "Buffer",
+      "proficiency": "熟练",
+      "category": "其他",
+      "parent": "Node.js"
+    },
+    {
+      "name": "Events",
+      "proficiency": "熟练",
+      "category": "其他",
+      "parent": "Node.js"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Angular",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "代码能力",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "上层设计能力",
+      "proficiency": "良好",
+      "category": "通用技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "2026届获得本科及以上学历，计算机专业优先；",
+    "熟悉前端相关技术栈（HTML、CSS、JS），有扎实的代码功底和良好的上层设计能力；",
+    "熟悉常用UI框架，如Element Ui、Material-UI、Ant Design等；",
+    "熟悉Node.js，熟练使用FS、HTTP、Buffer、Events等常用模块；",
+    "熟悉常用框架如React、Vue.js、AngularJS实现原理及开发模式；",
+    "对前端相关技术抱有好奇心，持续关注熟悉前沿技术。"
+  ]
+}

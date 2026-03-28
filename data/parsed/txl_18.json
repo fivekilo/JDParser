@@ -1,0 +1,134 @@
+{
+  "source_file": "txl_18.txt",
+  "job_title": "网络运维工程师-算力与AI基础设施",
+  "location": "北京/上海",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "运维",
+  "responsibilities": [
+    "负责超大规模AI/数据集群网络建设运维工作",
+    "参与日常值班，处理业务问题",
+    "开发自动化工具或平台，提高运维效率，规范操作流程"
+  ],
+  "required_skills": [
+    {
+      "name": "TCP/IP",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "OSPF",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "BGP",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "Python",
+      "proficiency": "不限",
+      "category": "编程语言"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "不限",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "不限",
+      "category": "编程语言"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "了解",
+      "category": "操作系统"
+    },
+    {
+      "name": "网络协议栈",
+      "proficiency": "了解",
+      "category": "网络"
+    },
+    {
+      "name": "自动化工具开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "逻辑分析能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "抽象能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "拆分能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "网络架构",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "白盒交换机",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "数据中心网络",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "应急排查能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "问题处理能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2026届获得本科及以上学历，网络工程、通信工程和计算机等相关专业；",
+    "熟悉TCP/IP、OSPF、BGP等网络协议，有网络设备操作经验优先；",
+    "有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分；",
+    "有强烈的求知欲，优秀的学习和沟通能力。有一定了解的：",
+    "掌握至少一门开发脚本语言（如Python/Shell/Go等），具备一定的运维工具开发能力；",
+    "了解基本的Linux系统管理和底层网络协议栈原理。加分项或注意事项",
+    "在网络架构、白盒交换机或数据中心网络领域有相关实习或深入研究经验；",
+    "责任心强，抗压能力好，能适应突发问题的紧急排查与处理。参加面试的城市北京/上海 远程面试招聘部门和工作地云基础设施部门北京/上海"
+  ]
+}

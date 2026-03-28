@@ -1,0 +1,125 @@
+{
+  "source_file": "txl_04.txt",
+  "job_title": "全栈开发工程师-飞书办公套件",
+  "location": "北京/广州/深圳/杭州",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "负责飞书视频会议业务相关产品的开发，包括视频会议、会议室解决方案、音视频创新产品等",
+    "参与高效高质量的设计和编码，覆盖跨端应用、工程构建、性能品质等方向",
+    "持续关注用户体验，与产品和设计协作改进产品易用性"
+  ],
+  "required_skills": [
+    {
+      "name": "软件开发",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Rust",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "前端框架",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "责任感",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "较强",
+      "category": "软技能"
+    },
+    {
+      "name": "表达能力",
+      "proficiency": "较强",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "探索精神",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "音视频底层机制",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "WebRTC",
+      "proficiency": "了解",
+      "category": "网络"
+    },
+    {
+      "name": "跨平台开发架构",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "前后端交互原理",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "全栈开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "独立项目开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "项目上线",
+      "proficiency": "不限",
+      "category": "项目管理"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2026届获得本科及以上学历，计算机、软件工程等相关专业优先；",
+    "具备扎实的基础知识，熟悉软件开发和操作系统；",
+    "熟悉一门或以上开发语言：JavaScript、Rust、Golang、Java；",
+    "熟悉至少一种前端框架；",
+    "具备较强的责任感、逻辑思维能力及表达能力，乐于协作，有探索精神。有一定了解的：",
+    "对音视频领域的底层机制或WebRTC有一定的了解；",
+    "对跨平台开发架构及前后端交互原理有一定了解。加分项或注意事项",
+    "有全栈开发经验者优先；",
+    "有独立开发并上线的完整项目经验者优先。参加面试的城市北京/广州/深圳/杭州 远程面试招聘部门和工作地飞书业务线北京/广州/深圳/杭州"
+  ]
+}

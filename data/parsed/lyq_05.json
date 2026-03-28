@@ -1,0 +1,196 @@
+{
+  "source_file": "lyq_05.txt",
+  "job_title": "测试开发工程师",
+  "location": "杭州、北京、上海、深圳",
+  "education": "本科",
+  "experience": "2年以上",
+  "employment_type": "全职",
+  "job_category": "测试",
+  "responsibilities": [
+    "参与产品全流程测试，包括需求评审、用例设计、执行、缺陷跟踪和质量分析",
+    "开发自动化测试框架、工具与平台，实现功能测试、性能测试和接口自动化测试",
+    "保障分布式系统和云原生应用的稳定性与高可用性，制定测试策略",
+    "推动测试流程优化，提升测试效率与产品质量，降低线上故障发生率",
+    "与开发、产品团队协作，参与质量回溯，推动问题闭环解决"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "自动化测试",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "JUnit",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "TestNG",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "Selenium",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "Appium",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "接口测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "性能测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "功能测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "问题定位",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "问题分析能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "线上问题排查",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "持续集成",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "持续部署",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "云原生测试环境",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "测试平台开发",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "测试数据构造",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "质量监控体系建设",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "测试方案设计",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "电商测试开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "云服务测试开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "中间件测试开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "自动化平台建设",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "测试工具开发",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "测试框架开发",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "开发流程",
+      "proficiency": "熟悉",
+      "category": "项目管理"
+    },
+    {
+      "name": "全链路质量保障能力",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "计算机相关专业，本科及以上学历，2年以上测试开发经验。",
+    "熟练掌握Java/Python/Shell等至少一门编程语言。",
+    "熟悉自动化测试框架（JUnit、TestNG、Selenium、Appium）。",
+    "具备接口测试、性能测试、功能测试实战经验。",
+    "良好的问题定位与分析能力，能快速排查线上问题。有一定了解的：",
+    "持续集成/持续部署（CI/CD）、Docker/K8s、云原生测试环境。",
+    "测试平台开发、测试数据构造、质量监控体系建设。",
+    "分布式系统、微服务架构测试方案设计。"
+  ]
+}

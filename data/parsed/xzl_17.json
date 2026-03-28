@@ -1,0 +1,93 @@
+{
+  "source_file": "xzl_17.txt",
+  "job_title": "渲染开发-Varsapura",
+  "location": "上海",
+  "education": "不限",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "程序&技术类",
+  "target_group": "常规社招",
+  "responsibilities": [
+    "与技术美术和美术团队紧密合作，开发符合次世代游戏画面水准的图形功能",
+    "优化超大规模复杂场景下的图形功能性能",
+    "跟踪图形技术发展趋势，结合项目需要研究并开发业界领先的图形技术方案，提升游戏画面表现",
+    "理解并最大限度发挥不同平台的硬件特性，优化渲染功能性能",
+    "学习并理解下一代主机平台特性，结合项目进行深度定制化图形功能开发"
+  ],
+  "required_skills": [
+    {
+      "name": "图形 API",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "DirectX 12",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "图形 API"
+    },
+    {
+      "name": "Vulkan",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "图形 API"
+    },
+    {
+      "name": "图形硬件架构",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "GCN",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "图形硬件架构"
+    },
+    {
+      "name": "RDNA2",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "图形硬件架构"
+    },
+    {
+      "name": "数学基础",
+      "proficiency": "熟练",
+      "category": "通用技能"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "技术美术协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "3A游戏项目开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "Unreal Engine",
+      "proficiency": "不限",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "熟悉至少一种现代图形API（DX12, Vulkan等）；",
+    "熟悉至少一种图形硬件架构（GCN, RDNA2等）；",
+    "具备扎实的数学基础；",
+    "熟练掌握C++语言；",
+    "有3A项目开发经验者优先；",
+    "有Unreal的引擎开发经验者优先。"
+  ]
+}

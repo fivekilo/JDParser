@@ -1,0 +1,286 @@
+{
+  "source_file": "xyh_14.txt",
+  "job_title": "资深架构师（工程智能化）",
+  "location": "杭州市",
+  "education": "本科",
+  "experience": "5-10年",
+  "department": "伏羲机器人-工程机械部-开发组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-06",
+  "job_category": "技术-服务端开发-服务端开发",
+  "responsibilities": [
+    "负责机器人/车载软件系统的架构设计与研发，制定技术方案并推动工程化落地",
+    "负责系统需求分析、模块拆分与核心模块开发，推进跨模块集成联调与版本迭代",
+    "建设与优化系统稳定性与可靠性能力，包括问题定位、性能优化、异常诊断、可观测性与质量保障",
+    "负责工具链与工程体系建设，包括自动化测试、持续集成/发布、配置与版本管理、部署与运维支撑",
+    "与算法、硬件、产品、交付团队协作，将算法能力工程化为高可靠、低成本、可规模化复制的产品能力"
+  ],
+  "required_skills": [
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "GDB",
+      "proficiency": "熟练",
+      "category": "其他"
+    },
+    {
+      "name": "perf",
+      "proficiency": "熟练",
+      "category": "其他"
+    },
+    {
+      "name": "Valgrind",
+      "proficiency": "熟练",
+      "category": "其他"
+    },
+    {
+      "name": "ROS",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "ROS1",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "ROS"
+    },
+    {
+      "name": "ROS2",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "ROS"
+    },
+    {
+      "name": "自动化测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "持续集成",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "持续发布",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "配置管理",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "版本管理",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "部署运维",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "系统架构设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "需求分析",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "模块拆分",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "核心模块开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "集成联调",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "版本迭代",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "问题定位",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "异常诊断",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "可观测性",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "质量保障",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "系统工程",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "稳定性设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "实时性设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "可维护性设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "可扩展性设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "运动控制",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "视觉感知",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "定位建图",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "决策规划",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "接口定义",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "工程化落地",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "推进能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "主动性",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Apollo",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "嵌入式系统",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "RTOS",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "边缘计算",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "软硬件解耦",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "远程运维",
+      "proficiency": "熟悉",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "设备管理",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "从0到1",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "规模化交付",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历,5年及以上机器人/自动驾驶/智能硬件/工控自动化相关工程化落地经验;具备完整产品生命周期经验（研发、集成、测试、上线、交付、迭代)。",
+    "有量产/批量交付或稳定上线经验，理解质量标准、验收与问题闭环机制。",
+    "具备系统工程与架构能力,关注稳定性、实时性、可维护性与可扩展性.4,熟悉Linux系统开发与调试,熟练使用C/C++ (或以C++为主) /Python;熟练使用gdb, perf, valgrind等工具定位问题与优化性能。",
+    "熟悉ROS (ROS1/ROS2)生态与工程化开发/部署;有Apollo 等平台/中间件经验加分.6,理解运动控制、视觉感知、定位建图、决策规划等基础原理,能完成算法模块的接口定义、集成联调与工程化运行保障。7,主动性强、责任心强,具备跨团队协作与推进能力;能适应ToB项目节奏与必要的现场联调支持。"
+  ]
+}

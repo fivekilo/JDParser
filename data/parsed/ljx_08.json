@@ -1,0 +1,199 @@
+{
+  "source_file": "ljx_08.txt",
+  "job_title": "AI算法工程师",
+  "location": "北京、上海、深圳",
+  "education": "硕士",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "AI/机器学习",
+  "responsibilities": [
+    "参与文心一言等大模型系统的核心算法研发，包括预训练、微调、推理优化等环节",
+    "负责大模型在百度搜索、信息流、智能云等产品中的算法优化与应用落地",
+    "探索前沿AI算法，研究大模型Agent、RAG、多模态生成等核心技术",
+    "参与模型训练效率优化，降低训练和推理成本",
+    "编写算法文档，沉淀技术方案，推动团队AI能力提升"
+  ],
+  "required_skills": [
+    {
+      "name": "深度学习",
+      "proficiency": "扎实",
+      "category": "深度学习"
+    },
+    {
+      "name": "Transformer",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "BERT",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "GPT",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "category": "深度学习"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟练",
+      "category": "深度学习"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Python",
+      "proficiency": "良好",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "良好",
+      "category": "编程语言"
+    },
+    {
+      "name": "线性代数",
+      "proficiency": "良好",
+      "category": "其他"
+    },
+    {
+      "name": "概率统计",
+      "proficiency": "良好",
+      "category": "其他"
+    },
+    {
+      "name": "优化理论",
+      "proficiency": "良好",
+      "category": "其他"
+    },
+    {
+      "name": "预训练",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "监督微调",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "RLHF",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "分布式训练",
+      "proficiency": "了解",
+      "category": "深度学习"
+    },
+    {
+      "name": "Tensor Parallel",
+      "proficiency": "了解",
+      "category": "深度学习",
+      "parent": "分布式训练"
+    },
+    {
+      "name": "Pipeline Parallel",
+      "proficiency": "了解",
+      "category": "深度学习",
+      "parent": "分布式训练"
+    },
+    {
+      "name": "Data Parallel",
+      "proficiency": "了解",
+      "category": "深度学习",
+      "parent": "分布式训练"
+    },
+    {
+      "name": "模型压缩",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "量化",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "推理加速",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "算法文档编写",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "自然语言处理",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "ACL",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "EMNLP",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "NeurIPS",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "大模型训练",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "AI安全",
+      "proficiency": "深入",
+      "category": "其他"
+    },
+    {
+      "name": "对齐技术",
+      "proficiency": "深入",
+      "category": "机器学习"
+    },
+    {
+      "name": "Agent",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "多模态生成",
+      "proficiency": "不限",
+      "category": "深度学习"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "硕士及以上学历，人工智能、计算机科学、机器学习等相关专业；",
+    "扎实的深度学习理论功底，熟悉Transformer、BERT、GPT等模型原理；",
+    "熟练使用PyTorch、TensorFlow等深度学习框架；",
+    "熟悉Linux环境下的开发与调试，良好的Python/C++编程能力；",
+    "具备良好的数学基础（线性代数、概率统计、优化理论）。有一定了解的：",
+    "大模型预训练、SFT、RLHF相关经验；",
+    "分布式训练（TensorParallel、PipelineParallel、DataParallel）；",
+    "模型压缩、量化、推理加速技术。"
+  ]
+}

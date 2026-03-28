@@ -1,0 +1,152 @@
+{
+  "source_file": "ljx_19.txt",
+  "job_title": "数据工程师",
+  "location": "北京、上海",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "数据分析",
+  "responsibilities": [
+    "参与大数据平台架构设计与开发",
+    "负责数据仓库、实时计算、流批一体等数据链路建设",
+    "满足业务方数据需求，提供数据分析、数据产品、指标体系等服务",
+    "参与数据治理（数据质量、数据安全、数据标准）体系建设",
+    "探索大模型在数据开发、数据治理领域的创新应用"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Hive",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "业务理解能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "不限",
+      "category": "编程语言"
+    },
+    {
+      "name": "数据建模",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "维度建模",
+      "proficiency": "了解",
+      "category": "数据处理",
+      "parent": "数据建模"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "特征工程",
+      "proficiency": "了解",
+      "category": "机器学习",
+      "parent": "机器学习"
+    },
+    {
+      "name": "数据可视化",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "Tableau",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "parent": "数据可视化"
+    },
+    {
+      "name": "Superset",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "parent": "数据可视化"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大模型",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "parent": "大模型"
+    },
+    {
+      "name": "DataCopilot",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "parent": "大模型"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、统计学、数据科学等相关专业；",
+    "熟悉Python/Java/SQL等编程语言，熟练掌握SQL数据开发；",
+    "了解Hadoop、Hive、Spark、Flink等大数据处理框架；",
+    "具备良好的数据分析能力和业务理解能力；",
+    "熟悉Linux环境，掌握Shell脚本编写。有一定了解的：",
+    "数据建模理论、维度建模方法；",
+    "机器学习基础，了解特征工程基本流程；",
+    "数据可视化工具（Tableau、Superset）使用经验。"
+  ]
+}

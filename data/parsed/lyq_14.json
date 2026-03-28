@@ -1,0 +1,194 @@
+{
+  "source_file": "lyq_14.txt",
+  "job_title": "AI大模型算法高级工程师-腾讯",
+  "location": "深圳、北京、上海",
+  "education": "本科",
+  "experience": "5年以上",
+  "employment_type": "全职",
+  "job_category": "AI/机器学习",
+  "responsibilities": [
+    "负责QCLaw核心AI能力建设，包括智能体协同、LLM微调与优化、Agentic Workflow落地、多模态任务处理",
+    "设计AI应用隐私保护机制、Agent沙箱安全评级等算法能力，构建安全可信AI系统",
+    "搭建可解释算法评估体系与归因链路，通过数据驱动实现天/周/月级迭代优化",
+    "紧跟前沿AI技术趋势，探索AI创新应用，协同团队突破技术深度与广度",
+    "负责算法模型工程化部署，与工程团队协作落地业务场景"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "多模态",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "熟悉",
+      "category": "机器学习"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "智能体",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "论文阅读与复现能力",
+      "proficiency": "良好",
+      "category": "通用技能"
+    },
+    {
+      "name": "工程能力",
+      "proficiency": "优秀",
+      "category": "通用技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大模型微调",
+      "proficiency": "了解",
+      "category": "深度学习"
+    },
+    {
+      "name": "RLHF",
+      "proficiency": "了解",
+      "category": "机器学习",
+      "parent": "大模型微调"
+    },
+    {
+      "name": "RLAIF",
+      "proficiency": "了解",
+      "category": "机器学习",
+      "parent": "大模型微调"
+    },
+    {
+      "name": "MCP协议",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "AI安全",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "多智能体协同",
+      "proficiency": "了解",
+      "category": "AI工具",
+      "parent": "智能体"
+    },
+    {
+      "name": "智能体",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "记忆系统",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "云原生",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "分布式训练",
+      "proficiency": "了解",
+      "category": "深度学习"
+    },
+    {
+      "name": "模型推理优化",
+      "proficiency": "了解",
+      "category": "深度学习"
+    },
+    {
+      "name": "云平台",
+      "proficiency": "熟悉",
+      "category": "云平台"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "算法工程化能力",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "开源项目贡献",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "项目全流程管理",
+      "proficiency": "不限",
+      "category": "项目管理"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，5年以上AI算法研发经验。",
+    "熟练掌握Python/C++/Golang任一语言，具备优秀工程能力。",
+    "扎实的深度学习基础，熟悉大模型、多模态、强化学习任一领域。",
+    "熟悉PyTorch/TensorFlow框架，有Prompt Engineering、Agent实践经验。",
+    "良好的论文阅读与复现能力，能快速跟进前沿技术。有一定了解的：",
+    "大模型微调（RLHF/RLAIF）、MCP协议、AI安全实践。",
+    "多智能体协同、记忆系统、RAG技术栈。",
+    "云原生、分布式训练、模型推理优化技术。"
+  ]
+}

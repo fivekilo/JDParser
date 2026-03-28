@@ -1,0 +1,108 @@
+{
+  "source_file": "xyh_16.txt",
+  "job_title": "【平台】Windows开发工程师",
+  "location": "广州市",
+  "education": "不限",
+  "experience": "不限",
+  "department": "游戏应用与平台发展事业部-模拟器项目部-技术组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-06",
+  "job_category": "技术-前端及客户端开发-桌面端开发",
+  "responsibilities": [
+    "参与网易游戏平台产品的设计与研发",
+    "参与Windows客户端业务组件化设计与开发",
+    "参与项目技术攻关"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++ STL",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "C++"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟练",
+      "category": "其他"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟练",
+      "category": "其他"
+    },
+    {
+      "name": "Windows",
+      "proficiency": "熟练",
+      "category": "操作系统"
+    },
+    {
+      "name": "Windows系统编程",
+      "proficiency": "熟练",
+      "category": "其他",
+      "parent": "Windows"
+    },
+    {
+      "name": "Windows UI消息机制",
+      "proficiency": "熟练",
+      "category": "其他",
+      "parent": "Windows"
+    },
+    {
+      "name": "进程间通信",
+      "proficiency": "熟练",
+      "category": "其他",
+      "parent": "Windows"
+    },
+    {
+      "name": "TCP/IP",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队合作能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "DuiLib",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "WinUI",
+      "proficiency": "熟悉",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "计算机或相关专业的本科及以上学历，3年及以上开发经验，含至少1年Windows开发经验；",
+    "熟悉现代C++，熟悉C++ STL，熟练使用常用算法和数据结构；",
+    "熟练掌握Windows系统编程和Windows UI消息机制；",
+    "熟练掌握Windows进程间通信技术；",
+    "熟悉TCP/IP、HTTP网络协议；",
+    "学习能力强，具备良好的沟通能力和团队合作能力；加分项：熟悉DuiLib或WinUI。"
+  ]
+}

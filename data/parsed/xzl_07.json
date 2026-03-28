@@ -1,0 +1,157 @@
+{
+  "source_file": "xzl_07.txt",
+  "job_title": "测试开发工程师 （游戏研发效能工具）",
+  "location": "上海",
+  "education": "本科",
+  "experience": "3年左右",
+  "employment_type": "全职",
+  "job_category": "程序&技术类",
+  "responsibilities": [
+    "参与游戏研发管线的项目管理平台及工具相关的质量保障工作，包括需求、开发、测试、发布及线上各阶段的质量把关及问题解决跟进，及时识别并有效防止风险",
+    "负责日常测试方案、测试计划制定，迭代项目跟进，以质量为核心，提升团队协作效率",
+    "通过自动化测试脚本（接口、UI等）、测试工具开发、AI能力等提升测试效率",
+    "负责团队专项测试任务推进，包括性能测试、安全测试、兼容性测试"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "掌握",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "掌握",
+      "category": "编程语言"
+    },
+    {
+      "name": "接口自动化测试",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "UI自动化测试",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "测试框架",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "自动化测试工具",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "自动化测试平台",
+      "proficiency": "精通",
+      "category": "测试工具"
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "精通",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "持续集成",
+      "proficiency": "精通",
+      "category": "DevOps工具",
+      "parent": "CI/CD"
+    },
+    {
+      "name": "Web端测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "APP端测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "服务端测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "性能测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "安全测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "兼容性测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "风险识别",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "逻辑分析",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "故障排查",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "善于",
+      "category": "软技能"
+    },
+    {
+      "name": "问题推动解决能力",
+      "proficiency": "较高",
+      "category": "软技能"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "较强",
+      "category": "软技能"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "强",
+      "category": "软技能"
+    },
+    {
+      "name": "AI能力",
+      "proficiency": "不限",
+      "category": "AI工具"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "游戏研发管线",
+      "proficiency": "熟悉",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业；",
+    "具备3年左右软件测试经验、有web端、APP端、服务端测试经验、熟悉游戏研发管线者优先",
+    "掌握至少一门脚本开发语言（python、go），具备接口及UI自动化测试经验，熟悉主流的测试框架及自动化工具, 深刻理解自动化平台和CI/CD持续集成体系建设；",
+    "具备良好地团队合作精神，善于协调沟通，具备较高的问题推动解决能力；",
+    "具有较强的逻辑分析、故障排查、抗压能力，富有激情，责任心强，做事客观公正。"
+  ]
+}

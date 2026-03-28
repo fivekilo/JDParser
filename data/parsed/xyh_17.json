@@ -1,0 +1,133 @@
+{
+  "source_file": "xyh_17.txt",
+  "job_title": "【平台】图形开发工程师",
+  "location": "广州市",
+  "education": "不限",
+  "experience": "不限",
+  "department": "游戏应用与平台发展事业部-模拟器项目部-技术组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-06",
+  "job_category": "技术-技术综合-技术综合",
+  "responsibilities": [
+    "负责安卓模拟器的图形引擎开发，包括设计和开发图形相关应用程序",
+    "优化图形框架，提升模拟器的渲染性能和稳定性",
+    "解决应用程序和游戏在模拟器运行时的渲染相关问题，确保其正常运行和流畅性",
+    "针对模拟器整体表现进行改进和优化，提高用户体验",
+    "参与团队讨论和协作，与其他开发人员合作解决技术问题",
+    "跟踪和研究图形技术的最新发展和趋势，持续改进和更新图形引擎"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机科学基础",
+      "proficiency": "扎实",
+      "category": "通用技能"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "软件设计",
+      "proficiency": "良好",
+      "category": "通用技能"
+    },
+    {
+      "name": "编程习惯",
+      "proficiency": "良好",
+      "category": "通用技能"
+    },
+    {
+      "name": "图形渲染管线",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "图形 API",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "抓帧分析工具",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "帧分析",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Vulkan",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "图形 API"
+    },
+    {
+      "name": "Metal",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "图形 API"
+    },
+    {
+      "name": "图形 API",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "安卓图形子系统",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "Unity",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "渲染管线",
+      "proficiency": "熟悉",
+      "category": "其他",
+      "parent": "Unity"
+    },
+    {
+      "name": "Unreal Engine 4",
+      "proficiency": "熟悉",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "具备扎实的计算机科学基础，熟悉常用的数据结构和算法。",
+    "熟悉C/C++，具有良好的软件设计能力和编程习惯。",
+    "熟悉图形渲染管线，熟悉一种或多种图形Api，可以使用常见抓帧分析工具进行帧分析。",
+    "良好的沟通能力和团队协作能力。"
+  ]
+}

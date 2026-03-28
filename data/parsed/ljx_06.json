@@ -1,0 +1,155 @@
+{
+  "source_file": "ljx_06.txt",
+  "job_title": "前端开发工程师",
+  "location": "北京、上海",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "负责京东零售平台前端业务功能开发与重构，保证代码可维护性、可扩展性",
+    "参与前端架构设计，推进模块化、可复用组件库建设",
+    "优化前端性能，解决浏览器兼容、渲染优化、加载速度等问题",
+    "与后端、产品、UED团队协作，完成接口对接与用户体验提升",
+    "参与前端工程化建设，推动构建、部署、监控系统优化"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Vite",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "浏览器缓存机制",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "跨域处理",
+      "proficiency": "熟悉",
+      "category": "网络"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "TypeScript",
+      "proficiency": "了解",
+      "category": "编程语言"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "前端安全",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "XSS",
+      "proficiency": "了解",
+      "category": "网络",
+      "parent": "前端安全"
+    },
+    {
+      "name": "CSRF",
+      "proficiency": "了解",
+      "category": "网络",
+      "parent": "前端安全"
+    },
+    {
+      "name": "性能监控",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "数据可视化",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "ECharts",
+      "proficiency": "了解",
+      "category": "其他",
+      "parent": "数据可视化"
+    },
+    {
+      "name": "D3.js",
+      "proficiency": "了解",
+      "category": "其他",
+      "parent": "数据可视化"
+    },
+    {
+      "name": "前端工程化",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "自动化测试",
+      "proficiency": "精通",
+      "category": "测试工具"
+    },
+    {
+      "name": "审美",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "用户体验意识",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、软件工程等相关专业；",
+    "熟练掌握HTML5、CSS3、JavaScript（ES6+）前端基础；",
+    "熟悉Vue或React等主流前端框架，有实际项目经验；",
+    "掌握Webpack、Vite等构建工具的原理与使用；",
+    "熟悉HTTP协议、浏览器缓存机制、跨域处理等技术。有一定了解的：",
+    "TypeScript、Node.js全栈开发能力；",
+    "前端安全（XSS、CSRF防护）与性能监控；",
+    "数据可视化相关技术（ECharts、D3.js）。"
+  ]
+}

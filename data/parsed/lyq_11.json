@@ -1,0 +1,201 @@
+{
+  "source_file": "lyq_11.txt",
+  "job_title": "微信小店-后台开发-治理方向",
+  "location": "广州、深圳、北京",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "后端开发",
+  "responsibilities": [
+    "负责微信电商治理功能及系统的研发，保障用户安全购物体验及公平合规的商家达人经营环境",
+    "持续优化系统架构，提升性能、可用性、扩展性及研发效能",
+    "与产品团队协同，解决具体业务场景的技术问题",
+    "参与代码Review与技术方案评审，保障代码质量与系统稳定性",
+    "跟踪前沿技术，推动技术创新在电商治理场景落地"
+  ],
+  "required_skills": [
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "算法",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "高并发系统设计",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟练",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟练",
+      "category": "缓存"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟练",
+      "category": "消息队列"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "问题排查",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "独立处理复杂线上问题",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "微服务架构",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "服务治理",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "云原生",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "电商业务",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "风控系统",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "数据治理",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "自动化测试",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "微信生态",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "电商平台后端开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "治理系统建设",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "系统重构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "高可用架构设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "开源项目经验",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术博客写作",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "技术分享",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机相关专业。",
+    "熟悉Linux环境下的C/C++/Go/Java任一开发语言。",
+    "扎实的数据结构与算法基础，熟悉分布式、高并发系统设计。",
+    "熟练使用MySQL、Redis、Kafka等中间件，具备性能优化能力。",
+    "良好的问题排查与解决能力，能独立处理复杂线上问题。有一定了解的：",
+    "微服务架构、服务治理、云原生（Docker/K8s）技术。",
+    "电商业务、风控系统、数据治理相关知识。",
+    "自动化测试、CI/CD流程与工具使用。"
+  ]
+}

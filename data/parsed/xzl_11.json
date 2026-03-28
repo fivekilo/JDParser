@@ -1,0 +1,108 @@
+{
+  "source_file": "xzl_11.txt",
+  "job_title": "资深Unreal游戏客户端开发（Gameplay）-UE5动作预研（写实奇幻）",
+  "location": "上海",
+  "education": "本科",
+  "experience": "4年以上",
+  "employment_type": "全职",
+  "job_category": "程序&技术类",
+  "responsibilities": [
+    "设计、实现和维护Gameplay相关的系统和工具",
+    "与策划、美术、程序深度合作",
+    "编写清晰、可维护、高效运行的代码",
+    "进行性能分析和代码优化"
+  ],
+  "required_skills": [
+    {
+      "name": "Unreal Engine",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "网络框架",
+      "proficiency": "精通",
+      "category": "网络"
+    },
+    {
+      "name": "大世界程序架构",
+      "proficiency": "精通",
+      "category": "其他"
+    },
+    {
+      "name": "AI工具",
+      "proficiency": "深入了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "寻路算法",
+      "proficiency": "深入了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "动画管线",
+      "proficiency": "深入了解",
+      "category": "其他",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "动作游戏动画表现",
+      "proficiency": "深入了解",
+      "category": "其他"
+    },
+    {
+      "name": "Gameplay系统开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "3D游戏Gameplay架构",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "3D数学",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "线性代数",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "性能分析",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "代码优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "优秀",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "优秀",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "至少满足一点：精通UE的网络框架或独立搭建网络框架、精通UE的大世界程序架构、深入了解实现AI工具寻路算法、深入了解UE动画管线和高品质动作游戏动画表现需求；",
+    "本科或以上学历，计算机相关专业，4年以上游戏开发工作经验，有UE相关和gameplay相关经验；",
+    "理解什么是有趣的gameplay；",
+    "熟悉C++，最好有相关的工作经验；",
+    "优秀的程序能力，最好理解3d游戏gameplay架构；",
+    "熟悉3d数学，线性代数；",
+    "优秀的沟通、团队协作能力。"
+  ]
+}

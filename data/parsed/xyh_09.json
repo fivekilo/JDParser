@@ -1,0 +1,214 @@
+{
+  "source_file": "xyh_09.txt",
+  "job_title": "AI应用工程师（营销工具）",
+  "location": "广州市",
+  "education": "本科",
+  "experience": "3-5年",
+  "department": "技术中心-效能研发部-研发组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-11",
+  "job_category": "技术-服务端开发-服务端开发",
+  "responsibilities": [
+    "设计并开发基于大语言模型和多模态模型的应用、服务与工作流，包括 Agent 化编排",
+    "通过上下文工程、MCP调用、SKILLS设计、RAG等手段提升输出质量、稳定性与可控性",
+    "集成并封装主流模型服务商 API，优化吞吐、延迟、成本与可扩展性，保障线上 SLA",
+    "建立评测体系与回归机制，搭建可观测性与监控告警体系",
+    "与产品、业务、设计、后端和前端团队协作，推动 AI 功能在现有产品中的端到端落地",
+    "编写技术文档、工程规范与最佳实践，推动团队工程化与知识沉淀",
+    "持续跟踪生成式 AI 领域进展，并将成熟方案快速应用到生产环境"
+  ],
+  "required_skills": [
+    {
+      "name": "大语言模型",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "多模态模型",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "Agent",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "上下文工程",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "MCP",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "API设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "API开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "API集成",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "熟练",
+      "category": "数据库"
+    },
+    {
+      "name": "Flask",
+      "proficiency": "不限",
+      "category": "后端框架"
+    },
+    {
+      "name": "FastAPI",
+      "proficiency": "不限",
+      "category": "后端框架"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "测试",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "问题定位",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "故障排查",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "Anthropic API",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "Google API",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "OpenAI API",
+      "proficiency": "熟悉",
+      "category": "AI工具"
+    },
+    {
+      "name": "可观测性",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "监控告警",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "A/B测试",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "技术文档编写",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "工程规范",
+      "proficiency": "不限",
+      "category": "项目管理"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "计算机视觉",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "服务意识",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "较强",
+      "category": "软技能"
+    },
+    {
+      "name": "主动推动能力",
+      "proficiency": "较强",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "生成式AI应用落地",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "Lovart",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "Claude Code",
+      "proficiency": "不限",
+      "category": "AI工具"
+    }
+  ],
+  "raw_requirements": [
+    "计算机科学与技术或相关专业本科及以上；具备机器学习/计算机视觉/自然语言处理基础者加分。",
+    "2 年及以上软件工程经验，具备 API 设计、开发与集成经验；有生成式 AI 应用落地经验者优先。",
+    "有 Agent / 上下文工程 / RAG 的实际项目经验，理解 LLM 的能力边界、常见失效模式与治理方法。",
+    "熟练掌握 Python 或 TypeScript 至少一种；熟练使用 SQL；有 Web 框架经验（Flask/FastAPI 等）。",
+    "熟悉 Linux 开发与运维常用流程，能独立完成开发、测试、上线、问题定位与故障排查。",
+    "熟悉 Anthropic、Google、OpenAI等主流模型服务商 API 的使用与工程化封装经验。",
+    "良好的沟通协作能力与服务意识，具备较强学习能力与主动推动能力。加分项：有类似 Lovart、Claude Code 等 AI 原生应用/开发工具类产品经验"
+  ]
+}

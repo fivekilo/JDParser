@@ -1,0 +1,99 @@
+{
+  "source_file": "xyh_02.txt",
+  "job_title": "Java后端开发（AI方向）",
+  "location": "广州市",
+  "education": "本科",
+  "experience": "3-5年",
+  "department": "游戏应用与平台发展事业部-商业智能部-用户运营产品组",
+  "employment_type": "全职",
+  "headcount": 2,
+  "publish_date": "2026-03-18",
+  "job_category": "技术-服务端开发-服务端开发",
+  "responsibilities": [
+    "负责产品功能模块的设计和开发，根据业务需求完成设计、开发以及文档编写等工作",
+    "与策划及团队其他成员进行有效沟通，分析、解决产品和开发的问题",
+    "保障开发效率，严格管理交付质量",
+    "深入理解业务需求，梳理业务流程，提供相应的解决方案"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "不限",
+      "category": "后端框架"
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "熟练",
+      "category": "后端框架",
+      "parent": "Spring"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "category": "缓存"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "不限",
+      "category": "数据库"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "category": "操作系统"
+    },
+    {
+      "name": "网络",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "故障排查",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "文档编写",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "具有3年以上Java研发工作经验，全日制本科及以上学历，计算机、通信、软件等相关专业；",
+    "熟练掌握 Java 语言，熟练使用 SpringBoot 等主流开发框架， 具有扎实的计算机技术基础和良好的编程习惯；",
+    "熟悉 mysql 及 redis 等常用数据库，具备一定的 SQL 编写及调优能力；",
+    "熟悉 Linux 操作系统、网络等基础知识，具备快速排错能力；",
+    "责任心强，具备良好的团队合作精神和承受压力的能力。"
+  ]
+}

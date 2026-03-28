@@ -1,0 +1,173 @@
+{
+  "source_file": "ljx_10.txt",
+  "job_title": "游戏测试开发工程师",
+  "location": "杭州、广州、上海",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "测试",
+  "responsibilities": [
+    "参与游戏产品全流程测试，包括需求评审、用例设计、执行、缺陷跟踪、质量分析",
+    "开发游戏自动化测试框架、工具与平台，实现功能、性能、兼容性自动化测试",
+    "负责游戏客户端与服务器端的性能分析与优化",
+    "保障游戏在多平台（PC、移动端）、多网络环境下的稳定性与用户体验",
+    "推动测试流程优化，降低线上故障率，提升产品质量"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "游戏测试方法论",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "Unity",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "Unreal Engine",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "问题定位与分析能力",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "故障排查",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "Charles",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "Fiddler",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "adb",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "版本管理工具",
+      "proficiency": "熟悉",
+      "category": "项目管理"
+    },
+    {
+      "name": "图形学基础",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "DirectX",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "OpenGL",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "Vulkan",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "游戏安全",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "反作弊",
+      "proficiency": "了解",
+      "category": "其他",
+      "parent": "游戏安全"
+    },
+    {
+      "name": "外挂检测",
+      "proficiency": "了解",
+      "category": "其他",
+      "parent": "游戏安全"
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "自动化构建",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "游戏测试工具开发",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "测试框架开发",
+      "proficiency": "不限",
+      "category": "测试工具"
+    },
+    {
+      "name": "游戏质量保障",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "MMORPG",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "卡牌游戏",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "休闲游戏",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "热情",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、软件工程、游戏开发等相关专业；",
+    "熟练掌握Python/Java/C++等至少一门编程语言；",
+    "熟悉游戏测试方法论，了解游戏引擎（Unity/Unreal）基础；",
+    "具备良好的问题定位与分析能力，能快速排查游戏崩溃、卡顿等问题；",
+    "熟悉常用测试工具（Charles、Fiddler、adb等）及版本管理工具。有一定了解的：",
+    "图形学基础、DirectX/OpenGL/Vulkan渲染原理；",
+    "游戏安全（反作弊、外挂检测）相关技术；",
+    "CI/CD流水线、自动化构建相关经验。"
+  ]
+}

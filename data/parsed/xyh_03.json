@@ -1,0 +1,101 @@
+{
+  "source_file": "xyh_03.txt",
+  "job_title": "服务端开发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3-5年",
+  "department": "有道事业群-公共职能部-有道企业发展部-企业发展产品研发组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-18",
+  "job_category": "技术-服务端开发-服务端开发",
+  "responsibilities": [
+    "负责多个后端服务系统的设计、开发与维护，处理复杂业务逻辑和系统间交互",
+    "开发和优化离线/实时数据处理任务，支撑业务报表和数据分析需求",
+    "探索AI技术在业务场景中的应用，参与AI Agent、智能化工具的开发",
+    "与财务、大数据、产品等团队协作，理解业务需求并转化为技术方案"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "熟悉",
+      "category": "后端框架"
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "熟悉",
+      "category": "后端框架",
+      "parent": "Spring"
+    },
+    {
+      "name": "Spring Cloud",
+      "proficiency": "熟悉",
+      "category": "后端框架",
+      "parent": "Spring"
+    },
+    {
+      "name": "面向对象设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟练",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟练",
+      "category": "数据处理"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "精通",
+      "category": "数据库"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "category": "缓存"
+    },
+    {
+      "name": "AI Agent",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "分析和解决问题的能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，1-5年服务端开发经验",
+    "精通 Java，熟悉 Spring Boot/Spring Cloud，有良好的面向对象设计能力",
+    "熟练使用 Spark 或 Flink 开发数据处理任务",
+    "精通 SQL，有复杂查询编写和性能调优经验",
+    "熟悉 MySQL、Redis 等常用存储组件",
+    "热爱技术，具有良好的沟通能力、团队合作精神、分析和解决问题的能力"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "source_file": "xyh_08.txt",
+  "job_title": "资深JAVA开发工程师",
+  "location": "杭州市",
+  "education": "本科",
+  "experience": "不限",
+  "department": "传媒事业群-传媒技术部-推荐中心-推荐工程组",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-13",
+  "job_category": "技术-服务端开发-服务端开发",
+  "responsibilities": [
+    "负责推荐服务端开发与架构设计，根据业务需求完成设计、开发以及文档编写等工作",
+    "负责推荐系统的持续优化工作，满足高可用、高性能、高扩展性等需求",
+    "跟进行业技术趋势，推动大数据与AI技术在推荐业务场景的落地"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "category": "缓存"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "category": "消息队列"
+    },
+    {
+      "name": "Dubbo",
+      "proficiency": "熟悉",
+      "category": "后端框架"
+    },
+    {
+      "name": "Elasticsearch",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "ZooKeeper",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "HBase",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "ClickHouse",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "AI编程工具",
+      "proficiency": "熟练",
+      "category": "AI工具"
+    },
+    {
+      "name": "沟通表达能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "技术洞察力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "持续学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "AI Agent",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "自动化工作流",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "知识库",
+      "proficiency": "不限",
+      "category": "数据处理"
+    }
+  ],
+  "raw_requirements": [
+    "本科或以上学历，计算机软件或者相关专业；",
+    "精通Java编程，具备扎实计算机理论基础以及程序设计能力，具备1年以上Java开发经验；",
+    "熟悉Redis，Kafka，Dubbo，ES，ZK、Hbase、Clickhouse等常用中间件的使用方法；",
+    "熟悉大数据技术生态，有Hadoop/Spark/Flink等分布式计算框架开发经验；",
+    "良好的沟通表达能力和团队协作能力，有技术洞察力，对业界技术发展方向有清晰的判断 ；",
+    "熟练使用AI编程工具进行日常开发，提升编码与调试效率；",
+    "对AI工具保持持续学习习惯，愿意探索并在团队内推广新工具应用；",
+    "有Prompt Engineering经验，能编写高质量结构化prompt；有AI Agent或自动化工作流搭建经验；有沉淀AI最佳实践、维护团队prompt库/知识库的经验优先。"
+  ]
+}

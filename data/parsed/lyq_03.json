@@ -1,0 +1,204 @@
+{
+  "source_file": "lyq_03.txt",
+  "job_title": "大数据开发工程师",
+  "location": "杭州、北京、上海",
+  "education": "不限",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "数据分析",
+  "responsibilities": [
+    "设计与开发离线/实时数仓，构建统一数据服务体系，支撑业务分析与挖掘",
+    "负责数据采集、清洗、转换（ETL），保障数据质量与时效性",
+    "优化数据计算任务性能，提升大数据平台稳定性与处理效率",
+    "与数据分析师、算法团队协作，提供数据支持与解决方案",
+    "参与数据治理，制定数据标准，保障数据安全与合规"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Scala",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "熟练",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟练",
+      "category": "数据处理"
+    },
+    {
+      "name": "Hive",
+      "proficiency": "熟练",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟练",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据建模",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "数仓设计",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "维度建模",
+      "proficiency": "熟悉",
+      "category": "数据处理",
+      "parent": "数据建模"
+    },
+    {
+      "name": "星型模型",
+      "proficiency": "熟悉",
+      "category": "数据处理",
+      "parent": "数据建模"
+    },
+    {
+      "name": "ETL",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据清洗",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据质量监控",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "HBase",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "不限",
+      "category": "数据库"
+    },
+    {
+      "name": "SQL优化",
+      "proficiency": "不限",
+      "category": "数据库",
+      "parent": "SQL"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "实时数据处理",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "流计算",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据可视化",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Tableau",
+      "proficiency": "了解",
+      "category": "数据处理",
+      "parent": "数据可视化"
+    },
+    {
+      "name": "FineBI",
+      "proficiency": "了解",
+      "category": "数据处理",
+      "parent": "数据可视化"
+    },
+    {
+      "name": "数据中台",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据服务化",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "数据治理",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "云原生大数据平台",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "阿里云",
+      "proficiency": "了解",
+      "category": "云平台"
+    },
+    {
+      "name": "DataWorks",
+      "proficiency": "了解",
+      "category": "云平台",
+      "parent": "阿里云"
+    },
+    {
+      "name": "MaxCompute",
+      "proficiency": "了解",
+      "category": "云平台",
+      "parent": "阿里云"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "熟悉",
+      "category": "机器学习"
+    },
+    {
+      "name": "特征工程",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "parent": "机器学习"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "精通Java/Python/Scala等至少一门开发语言。",
+    "熟练使用Hadoop/Spark/Hive/Flink等大数据框架。",
+    "熟悉数据建模、数仓设计（维度建模、星型模型）。",
+    "具备ETL开发、数据清洗与质量监控能力。",
+    "熟悉MySQL、HBase等数据库，掌握SQL优化技巧。有一定了解的：",
+    "实时数据处理、流计算、数据可视化工具（Tableau、FineBI）。",
+    "数据中台、数据服务化、数据治理体系建设。",
+    "云原生大数据平台（阿里云DataWorks、MaxCompute）使用经验。"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "source_file": "txl_05.txt",
+  "job_title": "语音大模型后端工程师-Data语音",
+  "location": "北京/上海/深圳",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "AI/机器学习",
+  "responsibilities": [
+    "推进语音、多模态交互大模型最新技术的工程优化和应用落地",
+    "负责大模型分布式推理的架构设计与优化，在模型高速迭代过程中保证架构可扩展、高可用和合理资源利用率",
+    "建设输出创新能力，提升豆包、剪映、抖音等产品的语音交互和智能创作体验"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "不限",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "不限",
+      "category": "编程语言"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "算法设计",
+      "proficiency": "熟悉",
+      "category": "通用技能"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "category": "缓存"
+    },
+    {
+      "name": "RDS",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "category": "消息队列"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "工作责任心",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "熟悉",
+      "category": "机器学习"
+    },
+    {
+      "name": "语音模型",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "分布式系统架构",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "性能调优",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "高并发",
+      "proficiency": "了解",
+      "category": "通用技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "代码能力",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "计算机编程竞赛",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "大模型",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "语音算法",
+      "proficiency": "熟悉",
+      "category": "机器学习"
+    },
+    {
+      "name": "语音技术",
+      "proficiency": "熟悉",
+      "category": "机器学习"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "模型部署",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "运维部署",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2026届获得本科及以上学历，计算机、软件工程、人工智能等相关专业优先；",
+    "扎实的编程基础、良好的编程风格，具备Go、Python项目开发经验；",
+    "熟悉数据结构和算法设计，熟悉Redis、RDS、Kafka、K8s等基础组件；",
+    "有强烈的工作责任心，较好的学习能力、沟通能力和自驱力。有一定了解的：",
+    "熟悉大语言模型或语音模型的底层运行逻辑；",
+    "了解分布式系统架构及高并发场景下的性能调优。加分项或注意事项",
+    "有较强的代码能力优先，在各类国际的计算机编程大赛获得优异成绩优先；",
+    "在大模型领域参与过大影响力的项目或论文者优先；",
+    "熟悉语音相关的算法和技术，有主流框架使用经验优先；",
+    "有深度学习模型落地和运维部署经验优先。参加面试的城市北京/上海/深圳 远程面试招聘部门和工作地Data语音团队北京/上海/深圳"
+  ]
+}

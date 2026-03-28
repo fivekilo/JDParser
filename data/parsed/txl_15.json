@@ -1,0 +1,146 @@
+{
+  "source_file": "txl_15.txt",
+  "job_title": "豆包大模型应用算法工程师-Data AML",
+  "location": "北京/深圳",
+  "education": "硕士",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "AI/机器学习",
+  "responsibilities": [
+    "改进大模型在现实世界复杂任务中的效果，探索可通用、可规模化的方法，包括复杂推理、多模态、自主Agent、可扩展监督和大规模数据合成等方向",
+    "推动大模型技术在高难度场景中的前沿应用，包括Agent系统、专业咨询、科研协作、深度洞察、个性化教育等场景",
+    "面向现实世界高价值任务设计科学、严谨的量化评测体系，提升模型智能水平"
+  ],
+  "required_skills": [
+    {
+      "name": "机器学习",
+      "proficiency": "扎实",
+      "category": "机器学习"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "扎实",
+      "category": "机器学习"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "扎实",
+      "category": "机器学习"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "了解",
+      "category": "深度学习"
+    },
+    {
+      "name": "监督微调",
+      "proficiency": "了解",
+      "category": "深度学习",
+      "parent": "大语言模型"
+    },
+    {
+      "name": "基于人类反馈的强化学习",
+      "proficiency": "了解",
+      "category": "深度学习",
+      "parent": "大语言模型"
+    },
+    {
+      "name": "Agent",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "多模态",
+      "proficiency": "了解",
+      "category": "深度学习"
+    },
+    {
+      "name": "量化评测",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "动手能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "探索能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "思维敏捷",
+      "proficiency": "熟练",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "论文发表",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "ACL",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "EMNLP",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "NAACL",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "NeurIPS",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "ICML",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "ICLR",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "技术创新",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "主动学习",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "快速成长",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2026届获得硕士及以上学位，计算机、通信、数学等相关专业；",
+    "扎实的机器学习/NLP/RL基础，有想法且动手能力强，具备出色的探索能力；",
+    "良好的自驱力，思维敏捷，追求本质，敢于挑战未知问题。有一定了解的：",
+    "对大语言模型（LLM）的SFT、RLHF等微调与对齐技术有基本了解；",
+    "对业界前沿的Agent架构思路和多模态应用有日常关注。加分项或注意事项",
+    "在ACL/EMNLP/NAACL/NeurIPS/ICML/ICLR等顶级会议上发表论文者优先；",
+    "对AI技术的实际落地和突破性应用充满热情，追求技术创新与现实价值的结合；",
+    "乐于在技术攻关中探索前沿领域，能主动学习并快速成长。参加面试的城市北京/深圳 远程面试招聘部门和工作地Data AML团队北京/深圳"
+  ]
+}

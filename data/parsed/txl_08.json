@@ -1,0 +1,136 @@
+{
+  "source_file": "txl_08.txt",
+  "job_title": "前端开发工程师-搜索方向",
+  "location": "北京/上海",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "参与公司搜索业务研发工作，覆盖 Hybrid、Wap、Web",
+    "参与搜索云平台建设，提供全链路配置、中台化、内容引入支持",
+    "参与高并发 SSR 服务建设和运维，推进搜索性能优化与稳定性建设",
+    "参与搜索微前端体系建设，研发工具链并打造 DevOps 解决方案",
+    "参与可视化编辑器等工具研发，利用技术手段提升搜索研发效率",
+    "参与搜索 Node.js 基础功能抽象，研发基础库和 OpenAPI"
+  ],
+  "required_skills": [
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟练",
+      "category": "前端框架"
+    },
+    {
+      "name": "HTML",
+      "proficiency": "熟练",
+      "category": "前端框架"
+    },
+    {
+      "name": "网络协议",
+      "proficiency": "熟练",
+      "category": "网络"
+    },
+    {
+      "name": "前端安全",
+      "proficiency": "熟练",
+      "category": "网络"
+    },
+    {
+      "name": "网络",
+      "proficiency": "熟练",
+      "category": "网络"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "熟练",
+      "category": "通用技能"
+    },
+    {
+      "name": "React",
+      "proficiency": "不限",
+      "category": "前端框架"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "不限",
+      "category": "前端框架"
+    },
+    {
+      "name": "服务意识",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "较强",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "优秀",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "优秀",
+      "category": "软技能"
+    },
+    {
+      "name": "用户体验",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "交互设计",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "需求分析",
+      "proficiency": "了解",
+      "category": "通用技能"
+    },
+    {
+      "name": "高并发架构设计",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "微前端",
+      "proficiency": "了解",
+      "category": "前端框架"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Node.js",
+      "proficiency": "不限",
+      "category": "编程语言"
+    },
+    {
+      "name": "服务端开发",
+      "proficiency": "不限",
+      "category": "后端框架"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、软件、通信等相关专业；",
+    "熟练掌握JavaScript、CSS、HTML、协议、安全、网络、性能优化等前端技术；",
+    "对主流前端框架（React、Vue等）至少一种有深入应用，并理解其底层设计原理；",
+    "具备良好的服务意识、责任心、较强的学习能力、优秀的团队沟通与协作能力。有一定了解的：",
+    "对用户体验、交互操作流程及用户需求有一定了解；",
+    "了解高并发架构设计或微前端架构设计理念。加分项或注意事项",
+    "有Node.js相关的实际服务端开发项目经验者加分。参加面试的城市北京/上海 远程面试招聘部门和工作地搜索业务中心北京/上海"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "source_file": "ljx_09.txt",
+  "job_title": "前端开发工程师",
+  "location": "北京、杭州、广州",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "前端开发",
+  "responsibilities": [
+    "负责业务前端架构设计与实现，保障产品高质量交付",
+    "负责前端功能的开发与重构，保证代码的可维护性、可扩展性、性能高效以及兼容性良好",
+    "参与前端工程化建设，搭建自动化构建、测试、部署体系",
+    "优化前端性能，解决页面加载、渲染流畅度、交互响应等技术难题",
+    "与产品、后端、UED团队紧密协作，推动产品快速迭代"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "ECMAScript 6+",
+      "proficiency": "熟练",
+      "category": "编程语言",
+      "parent": "JavaScript"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Vue 2",
+      "proficiency": "熟悉",
+      "category": "前端框架",
+      "parent": "Vue.js"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Vite",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Rollup",
+      "proficiency": "不限",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "Loader",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "parent": "Webpack"
+    },
+    {
+      "name": "Plugin",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "parent": "Webpack"
+    },
+    {
+      "name": "浏览器缓存机制",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "跨域处理",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "产品协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "TypeScript",
+      "proficiency": "了解",
+      "category": "编程语言"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "了解",
+      "category": "后端框架"
+    },
+    {
+      "name": "前端性能监控",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "错误日志上报",
+      "proficiency": "了解",
+      "category": "测试工具"
+    },
+    {
+      "name": "Web应用开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "移动端H5开发",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "响应式开发",
+      "proficiency": "不限",
+      "category": "前端框架"
+    },
+    {
+      "name": "前端安全",
+      "proficiency": "不限",
+      "category": "网络"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "Canvas",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "WebGL",
+      "proficiency": "熟悉",
+      "category": "前端框架"
+    },
+    {
+      "name": "可视化开发",
+      "proficiency": "不限",
+      "category": "数据处理"
+    },
+    {
+      "name": "游戏前端技术",
+      "proficiency": "不限",
+      "category": "其他"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "本科及以上学历，计算机、软件工程等相关专业；",
+    "熟练掌握HTML5、CSS3、JavaScript（ES6+）前端基础；",
+    "熟悉Vue（包括Vue2/3）或React等主流框架；",
+    "掌握Webpack、Vite、Rollup等构建工具，理解loader、plugin原理；",
+    "掌握浏览器缓存机制、HTTP协议、跨域处理等网络知识。有一定了解的：",
+    "TypeScript类型系统开发；",
+    "Node.js后端开发能力；",
+    "前端性能监控、错误日志上报方案。"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source_file": "xyh_18.txt",
+  "job_title": "【平台】音视频开发工程师",
+  "location": "广州市",
+  "education": "不限",
+  "experience": "不限",
+  "department": "游戏应用与平台发展事业部-模拟器项目部",
+  "employment_type": "全职",
+  "headcount": 1,
+  "publish_date": "2026-03-06",
+  "job_category": "技术-技术综合-技术综合",
+  "responsibilities": [
+    "负责跨平台音视频模块的基础功能开发，对接各平台客户端实现相应需求",
+    "负责音视频模块的兼容问题处理，使其在多样用户环境下运行良好",
+    "负责音视频模块的性能优化，整体提升用户体验"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机基础",
+      "proficiency": "扎实",
+      "category": "通用技能"
+    },
+    {
+      "name": "C",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "编码习惯",
+      "proficiency": "优秀",
+      "category": "通用技能"
+    },
+    {
+      "name": "多线程",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "协程",
+      "proficiency": "熟悉",
+      "category": "编程语言"
+    },
+    {
+      "name": "Socket 编程",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "音视频编解码",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "硬件兼容",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "码率控制",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "音视频采集",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "音视频渲染",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "音视频传输协议",
+      "proficiency": "熟悉",
+      "category": "网络"
+    },
+    {
+      "name": "WebRTC",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "FFmpeg",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "良好",
+      "category": "软技能"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "良好",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Windows",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "iOS",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "macOS",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "Android",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "跨平台开发",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "扎实的计算机基础，优秀的C/C++编程能力和编码习惯，熟悉多线程、协程和socket编程。",
+    "在音视频编解码与硬件兼容、码率控制、采集、渲染等模块有丰富开发和优化经验；有多平台（Win/iOS/macOS/Android)开发经验者优先。",
+    "熟悉常见的音视频领域传输协议，了解常用的框架及库，如webrtc、ffmpeg等。",
+    "良好的学习能力，团队合作精神与责任心。"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "source_file": "tyh_06.txt",
+  "job_title": "音视频多模态算法专家-Top Seed",
+  "location": "上海",
+  "education": "博士",
+  "experience": "不限",
+  "job_category": "AI/机器学习",
+  "responsibilities": [
+    "在热爱的课题方向上探索机器学习算法与系统领域最具挑战的长期关键问题",
+    "自由组建课题小组并开展研究工作",
+    "参与长周期培养与成长，在导师指导下开展研究并与顶尖学者交流"
+  ],
+  "required_skills": [
+    {
+      "name": "机器学习",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "人工智能",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "大模型",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "多模态理解",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "多模态生成",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "代码能力",
+      "proficiency": "优秀",
+      "category": "通用技能"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "基础算法",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "自然语言处理",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "语音合成",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "语音识别",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "音乐生成",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "项目主导能力",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "学术研究能力",
+      "proficiency": "不限",
+      "category": "通用技能"
+    }
+  ],
+  "raw_requirements": [
+    "2026届获得博士学位，人工智能、计算机、自动化、数学相关专业优先；",
+    "怀有科技改变世界的远大抱负，有志于投身机器学习、人工智能、大模型、多模态理解和生成等技术领域；",
+    "有自然语言处理、语音合成与识别、音乐生成等研究或者技术背景优先；在ACL/EMNLP/NAACL/NeurIPS/ICML/ICLR/Icassp/Interspeech等顶级会议上发表论文者优先；",
+    "优秀的代码能力、数据结构和基础算法功底，熟练C/C++或Python，ACM/ICPC、NOI/IOI、Top Coder、Kaggle等比赛获奖者优先；",
+    "在大模型领域或者RL领域，主导过大影响力的项目或论文者优先。"
+  ]
+}

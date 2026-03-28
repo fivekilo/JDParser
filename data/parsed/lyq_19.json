@@ -1,0 +1,239 @@
+{
+  "source_file": "lyq_19.txt",
+  "job_title": "AI算法工程师-多模态内容理解-小米",
+  "location": "北京、上海、深圳、武汉",
+  "education": "硕士",
+  "experience": "1年以上",
+  "employment_type": "全职",
+  "job_category": "AI/机器学习",
+  "responsibilities": [
+    "负责多模态（文本、图像、音频、视频）内容理解算法研发与优化",
+    "参与大模型微调、多模态融合、知识图谱构建等核心技术落地",
+    "设计并实现智能问答、图像识别、语音转写等AI应用功能",
+    "优化模型性能与推理效率，保障终端设备流畅体验",
+    "跟踪前沿AI技术，推动技术创新与业务落地"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "category": "编程语言"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "PaddlePaddle",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "category": "深度学习"
+    },
+    {
+      "name": "大模型",
+      "proficiency": "熟悉",
+      "category": "机器学习"
+    },
+    {
+      "name": "多模态",
+      "proficiency": "熟悉",
+      "category": "机器学习"
+    },
+    {
+      "name": "计算机视觉",
+      "proficiency": "熟悉",
+      "category": "机器学习"
+    },
+    {
+      "name": "模型优化",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "量化",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "parent": "模型优化"
+    },
+    {
+      "name": "蒸馏",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "parent": "模型优化"
+    },
+    {
+      "name": "剪枝",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "parent": "模型优化"
+    },
+    {
+      "name": "性能调优",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "CUDA",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "NCCL",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "GPU性能分析工具",
+      "proficiency": "熟悉",
+      "category": "测试工具"
+    },
+    {
+      "name": "nsys",
+      "proficiency": "熟悉",
+      "category": "测试工具",
+      "parent": "GPU性能分析工具"
+    },
+    {
+      "name": "nvprof",
+      "proficiency": "熟悉",
+      "category": "测试工具",
+      "parent": "GPU性能分析工具"
+    },
+    {
+      "name": "知识图谱",
+      "proficiency": "不限",
+      "category": "数据处理"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大模型微调",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "RLHF",
+      "proficiency": "了解",
+      "category": "机器学习",
+      "parent": "大模型微调"
+    },
+    {
+      "name": "RLAIF",
+      "proficiency": "了解",
+      "category": "机器学习",
+      "parent": "大模型微调"
+    },
+    {
+      "name": "MCP协议",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "AI安全",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "多智能体",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "记忆系统",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "了解",
+      "category": "AI工具"
+    },
+    {
+      "name": "云原生",
+      "proficiency": "了解",
+      "category": "DevOps工具"
+    },
+    {
+      "name": "分布式训练",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "模型推理优化",
+      "proficiency": "了解",
+      "category": "机器学习"
+    },
+    {
+      "name": "多模态内容理解",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "parent": "多模态"
+    },
+    {
+      "name": "多模态",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "智能交互",
+      "proficiency": "不限",
+      "category": "AI工具"
+    },
+    {
+      "name": "终端AI落地",
+      "proficiency": "不限",
+      "category": "机器学习"
+    },
+    {
+      "name": "NeurIPS",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "ICML",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "ACL",
+      "proficiency": "不限",
+      "category": "其他"
+    },
+    {
+      "name": "开源项目贡献",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "全流程项目管理",
+      "proficiency": "不限",
+      "category": "项目管理"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "硕士及以上学历，计算机/电子工程相关专业，1年以上AI算法经验。",
+    "精通Python/C++，熟悉PyTorch/TensorFlow/PaddlePaddle框架。",
+    "扎实的深度学习基础，熟悉大模型、多模态、计算机视觉任一领域。",
+    "具备模型优化（量化/蒸馏/剪枝）与性能调优实践经验。",
+    "熟悉CUDA、NCCL、GPU性能分析工具（nsys、nvprof）。有一定了解的：",
+    "大模型微调（RLHF/RLAIF）、MCP协议、AI安全实践。",
+    "多智能体协同、记忆系统、RAG技术栈。",
+    "云原生、分布式训练、模型推理优化技术。"
+  ]
+}

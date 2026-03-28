@@ -1,0 +1,179 @@
+{
+  "source_file": "txl_01.txt",
+  "job_title": "Java研发工程师-数据平台",
+  "location": "北京/上海/杭州",
+  "education": "本科",
+  "experience": "不限",
+  "employment_type": "实习",
+  "job_category": "后端开发",
+  "responsibilities": [
+    "打造业界PB级OLAP引擎，支撑主要产品线的ETL、湖仓分析场景",
+    "参与Spark、Doris、Presto、Ray、Lance等大数据引擎内核优化",
+    "设计和研发大数据查询服务、任务调度系统、异构数据湖统一元数据服务及权限管理服务",
+    "参与数据引擎的架构设计、业务场景支持、性能优化与降本、稳定性提升"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "category": "编程语言"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "算法",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "不限",
+      "category": "编程语言"
+    },
+    {
+      "name": "I/O",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "不限",
+      "category": "操作系统"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Doris",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "StarRocks",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "Presto",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Hive",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟悉",
+      "category": "数据处理"
+    },
+    {
+      "name": "ClickHouse",
+      "proficiency": "熟悉",
+      "category": "数据库"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Ray",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Lance",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Paimon",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Iceberg",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "Apache Hudi",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "OLAP",
+      "proficiency": "了解",
+      "category": "数据处理"
+    },
+    {
+      "name": "CBO",
+      "proficiency": "了解",
+      "category": "数据处理",
+      "parent": "OLAP"
+    },
+    {
+      "name": "向量化执行",
+      "proficiency": "了解",
+      "category": "数据处理",
+      "parent": "OLAP"
+    },
+    {
+      "name": "物化视图",
+      "proficiency": "了解",
+      "category": "数据库",
+      "parent": "OLAP"
+    },
+    {
+      "name": "列式存储",
+      "proficiency": "了解",
+      "category": "数据处理",
+      "parent": "OLAP"
+    },
+    {
+      "name": "Shuffle优化",
+      "proficiency": "了解",
+      "category": "数据处理",
+      "parent": "OLAP"
+    },
+    {
+      "name": "开源贡献",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "项目经验",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "探索欲望",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能"
+    }
+  ],
+  "raw_requirements": [
+    "必须具备的：",
+    "2026届获得本科及以上学历，计算机相关专业优先；",
+    "熟练掌握Java或C++编程，具备扎实的计算机基础知识（包含数据结构、算法、多线程编程、I/O、操作系统等）；",
+    "熟悉Spark、Doris、StarRocks、Presto、Hive、Flink、Clickhouse等主流大数据系统原理及源码优先。有一定了解的：",
+    "对Ray、Lance、Paimon、Iceberg、Hudi等前沿数据湖和计算技术有一定了解；",
+    "了解主流的OLAP引擎的优化原理，如CBO、向量化执行、物化视图、列式存储、Shuffle优化等。加分项或注意事项",
+    "有大型开源大数据组件贡献经验或相关实战项目经验者优先；",
+    "对底层技术有强烈的探索欲望和自驱力。参加面试的城市北京/上海/杭州/深圳 远程面试招聘部门和工作地数据中台部门北京/上海/杭州"
+  ]
+}

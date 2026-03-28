@@ -1,0 +1,105 @@
+{
+  "source_file": "xzl_09.txt",
+  "job_title": "AIGC算法工程师（3D方向）",
+  "location": "上海",
+  "education": "硕士",
+  "experience": "不限",
+  "employment_type": "全职",
+  "job_category": "程序&技术类",
+  "target_group": "常规社招",
+  "responsibilities": [
+    "针对业务需求，定向微调AI图像生成模型",
+    "负责自动/半自动3D资产生成的工作流探索、构建、优化，以提高AI3D生成资产的可用性",
+    "持续关注AIGC领域最新技术动态，快速评估并落地前沿算法到实际业务场景"
+  ],
+  "required_skills": [
+    {
+      "name": "AIGC",
+      "proficiency": "精通",
+      "category": "AI工具"
+    },
+    {
+      "name": "计算机视觉",
+      "proficiency": "精通",
+      "category": "机器学习"
+    },
+    {
+      "name": "多模态",
+      "proficiency": "精通",
+      "category": "机器学习"
+    },
+    {
+      "name": "图像生成模型微调",
+      "proficiency": "不限",
+      "category": "深度学习"
+    },
+    {
+      "name": "3D资产制作",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "PBR",
+      "proficiency": "了解",
+      "category": "其他"
+    },
+    {
+      "name": "Blender",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "Autodesk Maya",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "Unity",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "Unreal Engine",
+      "proficiency": "熟悉",
+      "category": "其他"
+    },
+    {
+      "name": "系统思维",
+      "proficiency": "不限",
+      "category": "软技能"
+    },
+    {
+      "name": "工作流构建能力",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "链路设计",
+      "proficiency": "不限",
+      "category": "通用技能"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "category": "软技能"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机，人工智能，电子信息等相关专业硕士及以上学历；",
+    "熟悉图像相关技术路线，精通AIGC、计算机视觉、多模态等相关技术领域；",
+    "具备良好的系统思维与工作流构建能力，链路设计闭环。以落地结果为导向，始终关注实际效率提升与最终输出结果的可用性；",
+    "对3D资产制作、PBR流程有基本了解，熟悉常见的3D软件（Blender&maya等）与游戏引擎（Unity&Unreal）；",
+    "具备较强的学习能力，清晰的逻辑思维能力和优秀的沟通能力。"
+  ]
+}
