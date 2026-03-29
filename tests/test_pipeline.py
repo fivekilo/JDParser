@@ -6,6 +6,7 @@ from pathlib import Path
 
 from src.pipeline import Pipeline
 from src.core.models import JobDescription, Skill
+from src.parsers.base import BaseParser
 from src.parsers.regex_parser import RegexParser
 
 
@@ -39,25 +40,26 @@ class TestPipelineProcessFile:
         assert jd.source_file == "test.txt"
 
     def test_process_file_normalizes_skills(self, tmp_path):
-        """确认 process_file 会归一化技能（包括 parent）"""
+        """确认 process_file 自身会对 parser 返回的技能做归一化（包括 parent）"""
         jd_text = "测试\n全职\n"
         filepath = tmp_path / "test.txt"
         filepath.write_text(jd_text, encoding="utf-8")
 
-        pipeline = Pipeline.create(mode="regex")
-        jd = pipeline.process_file(filepath)
-        # 手动注入待归一化技能来验证归一化流程
-        jd.required_skills = [Skill(name="js", parent="nodejs")]
-        jd.preferred_skills = [Skill(name="k8s")]
+        class _FakeParser(BaseParser):
+            def parse(self, text, filename):
+                return JobDescription(
+                    source_file=filename,
+                    required_skills=[Skill(name="js", parent="nodejs")],
+                    preferred_skills=[Skill(name="k8s", parent="docker")],
+                )
 
-        # 重新调用归一化（模拟 pipeline 流程）
-        from src.core.normalizer import normalize_skills
-        jd.required_skills = normalize_skills(jd.required_skills)
-        jd.preferred_skills = normalize_skills(jd.preferred_skills)
+        pipeline = Pipeline(_FakeParser())
+        jd = pipeline.process_file(filepath)
 
         assert jd.required_skills[0].name == "JavaScript"
         assert jd.required_skills[0].parent == "Node.js"
         assert jd.preferred_skills[0].name == "Kubernetes"
+        assert jd.preferred_skills[0].parent == "Docker"
 
 
 class TestPipelineProcessDirectory:
