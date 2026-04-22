@@ -6,9 +6,13 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "前端开发",
+  "job_sub_category": "前端工程化",
+  "job_level": "中级",
+  "company_name": "华为",
+  "workmode": "现场",
   "responsibilities": [
     "负责华为云控制台前端开发，涉及计算、网络、存储、安全、PaaS等业务模块",
-    "设计并实现前端框架与UI组件库，提升用户体验和研发效率",
+    "设计并实现华为云前端框架与UI组件库，提升用户体验和研发效率",
     "搭建前端工程化体系，实现项目初始化、构建、发布、运维的DevOps支撑",
     "开发可视化搭建工具，采用低代码方式快速搭建页面，提升运营开发效率",
     "与后端、UX/UI、产品团队协作，完成接口集成、性能优化和跨浏览器兼容性调优"
@@ -17,139 +21,201 @@
     {
       "name": "HTML",
       "proficiency": "熟练",
-      "category": "其他"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "熟练",
-      "category": "其他"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "JavaScript",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ECMAScript 5",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "JavaScript"
+    },
+    {
+      "name": "ECMAScript 6",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "JavaScript"
     },
     {
       "name": "Vue.js",
       "proficiency": "熟悉",
-      "category": "前端框架"
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "React",
       "proficiency": "熟悉",
-      "category": "前端框架"
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Angular",
       "proficiency": "熟悉",
-      "category": "前端框架"
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Webpack",
       "proficiency": "不限",
-      "category": "DevOps工具"
+      "category": "构建工具",
+      "skill_type": "hard"
     },
     {
       "name": "Gulp",
       "proficiency": "不限",
-      "category": "DevOps工具"
+      "category": "构建工具",
+      "skill_type": "hard"
     },
     {
       "name": "前端模块化",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "前端工程化",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "沟通协作能力",
-      "proficiency": "熟练",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "问题分析与解决能力",
-      "proficiency": "熟练",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "TypeScript",
       "proficiency": "了解",
-      "category": "编程语言"
+      "proficiency_rank": 1,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Node.js",
       "proficiency": "了解",
-      "category": "后端框架"
+      "proficiency_rank": 1,
+      "category": "后端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Docker",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "容器化",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "云原生",
       "proficiency": "了解",
-      "category": "云平台"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "Serverless",
       "proficiency": "了解",
-      "category": "云平台"
+      "proficiency_rank": 1,
+      "category": "云平台",
+      "skill_type": "hard"
     },
     {
       "name": "DevOps",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "DevOps工具",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
       "name": "Web应用开发",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "移动端H5开发",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "移动开发",
+      "skill_type": "hard"
     },
     {
       "name": "响应式开发",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "前端安全",
       "proficiency": "精通",
-      "category": "网络"
+      "proficiency_rank": 4,
+      "category": "安全",
+      "skill_type": "hard"
     },
     {
       "name": "XSS防护",
       "proficiency": "精通",
-      "category": "网络"
+      "proficiency_rank": 4,
+      "category": "安全",
+      "skill_type": "hard"
     },
     {
       "name": "性能优化",
       "proficiency": "精通",
-      "category": "通用技能"
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "HarmonyOS",
       "proficiency": "熟悉",
-      "category": "操作系统"
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
     },
     {
       "name": "鸿蒙生态开发",
       "proficiency": "熟悉",
-      "category": "通用技能"
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "domain",
+      "parent": "HarmonyOS"
     }
   ],
   "raw_requirements": [

@@ -5,117 +5,148 @@
   "education": "本科",
   "experience": "不限",
   "job_category": "运营",
+  "job_sub_category": "销售运营",
+  "job_level": "初级",
+  "company_name": "飞书",
+  "workmode": "现场",
   "responsibilities": [
     "参与业务洞察与诊断，追踪并分析销售全链路数据，定期输出业务分析报告，发现销售过程中的断点并提出优化建议",
-    "参与销售管理规则的制定与宣导，向销售团队进行政策宣导与答疑，确保规则公平且有效执行",
-    "协助BP团队制定销售KPI及激励方案，与销售负责人沟通方案细节，调动一线团队积极性",
-    "协调市场、产品、财务等部门，解决销售在推进合同、资源申请等过程中的痛点，优化销售协同流程",
+    "参与销售管理规则制定与宣导，向销售团队进行政策宣导与答疑，确保规则公平且有效执行",
+    "协助BP团队制定销售KPI及激励方案，并与销售负责人沟通方案细节",
+    "协调市场、产品、财务等部门，解决销售推进合同、资源申请等过程中的痛点，优化销售协同流程",
     "利用AI工具优化日常运营流程，参与系统流程优化及自动化工具落地，并对销售团队进行操作培训"
   ],
   "required_skills": [
     {
       "name": "Excel",
       "proficiency": "熟练",
-      "category": "数据处理"
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "tool"
     },
     {
       "name": "SQL",
       "proficiency": "熟练",
-      "category": "数据库"
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "BI工具",
       "proficiency": "熟练",
-      "category": "数据处理"
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "tool"
     },
     {
       "name": "AI工具",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "AI工具",
+      "skill_type": "tool"
     },
     {
       "name": "LLM",
       "proficiency": "不限",
       "category": "AI工具",
-      "parent": "AI工具"
+      "skill_type": "hard"
     },
     {
       "name": "自动化工作流",
       "proficiency": "不限",
       "category": "AI工具",
-      "parent": "AI工具"
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "销售运营",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "逻辑思维",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "数据敏感度",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "口头表达能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "书面表达能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "沟通能力",
       "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "引导能力",
-      "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "学习能力",
-      "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "主动思考能力",
-      "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "执行力",
-      "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "优先级管理",
-      "proficiency": "不限",
-      "category": "项目管理"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "跨部门协作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "执行力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "优先级管理",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "销售运营",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "咨询",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "AI工具",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "AI工具",
+      "skill_type": "tool"
     }
   ],
   "raw_requirements": [

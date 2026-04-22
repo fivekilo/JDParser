@@ -6,6 +6,7 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "程序&技术类",
+  "job_sub_category": "AIGC",
   "target_group": "常规社招",
   "responsibilities": [
     "针对业务需求，定向微调AI图像生成模型",
@@ -16,82 +17,108 @@
     {
       "name": "AIGC",
       "proficiency": "精通",
-      "category": "AI工具"
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "计算机视觉",
       "proficiency": "精通",
-      "category": "机器学习"
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
     },
     {
       "name": "多模态",
       "proficiency": "精通",
-      "category": "机器学习"
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
     },
     {
-      "name": "图像生成模型微调",
+      "name": "图像生成模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型微调",
       "proficiency": "不限",
-      "category": "深度学习"
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "3D资产制作",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "PBR",
+      "name": "PBR流程",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "设计工具",
+      "skill_type": "domain"
     },
     {
       "name": "Blender",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "设计工具",
+      "skill_type": "tool"
     },
     {
-      "name": "Autodesk Maya",
+      "name": "Maya",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "设计工具",
+      "skill_type": "tool"
     },
     {
       "name": "Unity",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard"
     },
     {
       "name": "Unreal Engine",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard"
     },
     {
       "name": "系统思维",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "工作流构建能力",
       "proficiency": "不限",
-      "category": "通用技能"
-    },
-    {
-      "name": "链路设计",
-      "proficiency": "不限",
-      "category": "通用技能"
-    },
-    {
-      "name": "学习能力",
-      "proficiency": "熟练",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "逻辑思维能力",
-      "proficiency": "熟练",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "沟通能力",
-      "proficiency": "熟练",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [],

@@ -4,8 +4,12 @@
   "location": "北京、上海、深圳",
   "education": "硕士",
   "experience": "1年以上",
+  "experience_min": 1,
   "employment_type": "全职",
   "job_category": "AI/机器学习",
+  "job_sub_category": "大模型推理优化",
+  "job_level": "中级",
+  "company_name": "百度",
   "responsibilities": [
     "参与文心大模型推理框架（Paddle Inference）研发与优化",
     "负责模型量化、蒸馏、剪枝、投机解码等推理加速技术落地",
@@ -17,172 +21,246 @@
     {
       "name": "Python",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "C++",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "PyTorch",
       "proficiency": "熟悉",
-      "category": "深度学习"
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "TensorFlow",
       "proficiency": "熟悉",
-      "category": "深度学习"
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "PaddlePaddle",
       "proficiency": "熟悉",
-      "category": "深度学习"
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "Paddle Inference",
       "proficiency": "不限",
       "category": "深度学习",
+      "skill_type": "hard",
       "parent": "PaddlePaddle"
     },
     {
       "name": "深度学习",
       "proficiency": "熟悉",
-      "category": "深度学习"
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
-      "name": "大语言模型",
+      "name": "大模型架构",
       "proficiency": "熟悉",
-      "category": "深度学习"
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
     },
     {
-      "name": "模型推理",
+      "name": "推理流程",
       "proficiency": "熟悉",
-      "category": "深度学习"
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
     },
     {
       "name": "模型量化",
       "proficiency": "不限",
-      "category": "机器学习"
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "知识蒸馏",
       "proficiency": "不限",
-      "category": "机器学习"
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "模型剪枝",
       "proficiency": "不限",
-      "category": "机器学习"
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "性能调优",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "CUDA",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "NCCL",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
-      "name": "GPU性能分析",
+      "name": "GPU性能分析工具",
       "proficiency": "熟悉",
-      "category": "测试工具"
-    },
-    {
-      "name": "NVIDIA Nsight Systems",
-      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "测试工具",
-      "parent": "GPU性能分析"
+      "skill_type": "tool"
+    },
+    {
+      "name": "nsys",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "tool",
+      "parent": "GPU性能分析工具"
     },
     {
       "name": "nvprof",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "测试工具",
-      "parent": "GPU性能分析"
+      "skill_type": "tool",
+      "parent": "GPU性能分析工具"
     }
   ],
   "preferred_skills": [
     {
       "name": "分布式推理",
       "proficiency": "了解",
-      "category": "深度学习"
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "服务化部署",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "API网关",
       "proficiency": "了解",
-      "category": "后端框架"
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "向量检索",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
-      "name": "检索增强生成",
+      "name": "RAG",
       "proficiency": "了解",
-      "category": "AI工具"
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
     },
     {
       "name": "多模态融合",
       "proficiency": "了解",
-      "category": "深度学习"
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
     },
     {
       "name": "云原生",
       "proficiency": "了解",
-      "category": "云平台"
+      "proficiency_rank": 1,
+      "category": "云平台",
+      "skill_type": "hard"
     },
     {
       "name": "Kubernetes",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "容器化部署",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "弹性扩缩容",
       "proficiency": "了解",
-      "category": "云平台"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型推理优化",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
     },
     {
       "name": "高性能计算",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "AI芯片适配",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
-      "name": "论文发表",
+      "name": "NeurIPS",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "ICML",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "ACL",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "开源项目贡献",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "soft"
     },
     {
-      "name": "全流程项目管理",
+      "name": "全流程项目经验",
       "proficiency": "不限",
-      "category": "项目管理"
+      "category": "项目管理",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

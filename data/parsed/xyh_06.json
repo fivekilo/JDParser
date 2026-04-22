@@ -9,115 +9,155 @@
   "headcount": 1,
   "publish_date": "2026-03-17",
   "job_category": "技术-数据分析与管理-数据开发",
+  "job_sub_category": "数据仓库",
+  "job_level": "中级",
+  "company_name": "网易云音乐",
   "responsibilities": [
-    "负责音乐离线数据仓库的研发，设计合理的数据架构，确保内外部数据的准确性、一致性和稳定性",
-    "负责数据清洗、模型设计、数据治理及系统稳定性保障",
+    "负责音乐离线数据仓库的研发，确保内外部数据的准确性、一致性和稳定性",
+    "开展数据清洗、模型设计、数据治理及系统稳定性保障工作",
     "深入理解业务需求，整合和收敛数据需求，提供系统化解决方案并推动实施",
-    "与数据分析师紧密合作，促进数据在产品运营中的应用，利用技术创新推动业务发展",
-    "负责AI agent相关应用的开发，探索数据与AI结合的创新场景，推动数据处理流程的自动化和智能化升级"
+    "与数据分析师紧密合作，促进数据在产品运营中的应用，推动业务发展",
+    "负责AI Agent相关应用的开发，探索数据与AI结合的创新场景",
+    "推动数据处理流程的自动化和智能化升级"
   ],
   "required_skills": [
     {
-      "name": "数据仓库设计",
-      "proficiency": "不限",
-      "category": "数据处理"
-    },
-    {
-      "name": "数据仓库开发",
-      "proficiency": "不限",
-      "category": "数据处理"
+      "name": "数据仓库",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "离线数据处理",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "实时数据处理",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
-      "name": "大规模数据离线处理",
+      "name": "数据清洗",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据建模",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据治理",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "Hadoop",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Spark",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Flink",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Java",
-      "proficiency": "不限",
-      "category": "编程语言"
+      "proficiency": "掌握",
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Scala",
-      "proficiency": "不限",
-      "category": "编程语言"
+      "proficiency": "掌握",
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "业务理解力",
-      "proficiency": "熟练",
-      "category": "软技能"
+      "proficiency": "良好",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "逻辑思维能力",
       "proficiency": "优秀",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "抗压能力",
       "proficiency": "优秀",
-      "category": "软技能"
-    },
-    {
-      "name": "结果导向",
-      "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "自我驱动",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
-      "name": "高效工作能力",
+      "name": "主动学习能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "快速学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "AI Agent",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
-      "name": "学习能力",
+      "name": "AI应用开发",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "AI工具",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
+      "name": "大规模离线数据处理",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
       "name": "AI",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "AI项目经验",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "机器学习",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

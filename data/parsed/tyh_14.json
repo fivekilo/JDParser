@@ -5,6 +5,8 @@
   "education": "本科",
   "experience": "不限",
   "job_category": "前端开发",
+  "job_level": "初级",
+  "company_name": "字节跳动",
   "responsibilities": [
     "负责抖音产品的前端技术开发工作，包括移动端产品以及PC端产品",
     "完成用户功能设计和开发，确保浏览器或其他终端设备兼容性",
@@ -15,94 +17,109 @@
     {
       "name": "数据结构",
       "proficiency": "熟悉",
-      "category": "通用技能"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "算法",
       "proficiency": "熟悉",
-      "category": "通用技能"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "编程语言",
       "proficiency": "熟练",
-      "category": "编程语言"
-    },
-    {
-      "name": "前端开发",
-      "proficiency": "不限",
-      "category": "通用技能"
-    },
-    {
-      "name": "用户交互体验",
-      "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "HTML",
       "proficiency": "熟练",
-      "category": "其他"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "熟练",
-      "category": "其他"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "JavaScript",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
-      "name": "页面布局",
-      "proficiency": "熟练",
-      "category": "通用技能"
+      "name": "前端技术开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
-      "name": "交互开发",
-      "proficiency": "熟练",
-      "category": "通用技能"
+      "name": "用户交互体验",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "沟通协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "责任心",
       "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "沟通协作",
-      "proficiency": "良好",
-      "category": "软技能"
-    },
-    {
-      "name": "逻辑思维能力",
-      "proficiency": "良好",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "服务意识",
-      "proficiency": "良好",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "积极乐观",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "Vue.js",
       "proficiency": "熟悉",
-      "category": "前端框架"
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "React",
       "proficiency": "熟悉",
-      "category": "前端框架"
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Web项目开发",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

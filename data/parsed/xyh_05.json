@@ -9,178 +9,235 @@
   "headcount": 1,
   "publish_date": "2026-03-17",
   "job_category": "技术-服务端开发-服务端开发",
+  "job_sub_category": "大数据",
+  "company_name": "网易",
   "responsibilities": [
     "参与 BI/知数的数据查询引擎和数据抽取引擎的服务端研发，独立负责模块设计、开发及性能优化，保障系统高可用与高性能",
     "参与私有化部署运维自动化研发，端到端负责自动化工具的设计、开发及落地，提升部署效率与运维可靠性",
-    "独立分析系统性能瓶颈，设计并实施架构优化方案，评估技术选型长期影响，攻克关键技术难题",
-    "日常使用 AI 编程工具提升效率，探索并推动 AI 技术在大数据场景的实际应用落地",
-    "与产品、前端、测试等团队推动技术方案达成共识，向非技术人员清晰解释技术决策影响，共同完成项目目标"
+    "独立分析系统性能瓶颈，设计并实施架构优化方案，评估技术选型长期影响并攻克关键技术难题",
+    "日常使用 AI 编程工具提升效率，探索并推动 AI 技术在智能问数、归因分析、知识问答等大数据场景中的实际应用落地",
+    "与产品、前端、测试等团队协作推动技术方案达成共识，向非技术人员清晰解释技术决策影响，共同完成项目目标"
   ],
   "required_skills": [
     {
       "name": "Java",
       "proficiency": "熟练",
-      "category": "编程语言"
-    },
-    {
-      "name": "代码规范",
-      "proficiency": "熟练",
-      "category": "通用技能"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Shell",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Linux",
       "proficiency": "熟悉",
-      "category": "操作系统"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
-      "name": "网络知识",
+      "name": "网络",
       "proficiency": "熟悉",
-      "category": "网络"
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "Nginx",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "MySQL",
       "proficiency": "熟悉",
-      "category": "数据库"
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Redis",
       "proficiency": "熟悉",
-      "category": "缓存"
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
     },
     {
       "name": "MinIO",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "Kafka",
       "proficiency": "熟悉",
-      "category": "消息队列"
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
     },
     {
       "name": "Docker",
-      "proficiency": "熟悉",
-      "category": "DevOps工具"
+      "proficiency": "不限",
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "Docker Swarm",
       "proficiency": "熟悉",
-      "category": "DevOps工具",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard",
       "parent": "Docker"
     },
     {
       "name": "Docker Registry",
       "proficiency": "不限",
-      "category": "DevOps工具",
+      "category": "容器与编排",
+      "skill_type": "hard",
       "parent": "Docker"
     },
     {
       "name": "Jenkins",
       "proficiency": "熟悉",
-      "category": "DevOps工具"
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "持续集成",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
     },
     {
       "name": "数据结构",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "算法",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "操作系统",
-      "proficiency": "不限",
-      "category": "操作系统"
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "计算机网络",
-      "proficiency": "不限",
-      "category": "网络"
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "BI",
-      "proficiency": "不限",
-      "category": "其他"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据产品",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "性能优化",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
-      "name": "架构设计",
+      "name": "架构优化",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "技术选型",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
-      "name": "AI编程工具",
+      "name": "AI 编程工具",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "AI工具",
+      "skill_type": "tool"
     },
     {
-      "name": "GitHub Copilot",
+      "name": "沟通协作",
       "proficiency": "不限",
-      "category": "AI工具"
-    },
-    {
-      "name": "Cursor",
-      "proficiency": "不限",
-      "category": "AI工具"
-    },
-    {
-      "name": "沟通能力",
-      "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "团队协作",
-      "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "跨团队协作",
       "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "问题分析",
-      "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "主人翁精神",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "Jenkins二次开发",
+      "name": "Jenkins",
       "proficiency": "不限",
       "category": "DevOps工具",
-      "parent": "Jenkins"
+      "skill_type": "hard"
     },
     {
-      "name": "AI技术落地",
+      "name": "二次开发",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GitHub Copilot",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Cursor",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "AI 技术落地",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

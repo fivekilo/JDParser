@@ -4,8 +4,14 @@
   "location": "北京",
   "education": "本科",
   "experience": "1年及以上",
+  "experience_min": 1,
+  "experience_max": 1,
   "employment_type": "全职",
   "job_category": "前端开发",
+  "job_sub_category": "跨端开发",
+  "job_level": "初级",
+  "company_name": "字节跳动",
+  "workmode": "现场",
   "responsibilities": [
     "负责电商核心场景的前端/客户端研发工作，涵盖商品详情页、购物车、收藏、足迹、评价、提单、SKU管理等核心模块，保障模块的稳定运行与高效迭代",
     "参与产品需求评审、技术方案设计，结合业务场景优化用户体验，提升页面性能、加载速度及交互流畅度",
@@ -17,94 +23,128 @@
     {
       "name": "HTML",
       "proficiency": "熟练",
-      "category": "通用技能"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "熟练",
-      "category": "通用技能"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "JavaScript",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Vue.js",
       "proficiency": "熟练",
-      "category": "前端框架"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "React",
       "proficiency": "熟练",
-      "category": "前端框架"
-    },
-    {
-      "name": "Webpack",
-      "proficiency": "了解",
-      "category": "DevOps工具"
-    },
-    {
-      "name": "Vite",
-      "proficiency": "了解",
-      "category": "DevOps工具"
-    },
-    {
-      "name": "Node.js",
-      "proficiency": "了解",
-      "category": "后端框架"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "逻辑思维",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "问题排查能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "沟通协作能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "责任心",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队精神",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Vite",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "跨端开发",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
-      "name": "电商平台核心模块研发",
+      "name": "电商",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "跨端开发技术",
+      "name": "跨端开发",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
     },
     {
       "name": "性能优化",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "兼容性处理",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "独立解决复杂技术问题",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

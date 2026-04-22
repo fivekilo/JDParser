@@ -4,12 +4,16 @@
   "location": "上海",
   "education": "本科",
   "experience": "3年以上",
+  "experience_min": 3,
   "employment_type": "全职",
   "job_category": "程序&技术类",
+  "job_sub_category": "云原生/游戏运维",
+  "job_level": "中级",
   "target_group": "常规社招",
+  "workmode": "现场",
   "responsibilities": [
     "负责线上游戏服务器的维护、更新、监控、报警和优化，保障业务稳定运行",
-    "推进游戏运维规范、工作流程、应急预案的制定和落地",
+    "推进游戏运维规范、工作流程、应急预案的制订和落地",
     "负责运维自动化建设，持续提升运维效率",
     "负责监控服务器和游戏状态，对突发事件快速响应、分析及故障管理",
     "发现运营风险及技术难点，优化业务流程，提升运维工作效率和服务质量"
@@ -18,148 +22,208 @@
     {
       "name": "Python",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Go",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "运维自动化",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "Nightingale",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
     },
     {
       "name": "Prometheus",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
     },
     {
       "name": "阿里云",
       "proficiency": "熟悉",
-      "category": "云平台"
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard"
     },
     {
       "name": "AWS",
       "proficiency": "熟悉",
-      "category": "云平台"
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard"
     },
     {
       "name": "Redis",
       "proficiency": "熟悉",
-      "category": "缓存"
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
     },
     {
       "name": "Kafka",
       "proficiency": "熟悉",
-      "category": "消息队列"
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
     },
     {
       "name": "Elasticsearch",
       "proficiency": "熟悉",
-      "category": "数据库"
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "MongoDB",
       "proficiency": "熟悉",
-      "category": "数据库"
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Docker",
       "proficiency": "不限",
-      "category": "DevOps工具"
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "Kubernetes",
       "proficiency": "不限",
-      "category": "DevOps工具"
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "etcd",
       "proficiency": "不限",
-      "category": "DevOps工具",
+      "category": "容器与编排",
+      "skill_type": "hard",
       "parent": "Kubernetes"
     },
     {
       "name": "Istio",
       "proficiency": "不限",
-      "category": "DevOps工具",
+      "category": "容器与编排",
+      "skill_type": "hard",
       "parent": "Kubernetes"
     },
     {
       "name": "CDN",
       "proficiency": "不限",
-      "category": "网络"
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "沟通能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "上进心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "学习能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "抗压能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "游戏运维",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     }
   ],
   "preferred_skills": [
     {
-      "name": "公有云运维",
+      "name": "容器化游戏运维",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "AWS",
-      "proficiency": "不限",
-      "category": "云平台"
+      "name": "微服务架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "动态服务发现",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "EC2",
       "proficiency": "不限",
       "category": "云平台",
+      "skill_type": "hard",
       "parent": "AWS"
     },
     {
       "name": "Aurora",
       "proficiency": "不限",
-      "category": "数据库",
+      "category": "云平台",
+      "skill_type": "hard",
       "parent": "AWS"
     },
     {
-      "name": "容器化运维",
+      "name": "AWS",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "云平台",
+      "skill_type": "hard"
     },
     {
-      "name": "微服务架构",
-      "proficiency": "精通",
-      "category": "其他"
+      "name": "大流量",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "动态服务发现",
-      "proficiency": "精通",
-      "category": "其他"
-    },
-    {
-      "name": "gRPC",
-      "proficiency": "精通",
-      "category": "网络"
-    },
-    {
-      "name": "Kubernetes",
-      "proficiency": "精通",
-      "category": "DevOps工具"
+      "name": "大带宽",
+      "proficiency": "不限",
+      "category": "网络",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

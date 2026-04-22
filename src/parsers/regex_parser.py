@@ -34,6 +34,9 @@ class RegexParser(BaseParser):
         self._extract_department(jd, text)
         self._extract_job_category(jd, text)
         self._extract_target_group(jd, text)
+        self._extract_salary(jd, text)
+        self._extract_company_name(jd, text)
+        self._extract_workmode(jd, text)
         self._extract_sections(jd, text)
 
         return jd
@@ -156,6 +159,65 @@ class RegexParser(BaseParser):
         m = re.search(r"(?:面向对象|招聘类型|招聘对象)\s*[:：]?\s*\n?\s*((?:常规)?社招|校招|实习)", text)
         if m:
             jd.target_group = m.group(1)
+
+    # ── 薪资提取 ──
+    def _extract_salary(self, jd: JobDescription, text: str) -> None:
+        """从 JD 文本中提取薪资范围
+
+        支持格式：
+        - "15-30K" / "15k-30k" / "15-30K·15薪"
+        - "薪资：15-30K/月"
+        - "月薪 15000-30000 元"
+        - "年薪 20-40 万"
+        - "15K-30K·16薪"
+        """
+        patterns = [
+            # "15-30K" / "15k-30k" / "15-30K·15薪" / "15K-30K·16薪"
+            (r"(\d+)\s*[-~～至]\s*(\d+)\s*[kK]\s*(?:[·•/]\s*(\d+)\s*薪)?", "K/月"),
+            # "薪资：15-30K/月" / "薪酬：15-30K"
+            (r"(?:薪资|薪酬|月薪|工资)\s*[:：]?\s*(\d+)\s*[-~～至]\s*(\d+)\s*[kK]", "K/月"),
+            # "月薪 15000-30000 元"
+            (r"月薪\s*(\d{4,})\s*[-~～至]\s*(\d{4,})\s*元?", "元/月"),
+            # "年薪 20-40 万"
+            (r"年薪\s*(\d+)\s*[-~～至]\s*(\d+)\s*万", "万/年"),
+        ]
+        for pattern, unit in patterns:
+            m = re.search(pattern, text)
+            if m:
+                jd.salary_min = int(m.group(1))
+                jd.salary_max = int(m.group(2))
+                jd.salary_unit = unit
+                return
+
+    # ── 公司名称提取 ──
+    def _extract_company_name(self, jd: JobDescription, text: str) -> None:
+        """从 JD 文本中提取公司名称"""
+        patterns = [
+            r"(?:公司|企业|单位)\s*(?:名称)?\s*[:：]\s*(.+?)(?:\n|$)",
+            r"(?:关于|加入)\s*(.+?(?:公司|科技|集团|有限|股份|网络|信息|技术)(?:有限公司|股份有限公司)?)",
+        ]
+        for p in patterns:
+            m = re.search(p, text[:1000])
+            if m:
+                name = m.group(1).strip()
+                # 排除太长的匹配（可能是误匹配）
+                if 2 <= len(name) <= 30:
+                    jd.company_name = name
+                    return
+
+    # ── 工作模式提取 ──
+    def _extract_workmode(self, jd: JobDescription, text: str) -> None:
+        """从 JD 文本中提取工作模式（远程/现场/混合）"""
+        text_lower = text.lower()
+        if any(kw in text_lower for kw in ["远程办公", "远程工作", "remote", "居家办公", "在家办公"]):
+            # 检查是否是混合模式
+            if any(kw in text_lower for kw in ["混合办公", "混合工作", "hybrid", "到岗", "坐班"]):
+                jd.workmode = "混合"
+            else:
+                jd.workmode = "远程"
+        elif any(kw in text_lower for kw in ["混合办公", "混合工作", "hybrid"]):
+            jd.workmode = "混合"
+        # 注意：大多数 JD 不会明确写"现场办公"，所以默认不设值（由 LLM 判断）
 
     # ── 段落内容提取 ──
     def _extract_sections(self, jd: JobDescription, text: str) -> None:

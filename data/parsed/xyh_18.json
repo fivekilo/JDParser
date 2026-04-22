@@ -9,6 +9,7 @@
   "headcount": 1,
   "publish_date": "2026-03-06",
   "job_category": "技术-技术综合-技术综合",
+  "job_sub_category": "音视频",
   "responsibilities": [
     "负责跨平台音视频模块的基础功能开发，对接各平台客户端实现相应需求",
     "负责音视频模块的兼容问题处理，使其在多样用户环境下运行良好",
@@ -16,121 +17,140 @@
   ],
   "required_skills": [
     {
-      "name": "计算机基础",
-      "proficiency": "扎实",
-      "category": "通用技能"
-    },
-    {
       "name": "C",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "C++",
       "proficiency": "精通",
-      "category": "编程语言"
-    },
-    {
-      "name": "编码习惯",
-      "proficiency": "优秀",
-      "category": "通用技能"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "多线程",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "协程",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "Socket 编程",
       "proficiency": "熟悉",
-      "category": "网络"
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "音视频编解码",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "硬件兼容",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "码率控制",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "音视频采集",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "音视频渲染",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "音视频传输协议",
       "proficiency": "熟悉",
-      "category": "网络"
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "WebRTC",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "后端框架",
+      "skill_type": "hard"
     },
     {
       "name": "FFmpeg",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "学习能力",
-      "proficiency": "良好",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队合作",
-      "proficiency": "良好",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "责任心",
-      "proficiency": "良好",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "Windows",
       "proficiency": "不限",
-      "category": "操作系统"
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "iOS",
       "proficiency": "不限",
-      "category": "操作系统"
+      "category": "移动开发",
+      "skill_type": "hard"
     },
     {
       "name": "macOS",
       "proficiency": "不限",
-      "category": "操作系统"
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "Android",
       "proficiency": "不限",
-      "category": "操作系统"
+      "category": "移动开发",
+      "skill_type": "hard"
     },
     {
       "name": "跨平台开发",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

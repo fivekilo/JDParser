@@ -6,6 +6,9 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "前端开发",
+  "job_sub_category": "前端工程化",
+  "job_level": "中级",
+  "company_name": "小红书",
   "responsibilities": [
     "负责小红书核心产品（笔记、分享、电商、直播）前端开发",
     "参与前端架构设计与优化，推进组件库、工程化体系建设",
@@ -17,119 +20,213 @@
     {
       "name": "HTML",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "JavaScript",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ECMAScript 6+",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "JavaScript"
     },
     {
       "name": "React",
       "proficiency": "熟悉",
-      "category": "前端框架"
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Vue.js",
       "proficiency": "熟悉",
-      "category": "前端框架"
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Webpack",
       "proficiency": "不限",
-      "category": "DevOps工具"
+      "category": "构建工具",
+      "skill_type": "hard"
     },
     {
       "name": "Vite",
       "proficiency": "不限",
-      "category": "DevOps工具"
+      "category": "构建工具",
+      "skill_type": "hard"
     },
     {
       "name": "前端模块化",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "前端工程化",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "HTTP",
       "proficiency": "熟悉",
-      "category": "网络"
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "浏览器缓存机制",
       "proficiency": "熟悉",
-      "category": "网络"
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "跨域处理",
       "proficiency": "熟悉",
-      "category": "网络"
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前端架构设计",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "页面性能优化",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "团队协作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "TypeScript",
       "proficiency": "了解",
-      "category": "编程语言"
+      "proficiency_rank": 1,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Node.js",
       "proficiency": "了解",
-      "category": "后端框架"
+      "proficiency_rank": 1,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "全栈开发",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "移动端H5开发",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "hard"
     },
     {
       "name": "响应式设计",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "数据可视化",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "ECharts",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "数据可视化"
     },
     {
       "name": "D3.js",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "数据可视化"
     },
     {
       "name": "视频流处理",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "社交产品",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "内容社区产品",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "前端性能优化",
       "proficiency": "精通",
-      "category": "通用技能"
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "安全防护",
       "proficiency": "精通",
-      "category": "网络"
+      "proficiency_rank": 4,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "社区内容生态",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

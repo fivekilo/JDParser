@@ -6,7 +6,7 @@ from pathlib import Path
 
 from src.core import config
 from src.core.models import JobDescription
-from src.core.normalizer import normalize_skills
+from src.core.normalizer import normalize_skills, parse_experience
 from src.parsers import BaseParser, RegexParser, LLMParser, LangbaseParser
 
 logger = logging.getLogger(__name__)
@@ -45,6 +45,9 @@ class Pipeline:
         # 归一化技能
         jd.required_skills = normalize_skills(jd.required_skills)
         jd.preferred_skills = normalize_skills(jd.preferred_skills)
+        # 结构化经验字段
+        if jd.experience and jd.experience_min is None:
+            jd.experience_min, jd.experience_max = parse_experience(jd.experience)
         return jd
 
     def process_directory(self, input_dir: Path | None = None, output_dir: Path | None = None) -> list[JobDescription]:
@@ -138,6 +141,9 @@ class Pipeline:
 
             jd.required_skills = normalize_skills(jd.required_skills)
             jd.preferred_skills = normalize_skills(jd.preferred_skills)
+            # 结构化经验字段
+            if jd.experience and jd.experience_min is None:
+                jd.experience_min, jd.experience_max = parse_experience(jd.experience)
             results.append(jd)
 
             out_path = output_dir / filepath.with_suffix(".json").name

@@ -4,8 +4,13 @@
   "location": "杭州、北京、上海",
   "education": "本科",
   "experience": "1-3年",
+  "experience_min": 1,
+  "experience_max": 3,
   "employment_type": "全职",
   "job_category": "前端开发",
+  "job_sub_category": "前端工程化",
+  "job_level": "中级",
+  "company_name": "网易",
   "responsibilities": [
     "参与网易云音乐Web端、PC客户端、音乐社区等核心产品前端架构设计与开发",
     "负责复杂交互场景、音乐可视化、播放器内核等前端功能实现",
@@ -17,179 +22,272 @@
     {
       "name": "HTML",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "JavaScript",
       "proficiency": "精通",
-      "category": "编程语言"
-    },
-    {
-      "name": "ECMAScript 6+",
-      "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "TypeScript",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "React",
       "proficiency": "熟练",
-      "category": "前端框架"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Vue.js",
       "proficiency": "熟练",
-      "category": "前端框架"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Webpack",
       "proficiency": "熟悉",
-      "category": "DevOps工具"
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
     },
     {
       "name": "Vite",
       "proficiency": "熟悉",
-      "category": "DevOps工具"
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
     },
     {
       "name": "前端模块化",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "前端工程化",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "跨浏览器适配",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "跨终端适配",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "兼容性问题处理",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队协作",
       "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "需求响应能力",
-      "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "交付质量保障",
-      "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "Node.js",
       "proficiency": "了解",
-      "category": "后端框架"
+      "proficiency_rank": 1,
+      "category": "后端框架",
+      "skill_type": "hard"
     },
     {
-      "name": "服务端渲染",
+      "name": "SSR",
       "proficiency": "了解",
-      "category": "前端框架"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
-      "name": "静态站点生成",
+      "name": "SSG",
       "proficiency": "了解",
-      "category": "前端框架"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "前端监控",
       "proficiency": "了解",
-      "category": "测试工具"
+      "proficiency_rank": 1,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "性能优化",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "可视化",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "ECharts",
       "proficiency": "了解",
-      "category": "前端框架"
+      "proficiency_rank": 1,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "D3.js",
       "proficiency": "了解",
-      "category": "前端框架"
+      "proficiency_rank": 1,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Canvas",
       "proficiency": "了解",
-      "category": "前端框架"
+      "proficiency_rank": 1,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "WebGL",
       "proficiency": "了解",
-      "category": "前端框架"
+      "proficiency_rank": 1,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "音频处理",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "微前端",
       "proficiency": "了解",
-      "category": "前端框架"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "低代码平台",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "前端安全",
       "proficiency": "了解",
-      "category": "网络"
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard"
     },
     {
       "name": "自动化测试",
       "proficiency": "了解",
-      "category": "测试工具"
+      "proficiency_rank": 1,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "音视频前端开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "组件库建设",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程化工具建设",
+      "proficiency": "不限",
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化测试平台建设",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "Go",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Java",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Python",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "全栈开发",
-      "proficiency": "熟悉",
-      "category": "通用技能"
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "音乐类产品",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "播放器开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

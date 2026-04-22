@@ -5,8 +5,12 @@
   "education": "本科",
   "experience": "不限",
   "job_category": "前端开发",
+  "job_level": "初级",
+  "company_name": "抖音",
+  "workmode": "现场",
   "responsibilities": [
-    "参与抖音开发平台业务相关产品线B端或C端的前端开发，负责前端技术选型和开发工作",
+    "参与抖音开发平台业务相关产品线B端或C端的前端开发",
+    "负责前端技术选型和开发工作",
     "优化前端功能设计，解决各种浏览器和终端设备的兼容性问题",
     "通过技术手段提升用户体验并满足高性能要求",
     "进行通用组件、类库编写，提升开发效率和质量"
@@ -14,93 +18,124 @@
   "required_skills": [
     {
       "name": "HTML",
-      "proficiency": "不限",
-      "category": "前端框架"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "CSS",
-      "proficiency": "不限",
-      "category": "前端框架"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "JavaScript",
-      "proficiency": "不限",
-      "category": "编程语言"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "DOM",
-      "proficiency": "掌握",
-      "category": "其他"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "AJAX",
-      "proficiency": "掌握",
-      "category": "其他"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "JSON",
-      "proficiency": "掌握",
-      "category": "数据处理"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "Vue.js",
       "proficiency": "了解",
-      "category": "前端框架"
+      "proficiency_rank": 1,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "React",
       "proficiency": "了解",
-      "category": "前端框架"
+      "proficiency_rank": 1,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
-      "name": "性能优化",
+      "name": "CSS性能优化",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
-      "name": "浏览器兼容性",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "name": "JavaScript性能优化",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "用户体验",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "通用技能",
+      "skill_type": "domain"
     },
     {
-      "name": "交互设计流程",
+      "name": "交互操作流程",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "通用技能",
+      "skill_type": "domain"
     },
     {
       "name": "用户需求分析",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "通用技能",
+      "skill_type": "domain"
     },
     {
       "name": "服务意识",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "责任心",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "学习能力",
-      "proficiency": "较强",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
-      "name": "沟通能力",
-      "proficiency": "优秀",
-      "category": "软技能"
+      "name": "团队沟通",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队协作",
-      "proficiency": "优秀",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [],

@@ -5,121 +5,171 @@
   "education": "博士",
   "experience": "不限",
   "job_category": "AI/机器学习",
+  "job_sub_category": "风控、大模型、结构化数据理解",
+  "job_level": "初级",
   "responsibilities": [
     "以风控数据为基础，优化提升大模型对结构化数据（序列数据、图数据）的理解与推理能力",
     "研究结构化信息与自然语言语义空间的对齐方法，使模型同时理解数据结构和语义信息",
-    "设计适当的指令与方法，使大模型理解结构化数据中的结构信息",
-    "提升大语言模型在图学习下游任务中的逐步推理能力，推断复杂关系和属性",
-    "探索不同类型结构化数据的融合理解，重点研究图数据与序列数据的融合",
-    "研究大模型结构化数据理解、结构化数据RAG和思维链相关方向"
+    "设计适当的指令方法，使大模型理解结构化数据中的结构信息",
+    "研究并增强大语言模型在图学习下游任务中的逐步推理能力",
+    "探索图数据与序列数据等多种结构化数据的融合理解方法",
+    "开展大模型结构化数据理解、结构化数据RAG和思维链方向的研究"
   ],
   "required_skills": [
     {
       "name": "Python",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "数据结构",
       "proficiency": "扎实",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
-      "name": "算法",
+      "name": "算法基础",
       "proficiency": "扎实",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "机器学习",
       "proficiency": "不限",
-      "category": "机器学习"
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "大语言模型",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "结构化数据理解",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "序列数据",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "图数据",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "图学习",
       "proficiency": "不限",
-      "category": "机器学习"
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
-      "name": "检索增强生成",
+      "name": "风控",
       "proficiency": "不限",
-      "category": "AI工具"
-    },
-    {
-      "name": "思维链",
-      "proficiency": "不限",
-      "category": "AI工具"
-    },
-    {
-      "name": "代码能力",
-      "proficiency": "优秀",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "问题定义能力",
       "proficiency": "出色",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "分析能力",
       "proficiency": "出色",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "解决问题能力",
       "proficiency": "出色",
-      "category": "软技能"
-    },
-    {
-      "name": "抗压能力",
-      "proficiency": "一定",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "沟通协作能力",
-      "proficiency": "一定",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "创新能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "PyTorch",
       "proficiency": "熟悉",
-      "category": "深度学习"
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "TensorFlow",
       "proficiency": "熟悉",
-      "category": "深度学习"
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "网络安全",
       "proficiency": "不限",
-      "category": "网络"
+      "category": "安全",
+      "skill_type": "hard"
     },
     {
       "name": "人工智能",
       "proficiency": "不限",
-      "category": "机器学习"
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
-      "name": "学术论文发表",
+      "name": "CCF-A类论文发表",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AAAI",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "NeurIPS",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "SIGKDD",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "SIGIR",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

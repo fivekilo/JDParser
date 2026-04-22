@@ -6,8 +6,11 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "后端开发",
+  "job_sub_category": "高并发、分布式系统",
+  "company_name": "滴滴出行",
+  "workmode": "现场",
   "responsibilities": [
-    "负责滴滴核心出行平台后端系统设计与开发",
+    "负责滴滴核心出行平台（快车、专车、顺风车等）后端系统设计与开发",
     "参与高并发交易链路架构设计，保障系统在高并发场景下的稳定性和可用性",
     "负责订单、支付、地图、推送等核心服务的开发与性能优化",
     "推动服务治理、容灾备份、高可用架构方案设计与落地",
@@ -17,129 +20,173 @@
     {
       "name": "Java",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Go",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Python",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "MySQL",
       "proficiency": "熟悉",
-      "category": "数据库"
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Redis",
       "proficiency": "熟悉",
-      "category": "缓存"
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
     },
     {
       "name": "Kafka",
       "proficiency": "熟悉",
-      "category": "消息队列"
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
     },
     {
       "name": "数据结构",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "算法",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "操作系统",
       "proficiency": "不限",
-      "category": "操作系统"
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "计算机网络",
       "proficiency": "不限",
-      "category": "网络"
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "Linux",
       "proficiency": "熟悉",
-      "category": "操作系统"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "Shell",
       "proficiency": "不限",
-      "category": "编程语言"
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "分布式系统设计",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "高并发系统架构",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "Docker",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "Kubernetes",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "大数据处理",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
-      "name": "流批一体架构设计",
+      "name": "流批一体架构",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "团队协作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "后端开发",
+      "name": "出行",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "核心交易系统开发",
+      "name": "本地生活",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "性能优化",
+      "name": "电商",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "交易系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "地图导航",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "LBS",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "出行算法",
       "proficiency": "不限",
-      "category": "机器学习"
+      "category": "机器学习",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

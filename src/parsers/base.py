@@ -38,10 +38,20 @@ class BaseParser(ABC):
             data: 外部抽取的结构化字典
         """
         # 简单字段：仅在正则未提取到时使用外部结果
-        for field_name in ("job_title", "location", "education", "experience", "job_category"):
+        for field_name in (
+            "job_title", "location", "education", "experience",
+            "job_category", "job_sub_category", "job_level",
+            "company_name", "workmode",
+        ):
             val = data.get(field_name)
             if val and not getattr(jd, field_name, None):
                 setattr(jd, field_name, val)
+
+        # 薪资字段：仅在正则未提取到时使用外部结果
+        for salary_field in ("salary_min", "salary_max", "salary_unit"):
+            val = data.get(salary_field)
+            if val is not None and getattr(jd, salary_field, None) is None:
+                setattr(jd, salary_field, val)
 
         # 职责
         if data.get("responsibilities"):
@@ -54,6 +64,7 @@ class BaseParser(ABC):
                     name=s.get("name", ""),
                     proficiency=s.get("proficiency"),
                     category=s.get("category"),
+                    skill_type=s.get("skill_type"),
                     parent=s.get("parent"),
                 )
                 for s in data["required_skills"]
@@ -67,6 +78,7 @@ class BaseParser(ABC):
                     name=s.get("name", ""),
                     proficiency=s.get("proficiency"),
                     category=s.get("category"),
+                    skill_type=s.get("skill_type"),
                     parent=s.get("parent"),
                 )
                 for s in data["preferred_skills"]

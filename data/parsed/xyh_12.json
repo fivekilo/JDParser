@@ -4,204 +4,271 @@
   "location": "北京市",
   "education": "硕士",
   "experience": "0-3年",
+  "experience_min": 0,
+  "experience_max": 3,
   "department": "有道事业群-升学课程事业部-研发组",
   "employment_type": "全职",
   "headcount": 2,
   "publish_date": "2026-03-09",
   "job_category": "技术-服务端开发-服务端开发",
+  "job_sub_category": "AI Agent",
+  "job_level": "中级",
+  "company_name": "有道",
   "responsibilities": [
-    "设计并实现教育场景的 AI Agent 后端服务架构，支持任务规划、工具调用、多步推理等核心能力，构建高可用的智能体运行时环境",
-    "设计 Agent 的上下文管理机制和记忆系统，结合向量数据库实现高效检索，优化上下文窗口利用效率",
-    "基于 MCP 等标准协议设计工具调用层，构建可复用的 Skill 能力库，集成内外部 API、数据库等资源",
-    "开发高性能 RESTful API 和 gRPC API，支持流式传输、异步任务处理，与现有业务系统集成对接",
-    "建立监控、日志、追踪体系，针对大模型调用异常设计降级策略，保障系统 SLA",
-    "快速跟进 AI Agent 领域最新技术，探索新技术在业务场景的落地应用"
+    "设计并实现教育场景的AI Agent后端服务架构，支持任务规划、工具调用、多步推理等核心能力，构建高可用的智能体运行时环境",
+    "设计Agent的上下文管理机制和记忆系统，结合向量数据库实现高效检索，优化上下文窗口利用效率",
+    "基于MCP等标准协议设计工具调用层，构建可复用的Skill能力库，集成内外部API、数据库等资源",
+    "开发高性能RESTful和gRPC API，支持流式传输、异步任务处理，并与现有业务系统集成对接",
+    "建立监控、日志、追踪体系，针对大模型调用异常设计降级策略，保障系统SLA",
+    "快速跟进AI Agent领域最新技术，探索新技术在业务场景的落地应用"
   ],
   "required_skills": [
     {
       "name": "Python",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "FastAPI",
       "proficiency": "熟悉",
-      "category": "后端框架"
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Flask",
       "proficiency": "熟悉",
-      "category": "后端框架"
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Django",
       "proficiency": "熟悉",
-      "category": "后端框架"
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
     },
     {
       "name": "微服务架构",
       "proficiency": "熟悉",
-      "category": "后端框架"
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "Kubernetes",
       "proficiency": "熟悉",
-      "category": "DevOps工具"
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "MySQL",
       "proficiency": "熟练",
-      "category": "数据库"
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "PostgreSQL",
       "proficiency": "熟练",
-      "category": "数据库"
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Redis",
       "proficiency": "熟练",
-      "category": "缓存"
+      "proficiency_rank": 3,
+      "category": "缓存",
+      "skill_type": "hard"
     },
     {
       "name": "Kafka",
       "proficiency": "熟练",
-      "category": "消息队列"
+      "proficiency_rank": 3,
+      "category": "消息队列",
+      "skill_type": "hard"
     },
     {
       "name": "RabbitMQ",
       "proficiency": "熟练",
-      "category": "消息队列"
+      "proficiency_rank": 3,
+      "category": "消息队列",
+      "skill_type": "hard"
     },
     {
       "name": "Milvus",
       "proficiency": "了解",
-      "category": "数据库"
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Pinecone",
       "proficiency": "了解",
-      "category": "数据库"
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Qdrant",
       "proficiency": "了解",
-      "category": "数据库"
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "AI Agent",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "LLM应用开发",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "LangChain",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "LangGraph",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "LlamaIndex",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "任务编排",
       "proficiency": "了解",
-      "category": "AI工具"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "工具调用",
       "proficiency": "了解",
-      "category": "AI工具"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "状态管理",
       "proficiency": "了解",
-      "category": "AI工具"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "上下文工程",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "MCP",
       "proficiency": "了解",
-      "category": "AI工具"
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "Agent Skills",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "Prompt Engineering",
       "proficiency": "熟悉",
-      "category": "AI工具"
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "RAG",
       "proficiency": "熟悉",
-      "category": "AI工具"
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "OpenAI",
       "proficiency": "熟悉",
-      "category": "AI工具"
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "Claude",
       "proficiency": "熟悉",
-      "category": "AI工具"
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "Gemini",
       "proficiency": "熟悉",
-      "category": "AI工具"
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "文心一言",
       "proficiency": "熟悉",
-      "category": "AI工具"
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "通义千问",
       "proficiency": "熟悉",
-      "category": "AI工具"
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "RESTful API",
       "proficiency": "不限",
-      "category": "后端框架"
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "gRPC",
       "proficiency": "不限",
-      "category": "后端框架"
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "Prometheus",
       "proficiency": "不限",
-      "category": "DevOps工具"
+      "category": "DevOps工具",
+      "skill_type": "hard"
     },
     {
       "name": "Grafana",
       "proficiency": "不限",
-      "category": "DevOps工具"
+      "category": "DevOps工具",
+      "skill_type": "hard"
     },
     {
       "name": "计算机基础",
       "proficiency": "扎实",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [],

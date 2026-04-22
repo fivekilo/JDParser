@@ -6,6 +6,10 @@
   "experience": "不限",
   "employment_type": "实习",
   "job_category": "运维",
+  "job_sub_category": "混合云",
+  "job_level": "初级",
+  "company_name": "火山引擎",
+  "workmode": "现场",
   "responsibilities": [
     "负责混合云产品交付和售后运维，产品范围包括IAAS、PAAS、安全等",
     "积累项目售中、售后阶段的关键问题，转化为需求推动产品和工具优化，提升交付运维效率",
@@ -13,121 +17,144 @@
   ],
   "required_skills": [
     {
-      "name": "计算机软硬件基础",
+      "name": "计算机基础知识",
       "proficiency": "熟悉",
-      "category": "通用技能"
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
     },
     {
-      "name": "网络基础",
+      "name": "网络基础知识",
       "proficiency": "熟悉",
-      "category": "网络"
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "Linux",
       "proficiency": "熟悉",
-      "category": "操作系统"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "系统管理",
       "proficiency": "熟悉",
-      "category": "通用技能"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "Docker",
       "proficiency": "掌握",
-      "category": "DevOps工具"
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "Kubernetes",
       "proficiency": "掌握",
-      "category": "DevOps工具"
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "沟通协调能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
-      "name": "团队合作精神",
+      "name": "团队合作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "责任心",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "执行力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "Python",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Shell",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Go",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "自动化工具开发",
       "proficiency": "不限",
-      "category": "DevOps工具"
+      "category": "DevOps工具",
+      "skill_type": "hard"
     },
     {
       "name": "私有云",
       "proficiency": "了解",
-      "category": "云平台"
+      "proficiency_rank": 1,
+      "category": "云平台",
+      "skill_type": "domain"
     },
     {
       "name": "混合云",
       "proficiency": "了解",
-      "category": "云平台"
+      "proficiency_rank": 1,
+      "category": "云平台",
+      "skill_type": "domain"
     },
     {
       "name": "部署架构",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
-      "name": "大数据组件架构",
+      "name": "大数据",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "domain"
     },
     {
-      "name": "微服务组件架构",
+      "name": "微服务架构",
       "proficiency": "了解",
-      "category": "后端框架"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "客户服务意识",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "客户关系维护",
       "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "耐心",
-      "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "项目交付适应能力",
-      "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "raw_requirements": [
