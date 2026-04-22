@@ -6,6 +6,10 @@
   "experience": "不限",
   "employment_type": "实习",
   "job_category": "数据分析",
+  "job_sub_category": "A/B测试",
+  "job_level": "初级",
+  "company_name": "抖音",
+  "workmode": "现场",
   "responsibilities": [
     "负责抖音业务的数据分析工作，涵盖内容、增长、变现、作者生态等多个业务模块",
     "分析影响业务提升与增长的因素，结合业务目标洞察业务现状及问题，给出可落地的产品与运营优化方案",
@@ -17,94 +21,125 @@
     {
       "name": "SQL",
       "proficiency": "精通",
-      "category": "数据处理"
+      "proficiency_rank": 4,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "R",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "Python",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "数据分析",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "数据挖掘",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "逻辑思维",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "数据敏感度",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队协作",
-      "proficiency": "熟悉",
-      "category": "软技能"
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "跨部门沟通",
-      "proficiency": "熟悉",
-      "category": "软技能"
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "Tableau",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "工具使用能力",
+      "skill_type": "tool"
+    },
+    {
+      "name": "BI",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "A/B测试",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "统计学检验",
       "proficiency": "了解",
-      "category": "机器学习"
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "视频行业数据分析",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "产品优化",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "运营优化",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "内容行业分析",
+      "name": "内容行业",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "增长分析",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "商业化分析",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

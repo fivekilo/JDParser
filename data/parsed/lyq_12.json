@@ -4,8 +4,12 @@
   "location": "北京、上海、深圳",
   "education": "本科",
   "experience": "3年以上",
+  "experience_min": 3,
   "employment_type": "全职",
   "job_category": "前端开发",
+  "job_sub_category": "低代码",
+  "job_level": "高级",
+  "company_name": "美团",
   "responsibilities": [
     "负责低代码可视化平台的前端开发（含后端服务），参与需求分析、系统设计、编码与测试全流程",
     "独立完成前端页面开发与优化，保障页面性能与用户体验",
@@ -17,187 +21,271 @@
     {
       "name": "HTML",
       "proficiency": "精通",
-      "category": "前端框架"
+      "proficiency_rank": 4,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "精通",
-      "category": "前端框架"
+      "proficiency_rank": 4,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "JavaScript",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ECMAScript 6+",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "JavaScript"
     },
     {
       "name": "TypeScript",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "React",
       "proficiency": "熟练",
-      "category": "前端框架"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Vue.js",
       "proficiency": "熟练",
-      "category": "前端框架"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Node.js",
       "proficiency": "不限",
-      "category": "后端框架"
+      "category": "后端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Express.js",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "后端框架",
+      "skill_type": "hard",
       "parent": "Node.js"
     },
     {
       "name": "Koa.js",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "后端框架",
+      "skill_type": "hard",
       "parent": "Node.js"
     },
     {
       "name": "MySQL",
       "proficiency": "熟悉",
-      "category": "数据库"
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Redis",
       "proficiency": "熟悉",
-      "category": "缓存"
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
     },
     {
-      "name": "前端性能优化",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "name": "性能优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "需求分析",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "项目管理",
+      "skill_type": "soft"
     },
     {
       "name": "系统设计",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "编码",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "hard"
     },
     {
       "name": "测试",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "用户体验",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "技术创新",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "低代码平台",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "可视化拖拽",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "表单引擎",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "流程设计器",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "前端工程化",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "微前端",
       "proficiency": "了解",
-      "category": "前端框架"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "组件库建设",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "自动化测试",
       "proficiency": "了解",
-      "category": "测试工具"
+      "proficiency_rank": 1,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "跨端开发",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "hard"
     },
     {
       "name": "小程序",
       "proficiency": "了解",
-      "category": "前端框架"
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "hard",
+      "parent": "跨端开发"
     },
     {
       "name": "React Native",
       "proficiency": "了解",
-      "category": "前端框架",
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "hard",
       "parent": "React"
     },
     {
       "name": "WebAssembly",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "3D可视化",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "无代码平台",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "前端架构设计",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "工程化工具",
       "proficiency": "不限",
-      "category": "DevOps工具"
-    },
-    {
-      "name": "自动化测试平台",
-      "proficiency": "不限",
-      "category": "测试工具"
+      "category": "构建工具",
+      "skill_type": "hard"
     },
     {
       "name": "Go",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Java",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Python",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "全栈开发",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

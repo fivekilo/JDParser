@@ -6,96 +6,127 @@
   "experience": "不限",
   "employment_type": "实习",
   "job_category": "数据分析",
+  "job_sub_category": "A/B实验",
+  "job_level": "初级",
+  "company_name": "字节跳动",
+  "workmode": "现场",
   "responsibilities": [
-    "负责泛文娱长内容赛道相关业务的数据分析、经营分析工作",
-    "分析影响产品提升与增长的因素，结合业务方向提出可落地的产品优化方案",
-    "与产品、运营、研发等团队配合，推进优化方案落地执行并带来业务增长",
-    "负责各类A/B实验设计与分析，以及产品优化效果、市场活动分析评估",
-    "建设业务分析模型，并持续评估和优化",
-    "与战略及业务团队密切配合，为业务团队提供决策支持，探索业务模式并提供策略设计、分析和落地支持"
+    "负责字节跳动泛文娱长内容赛道相关业务的数据分析、经营分析工作",
+    "分析影响产品提升与增长的因素，结合业务方向给出可落地的整体产品优化方案",
+    "与产品、运营、研发等配合，推进优化方案落地执行，带来业务实际提升增长",
+    "负责业务上各类A/B实验设计与分析，以及产品优化效果、市场活动分析评估等工作",
+    "建设业务分析模型，并不断评估和优化",
+    "与战略、业务团队密切配合，为业务团队提供决策支持，共同探索业务模式并提供策略设计、分析和落地支持"
   ],
   "required_skills": [
     {
       "name": "SQL",
       "proficiency": "精通",
-      "category": "数据库"
+      "proficiency_rank": 4,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "R",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Python",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "数据分析",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "数据挖掘",
       "proficiency": "不限",
-      "category": "数据处理"
-    },
-    {
-      "name": "BI可视化工具",
-      "proficiency": "了解",
-      "category": "数据处理"
-    },
-    {
-      "name": "数据埋点",
-      "proficiency": "了解",
-      "category": "数据处理"
-    },
-    {
-      "name": "底层数据流转",
-      "proficiency": "了解",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "A/B实验",
       "proficiency": "不限",
-      "category": "数据处理"
-    },
-    {
-      "name": "逻辑清晰",
-      "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "数据敏感度",
-      "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "沟通协作",
-      "proficiency": "不限",
-      "category": "软技能"
-    }
-  ],
-  "preferred_skills": [
-    {
-      "name": "数据分析",
-      "proficiency": "不限",
-      "category": "数据处理"
-    },
-    {
-      "name": "策略分析",
-      "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "经营分析",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "互联网泛文娱领域认知",
+      "name": "业务分析模型",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据埋点",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "数据敏感度",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "BI工具",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "tool",
+      "skill_type": "tool"
+    },
+    {
+      "name": "策略分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "经营分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "泛文娱",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

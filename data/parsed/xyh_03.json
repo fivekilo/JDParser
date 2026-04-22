@@ -4,11 +4,16 @@
   "location": "北京市",
   "education": "本科",
   "experience": "3-5年",
+  "experience_min": 3,
+  "experience_max": 5,
   "department": "有道事业群-公共职能部-有道企业发展部-企业发展产品研发组",
   "employment_type": "全职",
   "headcount": 1,
   "publish_date": "2026-03-18",
   "job_category": "技术-服务端开发-服务端开发",
+  "job_sub_category": "数据处理",
+  "job_level": "中级",
+  "company_name": "有道",
   "responsibilities": [
     "负责多个后端服务系统的设计、开发与维护，处理复杂业务逻辑和系统间交互",
     "开发和优化离线/实时数据处理任务，支撑业务报表和数据分析需求",
@@ -19,74 +24,115 @@
     {
       "name": "Java",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Spring",
       "proficiency": "熟悉",
-      "category": "后端框架"
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Spring Boot",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "后端框架",
+      "skill_type": "hard",
       "parent": "Spring"
     },
     {
       "name": "Spring Cloud",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "后端框架",
+      "skill_type": "hard",
       "parent": "Spring"
     },
     {
       "name": "面向对象设计",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Spark",
       "proficiency": "熟练",
-      "category": "数据处理"
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Flink",
       "proficiency": "熟练",
-      "category": "数据处理"
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "SQL",
       "proficiency": "精通",
-      "category": "数据库"
+      "proficiency_rank": 4,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "MySQL",
       "proficiency": "熟悉",
-      "category": "数据库"
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Redis",
       "proficiency": "熟悉",
-      "category": "缓存"
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "服务端开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据处理",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "domain"
     },
     {
       "name": "AI Agent",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "沟通能力",
       "proficiency": "良好",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队合作",
       "proficiency": "良好",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "分析和解决问题的能力",
       "proficiency": "良好",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [],

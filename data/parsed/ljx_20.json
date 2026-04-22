@@ -6,9 +6,12 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "测试",
+  "job_sub_category": "自动化测试",
+  "company_name": "字节跳动",
+  "workmode": "现场",
   "responsibilities": [
-    "参与产品全流程测试，包括需求评审、用例设计、执行、缺陷跟踪和质量分析",
-    "开发自动化测试框架、工具与平台，实现功能测试、性能测试和接口自动化测试",
+    "参与产品全流程测试，包括需求评审、用例设计、执行、缺陷跟踪、质量分析",
+    "开发自动化测试框架、工具与平台，实现功能测试、性能测试、接口自动化测试",
     "保障移动端和Web端产品的稳定性，制定测试策略与测试方案",
     "推动CI/CD流程优化，提升测试效率与产品质量",
     "与开发、产品团队协作，参与质量回溯，推动问题闭环解决"
@@ -17,134 +20,170 @@
     {
       "name": "Java",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Python",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Go",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "JUnit",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "TestNG",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "Selenium",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "Appium",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "接口测试",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "性能测试",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "功能测试",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
-      "name": "问题定位",
+      "name": "问题定位与分析能力",
       "proficiency": "不限",
-      "category": "通用技能"
-    },
-    {
-      "name": "问题分析能力",
-      "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "线上问题排查",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "hard"
     },
     {
-      "name": "沟通协作",
+      "name": "团队协作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "CI/CD",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "DevOps工具",
+      "skill_type": "hard"
     },
     {
       "name": "Docker",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "Kubernetes",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "移动端兼容性测试",
       "proficiency": "了解",
-      "category": "测试工具"
+      "proficiency_rank": 1,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "性能测试方案设计",
       "proficiency": "了解",
-      "category": "测试工具"
+      "proficiency_rank": 1,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "微服务架构",
       "proficiency": "了解",
-      "category": "后端框架"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
-      "name": "分布式系统测试",
+      "name": "分布式系统",
       "proficiency": "了解",
-      "category": "测试工具"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "测试工具开发",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "测试框架开发",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "自动化测试体系建设",
-      "proficiency": "不限",
-      "category": "测试工具"
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "质量度量体系",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
-      "name": "质量分析报告输出",
+      "name": "质量分析报告输出能力",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

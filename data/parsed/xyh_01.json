@@ -4,219 +4,286 @@
   "location": "广州市",
   "education": "本科",
   "experience": "3-5年",
+  "experience_min": 3,
+  "experience_max": 5,
   "department": "游戏应用与平台发展事业部-商业智能部-智能营销平台组",
   "employment_type": "全职",
   "headcount": 1,
   "publish_date": "2026-03-19",
   "job_category": "技术-前端及客户端开发-web前端开发",
+  "job_sub_category": "Node.js全栈开发",
+  "job_level": "中级",
   "responsibilities": [
     "负责公司互联网产品前端设计与实现",
-    "基于 Express、Koa 等框架承担 Node.js 全栈开发工作，确保系统高性能和高可用",
-    "在日常开发中运用 AI 编程工具提升开发效率，通过 AI 辅助完成代码生成、重构和优化",
-    "实践 SDD（规范驱动开发）模式，提升代码可维护性和团队协作效率",
-    "在开发过程中应用 Agent 构建理念，探索和实践多 Agent 协作模式",
-    "持续优化 AI 辅助开发的效率和质量，并沉淀实际实践案例",
-    "参与前端构建工具和 Node.js 服务架构的搭建与优化，提升团队研发效能"
+    "基于Express、Koa等框架承担Node.js全栈开发工作，确保系统高性能和高可用",
+    "在日常开发中熟练运用AI编程工具提升开发效率，通过AI辅助完成代码生成、重构和优化",
+    "实践SDD（规范驱动开发）模式，形成高效的AI协作开发方式",
+    "在开发过程中应用Agent构建理念，探索和实践多Agent协作模式",
+    "持续优化AI辅助开发的效率和质量，并沉淀实际实践案例",
+    "参与前端构建工具和Node.js服务架构的搭建与优化，提升团队研发效能"
   ],
   "required_skills": [
     {
       "name": "HTML",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "JavaScript",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Vue.js",
       "proficiency": "精通",
-      "category": "前端框架"
+      "proficiency_rank": 4,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "React",
       "proficiency": "精通",
-      "category": "前端框架"
+      "proficiency_rank": 4,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Node.js",
       "proficiency": "熟悉",
-      "category": "后端框架"
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
     },
     {
       "name": "Express.js",
       "proficiency": "不限",
       "category": "后端框架",
+      "skill_type": "hard",
       "parent": "Node.js"
     },
     {
       "name": "Koa.js",
       "proficiency": "不限",
       "category": "后端框架",
+      "skill_type": "hard",
       "parent": "Node.js"
+    },
+    {
+      "name": "中间件设计",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "Vite",
       "proficiency": "熟练",
-      "category": "DevOps工具"
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
     },
     {
       "name": "Webpack",
       "proficiency": "熟练",
-      "category": "DevOps工具"
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
     },
     {
       "name": "模块化开发",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "组件化开发",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "MySQL",
       "proficiency": "熟悉",
-      "category": "数据库"
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "MongoDB",
       "proficiency": "熟悉",
-      "category": "数据库"
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Redis",
       "proficiency": "熟悉",
-      "category": "缓存"
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据设计",
+      "proficiency": "不限",
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "查询优化",
+      "proficiency": "不限",
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Claude Code",
       "proficiency": "熟练",
-      "category": "AI工具"
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "OpenCode",
       "proficiency": "熟练",
-      "category": "AI工具"
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "Cursor",
       "proficiency": "熟练",
-      "category": "AI工具"
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "SDD",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "规范驱动开发",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "SDD"
     },
     {
       "name": "Agent",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "Rule",
       "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "AI工具",
+      "skill_type": "hard",
       "parent": "Agent"
     },
     {
       "name": "Skill",
       "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "AI工具",
+      "skill_type": "hard",
       "parent": "Agent"
     },
     {
       "name": "MCP",
       "proficiency": "了解",
-      "category": "AI工具",
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard",
       "parent": "Agent"
     },
     {
       "name": "Memory",
       "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "AI工具",
+      "skill_type": "hard",
       "parent": "Agent"
     },
     {
       "name": "多Agent协作",
       "proficiency": "不限",
       "category": "AI工具",
+      "skill_type": "hard",
       "parent": "Agent"
     },
     {
       "name": "学习能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "技术热情",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "总结能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "分享能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "沟通能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队协作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "开源项目经验",
+      "name": "开源项目",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "技术博客",
       "proficiency": "不限",
-      "category": "通用技能"
-    },
-    {
-      "name": "AI开发经验分享",
-      "proficiency": "不限",
-      "category": "通用技能"
-    },
-    {
-      "name": "数据分析",
-      "proficiency": "不限",
-      "category": "数据处理"
+      "category": "其他",
+      "skill_type": "tool"
     },
     {
       "name": "案例演示",
       "proficiency": "不限",
-      "category": "通用技能"
-    },
-    {
-      "name": "社区活跃度",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "soft"
     },
     {
       "name": "AI编程社区",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "其他",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

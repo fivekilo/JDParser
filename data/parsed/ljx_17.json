@@ -6,8 +6,11 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "后端开发",
+  "job_sub_category": "分布式系统",
+  "company_name": "蚂蚁集团",
+  "workmode": "现场",
   "responsibilities": [
-    "负责核心支付系统后端设计与开发",
+    "负责蚂蚁集团核心支付系统（支付宝、蚂蚁财富）后端设计与开发",
     "参与高并发交易链路架构设计，保障系统在高并发场景下的稳定性",
     "负责分布式事务、支付路由、账务清算等核心模块的研发",
     "推动微服务架构、容灾设计、高可用方案落地",
@@ -17,119 +20,158 @@
     {
       "name": "Java",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Go",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "C++",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "分布式系统设计",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "CAP定理",
-      "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "BASE理论",
-      "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "MySQL",
       "proficiency": "不限",
-      "category": "数据库"
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Redis",
       "proficiency": "不限",
-      "category": "缓存"
+      "category": "缓存",
+      "skill_type": "hard"
     },
     {
       "name": "Kafka",
       "proficiency": "不限",
-      "category": "消息队列"
-    },
-    {
-      "name": "编程基础",
-      "proficiency": "扎实",
-      "category": "通用技能"
+      "category": "消息队列",
+      "skill_type": "hard"
     },
     {
       "name": "问题分析能力",
-      "proficiency": "良好",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "风险意识",
-      "proficiency": "良好",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
-      "name": "金融业务逻辑",
+      "name": "金融业务",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
     }
   ],
   "preferred_skills": [
     {
+      "name": "分布式事务",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
       "name": "TCC",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "分布式事务"
     },
     {
       "name": "Saga",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "分布式事务"
     },
     {
       "name": "OceanBase",
       "proficiency": "了解",
-      "category": "数据库"
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "HTAP数据库",
       "proficiency": "了解",
-      "category": "数据库"
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "金融风控",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "反欺诈",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "金融科技",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "支付清算",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "账务系统",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "学习能力",
-      "proficiency": "良好",
-      "category": "软技能"
-    },
-    {
-      "name": "金融科技创新热情",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

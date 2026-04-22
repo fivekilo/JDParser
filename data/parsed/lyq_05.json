@@ -4,12 +4,17 @@
   "location": "杭州、北京、上海、深圳",
   "education": "本科",
   "experience": "2年以上",
+  "experience_min": 2,
   "employment_type": "全职",
   "job_category": "测试",
+  "job_sub_category": "自动化测试",
+  "job_level": "中级",
+  "company_name": "阿里巴巴",
+  "workmode": "现场",
   "responsibilities": [
     "参与产品全流程测试，包括需求评审、用例设计、执行、缺陷跟踪和质量分析",
     "开发自动化测试框架、工具与平台，实现功能测试、性能测试和接口自动化测试",
-    "保障分布式系统和云原生应用的稳定性与高可用性，制定测试策略",
+    "保障分布式系统、云原生应用的稳定性与高可用性，制定测试策略",
     "推动测试流程优化，提升测试效率与产品质量，降低线上故障发生率",
     "与开发、产品团队协作，参与质量回溯，推动问题闭环解决"
   ],
@@ -17,169 +22,207 @@
     {
       "name": "Java",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Python",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Shell",
       "proficiency": "熟练",
-      "category": "编程语言"
-    },
-    {
-      "name": "自动化测试",
-      "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "JUnit",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "TestNG",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "Selenium",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "Appium",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "接口测试",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "性能测试",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "功能测试",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "问题定位",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "soft"
     },
     {
-      "name": "问题分析能力",
+      "name": "分析能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "线上问题排查",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "持续集成",
+      "name": "CI/CD",
       "proficiency": "了解",
-      "category": "DevOps工具"
-    },
-    {
-      "name": "持续部署",
-      "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "DevOps工具",
+      "skill_type": "hard"
     },
     {
       "name": "Docker",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "Kubernetes",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "云原生测试环境",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "测试平台开发",
       "proficiency": "了解",
-      "category": "测试工具"
+      "proficiency_rank": 1,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "测试数据构造",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "质量监控体系建设",
       "proficiency": "了解",
-      "category": "测试工具"
+      "proficiency_rank": 1,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "分布式系统",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "微服务架构",
       "proficiency": "了解",
-      "category": "后端框架"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
-      "name": "测试方案设计",
-      "proficiency": "了解",
-      "category": "通用技能"
-    },
-    {
-      "name": "电商测试开发",
+      "name": "电商",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "云服务测试开发",
+      "name": "云服务",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "中间件测试开发",
+      "name": "中间件",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "自动化平台建设",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "测试工具开发",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "测试框架开发",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "开发流程",
       "proficiency": "熟悉",
-      "category": "项目管理"
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "hard"
     },
     {
-      "name": "全链路质量保障能力",
+      "name": "全链路质量保障",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "测试工具",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

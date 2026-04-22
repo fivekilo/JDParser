@@ -6,6 +6,10 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "后端开发",
+  "job_sub_category": "分布式系统",
+  "job_level": "高级",
+  "company_name": "阿里巴巴",
+  "workmode": "现场",
   "responsibilities": [
     "设计、开发和维护高质量的云服务软件应用，参与后端软件全生命周期（需求、设计、编码、测试、发布）",
     "优化现有系统架构，提升高并发场景下的性能、稳定性与可用性",
@@ -17,194 +21,252 @@
     {
       "name": "Java",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Python",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Go",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "分布式系统设计",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "缓存",
-      "proficiency": "不限",
-      "category": "缓存"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
     },
     {
       "name": "消息队列",
-      "proficiency": "不限",
-      "category": "消息队列"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
     },
     {
       "name": "微服务架构",
-      "proficiency": "不限",
-      "category": "后端框架"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "MySQL",
       "proficiency": "熟练",
-      "category": "数据库"
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Redis",
       "proficiency": "熟练",
-      "category": "缓存"
+      "proficiency_rank": 3,
+      "category": "缓存",
+      "skill_type": "hard"
     },
     {
-      "name": "SQL",
-      "proficiency": "不限",
-      "category": "数据库"
+      "name": "SQL优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "性能调优",
-      "proficiency": "不限",
-      "category": "其他"
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "Linux",
       "proficiency": "熟悉",
-      "category": "操作系统"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "Git",
-      "proficiency": "不限",
-      "category": "DevOps工具"
+      "proficiency": "掌握",
+      "category": "版本控制",
+      "skill_type": "hard"
     },
     {
       "name": "Maven",
-      "proficiency": "不限",
-      "category": "DevOps工具"
+      "proficiency": "掌握",
+      "category": "构建工具",
+      "skill_type": "hard"
     },
     {
-      "name": "编程习惯",
-      "proficiency": "不限",
-      "category": "通用技能"
-    },
-    {
-      "name": "问题分析能力",
-      "proficiency": "不限",
-      "category": "软技能"
-    },
-    {
-      "name": "问题解决能力",
-      "proficiency": "不限",
-      "category": "软技能"
+      "name": "问题分析与解决能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "独立处理复杂技术问题",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "云原生",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "Docker",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "Kubernetes",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "微服务架构实践",
       "proficiency": "了解",
-      "category": "后端框架"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "微服务"
     },
     {
-      "name": "大数据处理",
+      "name": "微服务架构",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "Hadoop",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Spark",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "实时计算",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "系统监控",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "DevOps工具",
+      "skill_type": "hard"
     },
     {
       "name": "容灾备份",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "高可用架构设计",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "大规模分布式系统",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "电商后端开发",
+      "name": "电商",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "云服务后端开发",
+      "name": "云服务",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "开源项目经验",
+      "name": "开源项目",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "domain"
     },
     {
       "name": "技术博客",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "soft"
     },
     {
       "name": "技术分享",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "soft"
     },
     {
       "name": "架构设计",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "系统重构",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "系统优化",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

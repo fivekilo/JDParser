@@ -4,187 +4,288 @@
   "location": "北京、上海、深圳、武汉",
   "education": "本科",
   "experience": "3年以上",
+  "experience_min": 3,
   "employment_type": "全职",
   "job_category": "后端开发",
+  "job_sub_category": "分布式系统",
+  "job_level": "中级",
+  "company_name": "小米",
+  "workmode": "现场",
   "responsibilities": [
     "负责小米汽车车联网、智能座舱核心后端服务的设计、开发与维护",
     "构建高并发、高可用、低延迟的分布式系统，支撑车载设备海量数据交互",
     "优化系统架构与性能，解决车载场景下的网络、存储、计算等技术难题",
-    "参与技术方案评审、代码评审，保障代码质量与系统稳定性",
-    "跟踪前沿技术，推动技术创新落地"
+    "参与技术方案评审、代码Review，保障代码质量与系统稳定性",
+    "跟踪前沿技术如边缘计算、车路协同，推动技术创新落地"
   ],
   "required_skills": [
     {
       "name": "Go",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Java",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "C++",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "数据结构",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "算法",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "操作系统原理",
       "proficiency": "熟悉",
-      "category": "操作系统"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "MySQL",
       "proficiency": "熟练",
-      "category": "数据库"
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Redis",
       "proficiency": "熟练",
-      "category": "缓存"
+      "proficiency_rank": 3,
+      "category": "缓存",
+      "skill_type": "hard"
     },
     {
       "name": "Kafka",
       "proficiency": "熟练",
-      "category": "消息队列"
+      "proficiency_rank": 3,
+      "category": "消息队列",
+      "skill_type": "hard"
     },
     {
       "name": "gRPC",
       "proficiency": "熟练",
-      "category": "其他"
+      "proficiency_rank": 3,
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "分布式系统",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "微服务架构",
       "proficiency": "不限",
-      "category": "后端框架"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "问题排查",
       "proficiency": "良好",
-      "category": "通用技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "性能调优",
       "proficiency": "良好",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "hard"
     },
     {
       "name": "独立解决复杂线上问题",
       "proficiency": "不限",
-      "category": "软技能"
-    }
-  ],
-  "preferred_skills": [
+      "category": "软技能",
+      "skill_type": "soft"
+    },
     {
       "name": "边缘计算",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "车联网协议",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "domain"
     },
     {
       "name": "MQTT",
       "proficiency": "了解",
-      "category": "网络"
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard",
+      "parent": "车联网协议"
     },
     {
       "name": "CoAP",
       "proficiency": "了解",
-      "category": "网络"
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard",
+      "parent": "车联网协议"
     },
     {
       "name": "车载操作系统",
       "proficiency": "了解",
-      "category": "操作系统"
+      "proficiency_rank": 1,
+      "category": "操作系统",
+      "skill_type": "domain"
+    },
+    {
+      "name": "实时计算",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Flink",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard",
+      "parent": "实时计算"
+    },
+    {
+      "name": "大数据处理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Hadoop",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard",
+      "parent": "大数据处理"
     },
     {
       "name": "Apache Spark",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard",
+      "parent": "大数据处理"
+    },
+    {
+      "name": "云原生",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "Kubernetes",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard",
+      "parent": "云原生"
     },
     {
       "name": "Docker",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard",
+      "parent": "云原生"
     },
     {
       "name": "服务网格",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "可观测性",
       "proficiency": "了解",
-      "category": "其他"
-    },
+      "proficiency_rank": 1,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
     {
       "name": "车联网",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "智能座舱",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "自动驾驶",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "系统重构",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "hard"
     },
     {
       "name": "高可用架构设计",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
-      "name": "开源项目经验",
+      "name": "开源项目",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "技术博客",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "soft"
     },
     {
       "name": "技术分享",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

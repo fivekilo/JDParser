@@ -6,155 +6,201 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "后端开发",
+  "job_sub_category": "高并发,分布式系统",
+  "job_level": "中级",
+  "company_name": "拼多多",
+  "workmode": "现场",
   "responsibilities": [
-    "负责电商核心交易系统（商品、订单、支付、优惠）后端设计与开发",
+    "负责拼多多电商核心交易系统（商品、订单、支付、优惠）后端设计与开发",
     "参与高并发秒杀、促销活动系统的架构设计与性能优化",
-    "负责系统的高可用设计，保障大促期间的稳定性",
-    "推动代码质量提升，编写技术文档，参与Code Review",
+    "负责系统的高可用设计，保障双十一等大促期间的稳定性",
+    "推动代码质量提升，编写技术文档，参与代码评审",
     "与产品、前端、测试团队协作，高质量交付业务需求"
   ],
   "required_skills": [
     {
       "name": "Java",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "C++",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Go",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "MySQL",
       "proficiency": "熟悉",
-      "category": "数据库"
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Redis",
       "proficiency": "熟悉",
-      "category": "缓存"
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
     },
     {
       "name": "Kafka",
       "proficiency": "熟悉",
-      "category": "消息队列"
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
     },
     {
       "name": "数据结构",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "proficiency": "掌握",
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "算法",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "proficiency": "掌握",
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "操作系统",
-      "proficiency": "不限",
-      "category": "操作系统"
+      "proficiency": "掌握",
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "计算机网络",
-      "proficiency": "不限",
-      "category": "网络"
+      "proficiency": "掌握",
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "Linux",
       "proficiency": "熟悉",
-      "category": "操作系统"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "Shell",
       "proficiency": "不限",
-      "category": "编程语言"
-    },
-    {
-      "name": "分布式系统设计",
-      "proficiency": "了解",
-      "category": "通用技能"
-    },
-    {
-      "name": "高并发系统架构",
-      "proficiency": "了解",
-      "category": "通用技能"
-    },
-    {
-      "name": "缓存技术",
-      "proficiency": "了解",
-      "category": "缓存"
-    },
-    {
-      "name": "CDN",
-      "proficiency": "了解",
-      "category": "网络"
-    },
-    {
-      "name": "负载均衡",
-      "proficiency": "了解",
-      "category": "网络"
-    },
-    {
-      "name": "电商交易流程",
-      "proficiency": "了解",
-      "category": "其他"
-    },
-    {
-      "name": "支付系统",
-      "proficiency": "了解",
-      "category": "其他"
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "编程习惯",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "proficiency": "良好",
+      "category": "通用技能",
+      "skill_type": "soft"
     },
     {
       "name": "技术文档编写",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "soft"
     },
     {
       "name": "Code Review",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "hard"
     },
     {
       "name": "团队协作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "电商系统开发",
-      "proficiency": "不限",
-      "category": "其他"
+      "name": "分布式系统设计",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发系统架构",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "缓存技术",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CDN",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "负载均衡",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "电商交易流程",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "支付系统",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "系统稳定性",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "性能优化",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "问题解决能力",
-      "proficiency": "不限",
-      "category": "软技能"
+      "proficiency": "较强",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "抗压能力",
+      "proficiency": "较强",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "电商",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "其他",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

@@ -6,6 +6,9 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "测试",
+  "job_sub_category": "自动化测试",
+  "job_level": "中级",
+  "company_name": "网易",
   "responsibilities": [
     "参与游戏产品全流程测试，包括需求评审、用例设计、执行、缺陷跟踪、质量分析",
     "开发游戏自动化测试框架、工具与平台，实现功能、性能、兼容性自动化测试",
@@ -17,146 +20,210 @@
     {
       "name": "Python",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Java",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "C++",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "游戏测试方法论",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "domain"
     },
     {
       "name": "Unity",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "Unreal Engine",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "问题定位与分析能力",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
-      "name": "故障排查",
+      "name": "游戏崩溃排查",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能分析",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "Charles",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "tool"
     },
     {
       "name": "Fiddler",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Android",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
     },
     {
       "name": "adb",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "tool",
+      "parent": "Android"
     },
     {
       "name": "版本管理工具",
       "proficiency": "熟悉",
-      "category": "项目管理"
-    },
+      "proficiency_rank": 2,
+      "category": "版本控制",
+      "skill_type": "tool"
+    }
+  ],
+  "preferred_skills": [
     {
       "name": "图形学基础",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "DirectX",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "OpenGL",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "Vulkan",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "游戏安全",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "domain"
     },
     {
       "name": "反作弊",
       "proficiency": "了解",
-      "category": "其他",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "domain",
       "parent": "游戏安全"
     },
     {
       "name": "外挂检测",
       "proficiency": "了解",
-      "category": "其他",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "domain",
       "parent": "游戏安全"
     },
     {
       "name": "CI/CD",
       "proficiency": "了解",
-      "category": "DevOps工具"
+      "proficiency_rank": 1,
+      "category": "DevOps工具",
+      "skill_type": "hard"
     },
     {
       "name": "自动化构建",
       "proficiency": "了解",
-      "category": "DevOps工具"
-    }
-  ],
-  "preferred_skills": [
+      "proficiency_rank": 1,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
     {
       "name": "游戏测试工具开发",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "测试框架开发",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "游戏质量保障",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "MMORPG",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "卡牌游戏",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "休闲游戏",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "热情",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

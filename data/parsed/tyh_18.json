@@ -5,152 +5,198 @@
   "education": "本科",
   "experience": "不限",
   "job_category": "产品",
+  "job_sub_category": "AI产品",
+  "job_level": "初级",
+  "company_name": "抖音电商",
   "responsibilities": [
-    "协助对接巨量千川商家、投手用户，挖掘AI投流工具的真实痛点，参与AI营销SaaS产品调研并输出标准化产品拆解报告",
-    "协助推进巨量千川AI智能服务Agent搭建，参与需求梳理、流程设计、原型输出，覆盖投放策略智能推荐、效果归因分析、AI智能盯盘与投放启停调控、AIGC投流素材生成等场景",
+    "协助对接巨量千川商家、投手用户，挖掘AI投流工具的真实痛点",
+    "参与AI营销SaaS产品调研，输出标准化产品拆解报告，为产品迭代提供决策输入",
+    "协助推进巨量千川AI智能服务Agent搭建，参与产品功能的需求梳理、流程设计、原型输出",
+    "参与投放策略智能推荐、效果归因分析、AI智能盯盘、投放启停调控、AIGC投流素材生成等场景设计",
     "联动算法、研发、运营、销售团队跟进需求落地，参与产品灰度测试、数据复盘，持续优化产品体验与业务指标",
-    "协助对接种子测试用户，收集产品使用反馈，定期输出用户运营报告，推动问题快速迭代修复"
+    "协助对接种子测试用户，收集产品使用反馈，输出用户运营报告，推动问题快速迭代修复"
   ],
   "required_skills": [
     {
       "name": "大语言模型",
       "proficiency": "了解",
-      "category": "AI工具"
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "Agent",
       "proficiency": "了解",
-      "category": "AI工具"
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "Skill",
       "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "AI工具",
+      "skill_type": "hard",
       "parent": "Agent"
     },
     {
       "name": "RAG",
       "proficiency": "了解",
-      "category": "AI工具"
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "AIGC",
       "proficiency": "了解",
-      "category": "AI工具"
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "Axure",
       "proficiency": "掌握",
-      "category": "项目管理"
+      "category": "设计工具",
+      "skill_type": "tool"
     },
     {
       "name": "XMind",
       "proficiency": "掌握",
-      "category": "项目管理"
+      "category": "项目管理",
+      "skill_type": "tool"
     },
     {
       "name": "飞书文档",
       "proficiency": "掌握",
-      "category": "项目管理"
+      "category": "项目管理",
+      "skill_type": "tool"
     },
     {
       "name": "需求文档编写",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
     },
     {
-      "name": "流程图设计",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "name": "流程设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
     },
     {
-      "name": "逻辑分析",
-      "proficiency": "不限",
-      "category": "软技能"
+      "name": "逻辑流程图",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "tool"
     },
     {
-      "name": "数据敏感度",
+      "name": "数据分析",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "问题拆解能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "跨部门沟通能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "自驱力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "学习能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "结果导向",
       "proficiency": "不限",
-      "category": "软技能"
-    }
-  ],
-  "preferred_skills": [
+      "category": "软技能",
+      "skill_type": "soft"
+    },
     {
-      "name": "AI产品落地",
+      "name": "电商营销",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "抖音电商",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "巨量千川",
+      "name": "巨量千川投流",
       "proficiency": "不限",
-      "category": "其他"
-    },
-    {
-      "name": "DOU+",
-      "proficiency": "不限",
-      "category": "其他"
-    },
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
     {
       "name": "营销SaaS",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "AI Agent",
       "proficiency": "不限",
       "category": "AI工具",
+      "skill_type": "hard",
       "parent": "Agent"
-    },
-    {
-      "name": "Agent",
-      "proficiency": "不限",
-      "category": "AI工具"
     },
     {
       "name": "大模型应用",
       "proficiency": "不限",
       "category": "AI工具",
+      "skill_type": "hard",
       "parent": "大语言模型"
     },
     {
-      "name": "大语言模型",
+      "name": "抖音账号运营",
       "proficiency": "不限",
-      "category": "AI工具"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "账号运营",
+      "name": "视频号带货运营",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "DOU+投流",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "巨量千川生态产品",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

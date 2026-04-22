@@ -6,108 +6,136 @@
   "experience": "不限",
   "employment_type": "实习",
   "job_category": "前端开发",
+  "job_sub_category": "全栈开发",
+  "job_level": "初级",
+  "company_name": "字节跳动",
+  "workmode": "现场",
   "responsibilities": [
-    "负责飞书视频会议业务相关产品的开发，包括视频会议、会议室解决方案、音视频创新产品等",
-    "参与高效高质量的设计和编码，覆盖跨端应用、工程构建、性能品质等方向",
-    "持续关注用户体验，与产品和设计协作改进产品易用性"
+    "负责字节跳动飞书视频会议业务相关产品，包括视频会议、会议室解决方案、音视频创新产品等",
+    "参与高效高质量的设计和编码、跨端应用、工程构建、性能品质等多个方向",
+    "持续关注用户体验，与产品和设计一起不断改进产品的易用性"
   ],
   "required_skills": [
     {
       "name": "软件开发",
       "proficiency": "熟悉",
-      "category": "通用技能"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "操作系统",
       "proficiency": "熟悉",
-      "category": "操作系统"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "JavaScript",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Rust",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Go",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Java",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "前端框架",
       "proficiency": "熟悉",
-      "category": "前端框架"
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "责任感",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "逻辑思维能力",
-      "proficiency": "较强",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "表达能力",
-      "proficiency": "较强",
-      "category": "软技能"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队协作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "探索精神",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "音视频底层机制",
+      "name": "音视频",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "WebRTC",
       "proficiency": "了解",
-      "category": "网络"
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "跨平台开发架构",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "前后端交互原理",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "全栈开发",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "独立项目开发",
       "proficiency": "不限",
-      "category": "通用技能"
-    },
-    {
-      "name": "项目上线",
-      "proficiency": "不限",
-      "category": "项目管理"
+      "category": "项目管理",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

@@ -6,80 +6,109 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "程序&技术类",
+  "job_sub_category": "图形渲染",
   "target_group": "常规社招",
+  "company_name": "Varsapura",
   "responsibilities": [
     "与技术美术和美术团队紧密合作，开发符合次世代游戏画面水准的图形功能",
     "优化超大规模复杂场景下的图形功能性能",
-    "跟踪图形技术发展趋势，结合项目需要研究并开发业界领先的图形技术方案，提升游戏画面表现",
-    "理解并最大限度发挥不同平台的硬件特性，优化渲染功能性能",
+    "跟踪图形技术发展趋势，结合项目需求研究并开发领先的图形技术方案，提升游戏画面表现",
+    "理解并发挥不同平台的硬件特性，优化渲染功能性能",
     "学习并理解下一代主机平台特性，结合项目进行深度定制化图形功能开发"
   ],
   "required_skills": [
     {
-      "name": "图形 API",
-      "proficiency": "熟悉",
-      "category": "其他"
-    },
-    {
       "name": "DirectX 12",
       "proficiency": "熟悉",
-      "category": "其他",
-      "parent": "图形 API"
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "Vulkan",
       "proficiency": "熟悉",
-      "category": "其他",
-      "parent": "图形 API"
-    },
-    {
-      "name": "图形硬件架构",
-      "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "GCN",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
-      "parent": "图形硬件架构"
+      "skill_type": "hard"
     },
     {
       "name": "RDNA2",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
-      "parent": "图形硬件架构"
+      "skill_type": "hard"
     },
     {
       "name": "数学基础",
       "proficiency": "熟练",
-      "category": "通用技能"
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
     },
     {
       "name": "C++",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
-      "name": "技术美术协作",
+      "name": "沟通能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队协作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "图形渲染",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "硬件架构",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "游戏引擎开发",
+      "proficiency": "不限",
+      "category": "游戏引擎",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
-      "name": "3A游戏项目开发",
+      "name": "3A游戏开发",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "Unreal Engine",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Unreal Engine 5",
+      "proficiency": "不限",
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
     }
   ],
   "raw_requirements": [

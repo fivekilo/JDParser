@@ -4,196 +4,255 @@
   "location": "上海、北京",
   "education": "不限",
   "experience": "5年以上",
+  "experience_min": 5,
   "employment_type": "全职",
   "job_category": "程序&技术类",
+  "job_sub_category": "分布式训练",
+  "job_level": "高级",
   "responsibilities": [
     "主导基于 Kubernetes 的大规模训练作业调度系统设计，支持千卡 GPU 集群的弹性伸缩、拓扑感知、容错恢复",
     "深度优化训练资源利用率，实现 Gang Scheduling、Bin Packing、抢占式调度、Spot 实例混部",
     "构建高性能训练网络栈，优化 RDMA、RoCE v2 配置，调优 NCCL 通信参数，解决 AllReduce 瓶颈",
     "集成并扩展主流训练框架 DeepSpeed、Megatron-LM、FSDP、JAX 与通信库 NCCL、Gloo",
     "设计训练任务可观测体系，监控 GPU 利用率、通信带宽、显存碎片、Loss 异常等关键指标",
-    "探索新型硬件协同优化，包括 NVIDIA NIC、GPUDirect RDMA、NVLink 拓扑感知调度"
+    "探索新型硬件协同优化，包括 NVIDIA NIC、GPU Direct RDMA、NVLink 拓扑感知调度"
   ],
   "required_skills": [
     {
       "name": "Kubernetes",
-      "proficiency": "精通",
-      "category": "DevOps工具"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
     },
     {
       "name": "Scheduler Framework",
       "proficiency": "熟悉",
-      "category": "DevOps工具",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard",
       "parent": "Kubernetes"
     },
     {
-      "name": "CustomResourceDefinition",
+      "name": "CRD",
       "proficiency": "熟悉",
-      "category": "DevOps工具",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard",
       "parent": "Kubernetes"
     },
     {
       "name": "Operator",
       "proficiency": "熟悉",
-      "category": "DevOps工具",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard",
       "parent": "Kubernetes"
     },
     {
-      "name": "GPU 集群调度",
+      "name": "GPU集群调度系统",
       "proficiency": "不限",
-      "category": "其他"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "Volcano",
       "proficiency": "熟悉",
-      "category": "DevOps工具",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard",
       "parent": "Kubernetes"
     },
     {
       "name": "Kueue",
       "proficiency": "熟悉",
-      "category": "DevOps工具",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard",
       "parent": "Kubernetes"
     },
     {
-      "name": "Apache YuniKorn",
+      "name": "YuniKorn",
       "proficiency": "熟悉",
-      "category": "DevOps工具",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard",
       "parent": "Kubernetes"
     },
     {
       "name": "分布式训练通信原理",
       "proficiency": "了解",
-      "category": "机器学习"
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "domain"
     },
     {
       "name": "NCCL",
       "proficiency": "了解",
-      "category": "深度学习"
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "RDMA",
       "proficiency": "了解",
-      "category": "网络"
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "AllReduce",
       "proficiency": "了解",
-      "category": "深度学习"
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "机器学习平台",
       "proficiency": "不限",
-      "category": "机器学习"
+      "category": "机器学习",
+      "skill_type": "domain"
     },
     {
       "name": "Kubeflow",
       "proficiency": "不限",
       "category": "机器学习",
+      "skill_type": "hard",
       "parent": "Kubernetes"
     },
     {
       "name": "Metaflow",
       "proficiency": "不限",
-      "category": "机器学习"
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "AWS",
       "proficiency": "不限",
-      "category": "云平台"
+      "category": "云平台",
+      "skill_type": "hard"
     },
     {
       "name": "SageMaker",
       "proficiency": "不限",
       "category": "机器学习",
+      "skill_type": "hard",
       "parent": "AWS"
     },
     {
       "name": "PAI",
       "proficiency": "不限",
-      "category": "机器学习"
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "DeepSpeed",
       "proficiency": "熟悉",
-      "category": "深度学习"
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "ZeRO",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "深度学习",
+      "skill_type": "hard",
       "parent": "DeepSpeed"
     },
     {
       "name": "Offload",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "深度学习",
+      "skill_type": "hard",
       "parent": "DeepSpeed"
     },
     {
       "name": "Megatron-LM",
       "proficiency": "熟悉",
-      "category": "深度学习"
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "Tensor Parallel",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "深度学习",
+      "skill_type": "hard",
       "parent": "Megatron-LM"
     },
     {
       "name": "Pipeline Parallel",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "深度学习",
+      "skill_type": "hard",
       "parent": "Megatron-LM"
     },
     {
       "name": "PyTorch",
       "proficiency": "熟悉",
-      "category": "深度学习"
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
-      "name": "Fully Sharded Data Parallel",
+      "name": "FSDP",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "深度学习",
+      "skill_type": "hard",
       "parent": "PyTorch"
     },
     {
       "name": "NVIDIA ConnectX",
       "proficiency": "了解",
-      "category": "网络"
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "InfiniBand",
       "proficiency": "了解",
-      "category": "网络"
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "RoCE",
       "proficiency": "了解",
-      "category": "网络"
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "GPUDirect",
       "proficiency": "了解",
-      "category": "网络"
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
       "name": "NCCL",
       "proficiency": "不限",
-      "category": "深度学习"
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "RDMA",
       "proficiency": "不限",
-      "category": "网络"
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "AllReduce",
       "proficiency": "不限",
-      "category": "深度学习"
+      "category": "深度学习",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

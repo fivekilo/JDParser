@@ -4,172 +4,222 @@
   "location": "北京、上海、深圳、成都",
   "education": "本科",
   "experience": "3年以上",
+  "experience_min": 3,
   "employment_type": "全职",
   "job_category": "测试",
+  "job_sub_category": "自动化测试",
+  "job_level": "高级",
+  "company_name": "美团",
+  "workmode": "现场",
   "responsibilities": [
     "负责神会员业务相关产品迭代的前后端质量保证，制定测试方案、设计用例、执行测试、管理质量",
     "深入理解业务与系统架构，分析质量风险，共建完备质量保证体系",
     "开发自动化测试工具与平台，推进测试智能化与效能提升",
-    "参与持续集成/持续交付（CI/CD）流程建设，提升交付效率与质量",
+    "参与持续集成与持续交付流程建设，提升交付效率与质量",
     "跟踪线上问题，进行根因分析与闭环改进，降低故障发生率"
   ],
   "required_skills": [
     {
       "name": "Java",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Python",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "JUnit",
       "proficiency": "熟练",
-      "category": "测试工具"
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "TestNG",
       "proficiency": "熟练",
-      "category": "测试工具"
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "pytest",
       "proficiency": "熟练",
-      "category": "测试工具"
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "接口测试",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "性能测试",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "功能测试",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "前后端测试方法",
       "proficiency": "熟悉",
-      "category": "通用技能"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "问题分析与定位能力",
       "proficiency": "良好",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "Linux",
       "proficiency": "熟悉",
-      "category": "操作系统"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "Git",
       "proficiency": "掌握",
-      "category": "DevOps工具"
+      "category": "版本控制",
+      "skill_type": "hard"
     },
     {
       "name": "Jenkins",
       "proficiency": "掌握",
-      "category": "DevOps工具"
+      "category": "DevOps工具",
+      "skill_type": "hard"
     },
     {
       "name": "自动化测试",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "CI/CD",
       "proficiency": "不限",
-      "category": "DevOps工具"
-    },
-    {
-      "name": "根因分析",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "category": "DevOps工具",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
       "name": "微服务架构",
       "proficiency": "了解",
-      "category": "后端框架"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "分布式系统测试",
       "proficiency": "了解",
-      "category": "测试工具"
+      "proficiency_rank": 1,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "混沌工程",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "测试平台开发",
       "proficiency": "了解",
-      "category": "测试工具"
+      "proficiency_rank": 1,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "测试数据构造",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "质量监控体系建设",
       "proficiency": "了解",
-      "category": "通用技能"
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
-      "name": "电商业务",
-      "proficiency": "了解",
-      "category": "其他"
+      "name": "电商",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "会员业务",
-      "proficiency": "了解",
-      "category": "其他"
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "促销系统",
-      "proficiency": "了解",
-      "category": "其他"
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "支付链路测试",
-      "proficiency": "了解",
-      "category": "测试工具"
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "外卖平台",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "自动化平台建设",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "测试工具开发",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "测试框架开发",
       "proficiency": "不限",
-      "category": "测试工具"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "开发流程",
       "proficiency": "熟悉",
-      "category": "项目管理"
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "hard"
     },
     {
-      "name": "全链路质量保障能力",
+      "name": "全链路质量保障",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

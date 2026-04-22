@@ -6,166 +6,213 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "程序&技术类",
+  "job_sub_category": "驱动安全",
   "target_group": "常规社招",
   "responsibilities": [
     "设计和开发游戏反外挂系统，开展客户端安全方向技术研究",
     "增强反外挂系统客户端防护能力，包括驱动层保护、加固以及功能性检测方案制定",
-    "分析外挂并设计开发对抗和检测方案"
+    "进行外挂分析，并设计开发对抗和检测方案"
   ],
   "required_skills": [
     {
       "name": "Windows内核",
       "proficiency": "熟悉",
-      "category": "操作系统"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "中断和异常",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "操作系统",
+      "skill_type": "hard",
       "parent": "Windows内核"
     },
     {
       "name": "分页机制",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "操作系统",
+      "skill_type": "hard",
       "parent": "Windows内核"
     },
     {
       "name": "系统服务",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "操作系统",
+      "skill_type": "hard",
       "parent": "Windows内核"
     },
     {
       "name": "IRQL",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "操作系统",
+      "skill_type": "hard",
       "parent": "Windows内核"
     },
     {
       "name": "事件机制",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "操作系统",
+      "skill_type": "hard",
       "parent": "Windows内核"
     },
     {
       "name": "消息机制",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "操作系统",
+      "skill_type": "hard",
       "parent": "Windows内核"
     },
     {
       "name": "内存管理",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "操作系统",
+      "skill_type": "hard",
       "parent": "Windows内核"
     },
     {
       "name": "Windows驱动开发",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "驱动测试",
       "proficiency": "熟悉",
-      "category": "测试工具"
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "驱动部署",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
-      "name": "反外挂方案",
+      "name": "反外挂",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
     },
     {
       "name": "调试工具",
       "proficiency": "熟练",
-      "category": "测试工具"
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool"
     },
     {
       "name": "分析工具",
       "proficiency": "熟练",
-      "category": "测试工具"
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool"
     },
     {
       "name": "汇编语言",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "PE格式",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "逆向分析",
-      "proficiency": "不限",
-      "category": "其他"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
     },
     {
       "name": "数据结构",
       "proficiency": "熟悉",
-      "category": "通用技能"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "哈希算法",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
     },
     {
       "name": "加密算法",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
     },
     {
       "name": "C",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "C++",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Python",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "自驱力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "沟通交流",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队合作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "抗压能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "PC端PVP游戏外挂对抗",
       "proficiency": "不限",
-      "category": "其他"
-    },
-    {
-      "name": "面向对象",
-      "proficiency": "不限",
-      "category": "通用技能"
+      "category": "安全",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

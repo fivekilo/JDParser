@@ -9,6 +9,9 @@
   "headcount": 1,
   "publish_date": "2026-03-06",
   "job_category": "技术-前端及客户端开发-桌面端开发",
+  "job_sub_category": "Windows客户端开发",
+  "job_level": "中级",
+  "company_name": "网易",
   "responsibilities": [
     "参与网易游戏平台产品的设计与研发",
     "参与Windows客户端业务组件化设计与开发",
@@ -18,83 +21,110 @@
     {
       "name": "C++",
       "proficiency": "熟悉",
-      "category": "编程语言"
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
-      "name": "C++ STL",
+      "name": "STL",
       "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
+      "skill_type": "hard",
       "parent": "C++"
     },
     {
       "name": "算法",
       "proficiency": "熟练",
-      "category": "其他"
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "数据结构",
       "proficiency": "熟练",
-      "category": "其他"
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "Windows",
       "proficiency": "熟练",
-      "category": "操作系统"
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "Windows系统编程",
       "proficiency": "熟练",
-      "category": "其他",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard",
       "parent": "Windows"
     },
     {
       "name": "Windows UI消息机制",
       "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "其他",
+      "skill_type": "hard",
       "parent": "Windows"
     },
     {
       "name": "进程间通信",
       "proficiency": "熟练",
-      "category": "其他",
-      "parent": "Windows"
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "TCP/IP",
       "proficiency": "熟悉",
-      "category": "网络"
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
     },
     {
       "name": "HTTP",
       "proficiency": "熟悉",
-      "category": "网络"
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
     },
     {
       "name": "学习能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "沟通能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队合作能力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "DuiLib",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "WinUI",
       "proficiency": "熟悉",
-      "category": "其他"
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "Windows"
     }
   ],
   "raw_requirements": [

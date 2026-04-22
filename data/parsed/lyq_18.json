@@ -4,10 +4,14 @@
   "location": "北京、上海、深圳、杭州",
   "education": "本科",
   "experience": "2年以上",
+  "experience_min": 2,
   "employment_type": "全职",
-  "job_category": "数据处理",
+  "job_category": "大数据",
+  "job_sub_category": "数据仓库",
+  "job_level": "中级",
+  "company_name": "快手",
   "responsibilities": [
-    "设计与开发商业化离线/实时数仓，构建统一数据服务体系",
+    "设计与开发快手商业化离线/实时数仓，构建统一数据服务体系",
     "负责数据采集、清洗、转换（ETL），保障数据质量与时效性",
     "优化数据计算任务性能，提升大数据平台稳定性与处理效率",
     "与数据分析师、算法团队协作，提供数据支持与解决方案",
@@ -17,184 +21,242 @@
     {
       "name": "Java",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Python",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Scala",
       "proficiency": "精通",
-      "category": "编程语言"
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Hadoop",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Spark",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Flink",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Hive",
       "proficiency": "熟练",
-      "category": "数据库"
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "HBase",
       "proficiency": "熟练",
-      "category": "数据库"
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Kafka",
       "proficiency": "熟练",
-      "category": "消息队列"
+      "proficiency_rank": 3,
+      "category": "消息队列",
+      "skill_type": "hard"
     },
     {
       "name": "数据建模",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "ETL",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "数据质量监控",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "Linux",
       "proficiency": "熟悉",
-      "category": "操作系统"
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "Git",
-      "proficiency": "不限",
-      "category": "DevOps工具"
+      "proficiency": "掌握",
+      "category": "版本控制",
+      "skill_type": "hard"
     },
     {
       "name": "Maven",
-      "proficiency": "不限",
-      "category": "DevOps工具"
+      "proficiency": "掌握",
+      "category": "构建工具",
+      "skill_type": "hard"
     },
     {
       "name": "团队协作",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "实时数据处理",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "流计算",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "数据可视化",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "Tableau",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "tool",
+      "skill_type": "tool"
     },
     {
       "name": "FineBI",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "tool",
+      "skill_type": "tool"
     },
     {
       "name": "云原生大数据",
       "proficiency": "了解",
-      "category": "云平台"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "数据中台",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "数据服务化建设",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "数据安全",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard"
     },
     {
       "name": "数据脱敏",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard"
     },
     {
       "name": "数据合规",
       "proficiency": "了解",
-      "category": "其他"
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "广告",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "电商",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "直播",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "数据治理",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "数据质量体系",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "数据服务平台",
       "proficiency": "不限",
-      "category": "数据处理"
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "机器学习",
       "proficiency": "熟悉",
-      "category": "机器学习"
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "特征工程",
       "proficiency": "不限",
-      "category": "机器学习"
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "数据预处理",
       "proficiency": "不限",
-      "category": "数据处理"
-    },
-    {
-      "name": "广告领域数仓建设",
-      "proficiency": "不限",
-      "category": "其他"
-    },
-    {
-      "name": "电商领域数仓建设",
-      "proficiency": "不限",
-      "category": "其他"
-    },
-    {
-      "name": "直播领域数仓建设",
-      "proficiency": "不限",
-      "category": "其他"
+      "category": "数据处理",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

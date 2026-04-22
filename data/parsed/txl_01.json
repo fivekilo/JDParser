@@ -1,13 +1,17 @@
 {
   "source_file": "txl_01.txt",
   "job_title": "Java研发工程师-数据平台",
-  "location": "北京/上海/杭州",
+  "location": "北京/上海/杭州/深圳",
   "education": "本科",
   "experience": "不限",
   "employment_type": "实习",
   "job_category": "后端开发",
+  "job_sub_category": "大数据",
+  "job_level": "初级",
+  "company_name": "字节跳动",
+  "workmode": "混合",
   "responsibilities": [
-    "打造业界PB级OLAP引擎，支撑主要产品线的ETL、湖仓分析场景",
+    "打造业界PB级OLAP引擎，支撑字节跳动主要产品线的ETL、湖仓分析场景",
     "参与Spark、Doris、Presto、Ray、Lance等大数据引擎内核优化",
     "设计和研发大数据查询服务、任务调度系统、异构数据湖统一元数据服务及权限管理服务",
     "参与数据引擎的架构设计、业务场景支持、性能优化与降本、稳定性提升"
@@ -16,154 +20,198 @@
     {
       "name": "Java",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "C++",
       "proficiency": "熟练",
-      "category": "编程语言"
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "数据结构",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "算法",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "多线程编程",
       "proficiency": "不限",
-      "category": "编程语言"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "I/O",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "操作系统",
       "proficiency": "不限",
-      "category": "操作系统"
+      "category": "操作系统",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Spark",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Doris",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "StarRocks",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Presto",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Hive",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Flink",
       "proficiency": "熟悉",
-      "category": "数据处理"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "ClickHouse",
       "proficiency": "熟悉",
-      "category": "数据库"
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
       "name": "Ray",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Lance",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Paimon",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Iceberg",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "Apache Hudi",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "OLAP",
       "proficiency": "了解",
-      "category": "数据处理"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "domain"
     },
     {
       "name": "CBO",
       "proficiency": "了解",
-      "category": "数据处理",
-      "parent": "OLAP"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "向量化执行",
       "proficiency": "了解",
-      "category": "数据处理",
-      "parent": "OLAP"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "物化视图",
       "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "数据库",
-      "parent": "OLAP"
+      "skill_type": "hard"
     },
     {
       "name": "列式存储",
       "proficiency": "了解",
-      "category": "数据处理",
-      "parent": "OLAP"
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Shuffle优化",
       "proficiency": "了解",
-      "category": "数据处理",
-      "parent": "OLAP"
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
-      "name": "开源贡献",
+      "name": "开源大数据组件贡献",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "大数据",
+      "skill_type": "hard"
     },
     {
       "name": "项目经验",
       "proficiency": "不限",
-      "category": "通用技能"
+      "category": "通用技能",
+      "skill_type": "soft"
     },
     {
       "name": "探索欲望",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "自驱力",
       "proficiency": "不限",
-      "category": "软技能"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "raw_requirements": [
