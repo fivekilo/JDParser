@@ -8,12 +8,13 @@ import sys
 from pathlib import Path
 
 from src.core import config
-from src.crawlers import BaiduCrawler, TencentCrawler
+from src.crawlers import BaiduCrawler, MeituanCrawler, TencentCrawler
 
 
 CRAWLER_BY_SITE = {
     "tencent": TencentCrawler,
     "baidu": BaiduCrawler,
+    "meituan": MeituanCrawler,
 }
 
 
@@ -23,7 +24,7 @@ def main() -> None:
         "--site",
         choices=sorted(CRAWLER_BY_SITE),
         default="tencent",
-        help="站点适配器，目前支持 tencent / baidu",
+        help="站点适配器，目前支持 tencent / baidu / meituan",
     )
     parser.add_argument(
         "--root-url",
