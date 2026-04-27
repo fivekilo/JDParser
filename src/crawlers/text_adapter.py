@@ -152,3 +152,37 @@ def format_meituan_raw_text(job: RawJobPosting) -> str:
     _append_section(lines, "任职要求", job.requirements)
 
     return "\n".join(lines).strip() + "\n"
+
+
+def format_jd_raw_text(job: RawJobPosting) -> str:
+    """将京东招聘列表数据格式化为 data/raw 下的 txt 风格文本。"""
+
+    lines: list[str] = [job.title]
+
+    for value in (job.location, job.category, job.experience):
+        if value:
+            lines.append(value)
+
+    meta_lines = []
+    if job.business_group:
+        meta_lines.append(f"业务线：{job.business_group}")
+    if job.product_name:
+        meta_lines.append(f"所属部门：{job.product_name}")
+    if job.company_name:
+        meta_lines.append(f"公司：{job.company_name}")
+    if job.last_update_time:
+        meta_lines.append(f"发布时间：{job.last_update_time}")
+
+    if meta_lines:
+        lines.append("")
+        lines.extend(meta_lines)
+
+    if job.introduction:
+        lines.append("")
+        lines.append("职位介绍")
+        lines.extend(split_numbered_items(job.introduction))
+
+    _append_section(lines, "岗位描述", job.responsibilities)
+    _append_section(lines, "任职要求", job.requirements)
+
+    return "\n".join(lines).strip() + "\n"
